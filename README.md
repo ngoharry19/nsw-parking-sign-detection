@@ -31,20 +31,20 @@ flipud=0.0   # disable vertical flip
 
 ## Figures
 
-![Example images from GSV and field photography](dataset/images/figures/figure_1.png)
+![Example images from GSV and field photography](dataset/images/figures/figure_1.png)  
 Figure 1. Example of images from GSV (left) and field photography (right). 
 
-![Annotated parking sign image showing the four bounding box categories](dataset/images/figures/figure_2.png)
+![Annotated parking sign image showing the four bounding box categories](dataset/images/figures/figure_2.png)  
 Figure 2. Annotated parking sign image alongside the four bounding box categories.
 
-![End-to-end workflow of the pipeline for interpretation of parking signs](dataset/images/figures/figure_3.png)
+![End-to-end workflow of the pipeline for interpretation of parking signs](dataset/images/figures/figure_3.png)  
 Figure 3. End-to-end workflow of the pipeline for interpretation of parking signs.
 
-![Example parking sign with cropped text regions](dataset/images/figures/figure_4.png)
+![Example parking sign with cropped text regions](dataset/images/figures/figure_4.png)  
 Figure 4. Example parking sign with cropped text regions.
 
-![Example of plain PaddleOCR text, confidence and bounding box output](dataset/images/figures/figure_5.png)
+![Example of plain PaddleOCR text, confidence and bounding box output](dataset/images/figures/figure_5.png)  
 Figure 5. Example of plain PaddleOCR text, confidence and bounding box output.
 
-![Some examples of NSW parking-related signs in scope for this project](dataset/images/figures/figure_6.png)
+![Some examples of NSW parking-related signs in scope for this project](dataset/images/figures/figure_6.png)  
 Figure 6. Some examples of NSW parking-related signs in scope for this project ([Transport for NSW](https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/parking)).
