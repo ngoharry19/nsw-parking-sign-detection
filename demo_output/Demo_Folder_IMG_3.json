@@ -1,0 +1,49 @@
+{
+  "image_id": "Demo_Folder_IMG_3.jpg",
+  "image_path": "demo/image_folder/Demo_Folder_IMG_3.jpg",
+  "num_signs": 2,
+  "signs": [
+    {
+      "sign_id": 1,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "TIME",
+      "permit_zone": "AREA 22",
+      "notes": "PERMIT HOLDERS EXCEPTED",
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": "2P",
+          "days": [],
+          "time_start": "08:00",
+          "time_end": "22:00",
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22",
+      "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22",
+      "source_crop": "Demo_Folder_IMG_3_crop1.png"
+    },
+    {
+      "sign_id": 2,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "DISABLED PARKING",
+      "permit_zone": null,
+      "notes": null,
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": null,
+          "days": [],
+          "time_start": null,
+          "time_end": null,
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "P E",
+      "clean_text": "P E",
+      "source_crop": "Demo_Folder_IMG_3_crop2.png"
+    }
+  ]
+}

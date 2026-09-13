@@ -1,0 +1,13 @@
+{
+  "image_id": "IMG_166",
+  "crop_id": 1,
+  "bbox": [
+    1471,
+    1191,
+    1997,
+    1600
+  ],
+  "score": 0.86511,
+  "crop_file": "IMG_166_crop1.png",
+  "gt_file": "IMG_166_crop1.txt"
+}

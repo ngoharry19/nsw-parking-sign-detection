@@ -1,0 +1,6785 @@
+{
+  "IMG_012_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "NO"
+    ],
+    "scores": [
+      0.9997264742851257,
+      0.9972198009490967
+    ],
+    "merged_text": "STOPPING NO",
+    "which_version": "original",
+    "metric_original": 1.0984731376171113,
+    "metric_enhanced": 0.7805289536714554,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_012_crop1.png": {
+    "texts": [
+      "1P",
+      "9-08",
+      "PM",
+      "MON-FRI",
+      "830-12",
+      "30",
+      "PM",
+      "SAT"
+    ],
+    "scores": [
+      0.9987432956695557,
+      0.8024798631668091,
+      0.9998284578323364,
+      0.9825867414474487,
+      0.9886892437934875,
+      0.999221682548523,
+      0.9986372590065002,
+      0.9990162253379822
+    ],
+    "merged_text": "1P 9-08 PM MON-FRI 830-12 30 PM SAT",
+    "which_version": "original",
+    "metric_original": 1.3711503461003303,
+    "metric_enhanced": 1.2490436792373658,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "1P 9PM-08PM MON-FRI 830 12 30 PM SAT",
+    "clean_text": "1P 9PM-08PM MON-FRI 830 12 30 PM SAT",
+    "clean_tokens": [
+      "1P",
+      "9PM-08PM",
+      "MON-FRI",
+      "830",
+      "12",
+      "30",
+      "PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_013_crop0.png": {
+    "texts": [
+      "IP",
+      "30-6",
+      "0",
+      "PM",
+      "MON-FRI",
+      "330-12",
+      "30",
+      "PM"
+    ],
+    "scores": [
+      0.9189177751541138,
+      0.8540211915969849,
+      0.5647741556167603,
+      0.9997096061706543,
+      0.9967184662818909,
+      0.8868856430053711,
+      0.9630051851272583,
+      0.9978654980659485
+    ],
+    "merged_text": "IP 30-6 0 PM MON-FRI 330-12 30 PM",
+    "which_version": "original",
+    "metric_original": 1.2977371901273727,
+    "metric_enhanced": 1.2582981603486199,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "1P 30-6 0 PM MON-FRI 330 12 30 PM",
+    "clean_text": "1P 30-6 0 PM MON-FRI 330 12 30 PM",
+    "clean_tokens": [
+      "1P",
+      "30-6",
+      "0",
+      "PM",
+      "MON-FRI",
+      "330",
+      "12",
+      "30",
+      "PM"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_013_crop1.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9991973638534546,
+      0.9993743896484375
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.0992858767509461,
+    "metric_enhanced": 1.0959096610546113,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_014_crop0.png": {
+    "texts": [
+      "ON",
+      "STOPPIN"
+    ],
+    "scores": [
+      0.9978916645050049,
+      0.9981640577316284
+    ],
+    "merged_text": "ON STOPPIN",
+    "which_version": "enhanced",
+    "metric_original": 1.0776261746883393,
+    "metric_enhanced": 1.0980278611183167,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPIN": "STOPPING"
+    }
+  },
+  "IMG_016_crop0.png": {
+    "texts": [
+      "1P",
+      "8",
+      "30",
+      "6",
+      "00",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "8",
+      "30",
+      "4",
+      "00",
+      "AM",
+      "PM",
+      "SATURDAY"
+    ],
+    "scores": [
+      0.9996289014816284,
+      0.9997038245201111,
+      0.9993593692779541,
+      0.9998949766159058,
+      0.9905449151992798,
+      0.999866247177124,
+      0.9998408555984497,
+      0.9386141896247864,
+      0.9996551275253296,
+      0.9994804859161377,
+      0.9999023675918579,
+      0.9874539375305176,
+      0.9998797178268433,
+      0.9998733997344971,
+      0.9998449087142944
+    ],
+    "merged_text": "1P 8 30 6 00 AM PM MON - FRI 8 30 4 00 AM PM SATURDAY",
+    "which_version": "original",
+    "metric_original": 1.7442362149556478,
+    "metric_enhanced": 1.7046806772549947,
+    "gt_lines": [
+      "1P",
+      "830AM-600PM",
+      "MON-FRI",
+      "830AM-400PM",
+      "SATURDAY"
+    ],
+    "gt_merged": "1P 830AM-600PM MON-FRI 830AM-400PM SATURDAY",
+    "normalized_text": "1P 8:30AM-6:00PM MON-FRI 8:30AM-4:00PM SAT",
+    "clean_text": "1P 8:30AM-6:00PM MON-FRI 8:30AM-4:00PM SAT",
+    "clean_tokens": [
+      "1P",
+      "8:30AM-6:00PM",
+      "MON",
+      "-",
+      "FRI",
+      "8:30AM-4:00PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_016_crop1.png": {
+    "texts": [
+      "STOPPING",
+      "NO"
+    ],
+    "scores": [
+      0.9997080564498901,
+      0.9977719783782959
+    ],
+    "merged_text": "STOPPING NO",
+    "which_version": "original",
+    "metric_original": 1.098740017414093,
+    "metric_enhanced": 0.7503222733736038,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_016_crop2.png": {
+    "texts": [
+      "NvL",
+      "HOMME CERTIFIERS",
+      "RESICENTIAL&",
+      "DOMERCLAL APPROYAL",
+      "CDC.CC.OC",
+      "Building Senvices, Consuiting",
+      "Desigs.Management"
+    ],
+    "scores": [
+      0.3431020975112915,
+      0.980247974395752,
+      0.8684524893760681,
+      0.841245174407959,
+      0.9803864359855652,
+      0.9490447640419006,
+      0.9619936347007751
+    ],
+    "merged_text": "NvL HOMME CERTIFIERS RESICENTIAL& DOMERCLAL APPROYAL CDC.CC.OC Building Senvices, Consuiting Desigs.Management",
+    "which_version": "original",
+    "metric_original": 1.1963532243456159,
+    "metric_enhanced": 1.1477258533239365,
+    "gt_lines": [],
+    "gt_merged": "",
+    "normalized_text": "NVL HOMME CERTIFIERS RESICENTIAL DOMERCLAL APPROYAL CDC.CC.OC BUILDING SENVICES, CONSUITING DESIGS.MANAGEMENT",
+    "clean_text": "NVL HOMME CERTIFIERS RESICENTIAL DOMERCLAL APPROYAL CDC.CC.OC BUILDING SENVICES, CONSUITING DESIGS.MANAGEMENT",
+    "clean_tokens": [
+      "NVL",
+      "HOMME",
+      "CERTIFIERS",
+      "RESICENTIAL",
+      "DOMERCLAL",
+      "APPROYAL",
+      "CDC.CC.OC",
+      "BUILDING",
+      "SENVICES,",
+      "CONSUITING",
+      "DESIGS.MANAGEMENT"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_017_crop0.png": {
+    "texts": [
+      "1P",
+      "830 -6 ",
+      "MON - FRI",
+      "830 -4P",
+      "SAT"
+    ],
+    "scores": [
+      0.9995394349098206,
+      0.7361726760864258,
+      0.9783167243003845,
+      0.7506553530693054,
+      0.999588668346405
+    ],
+    "merged_text": "1P 830 -6  MON - FRI 830 -4P SAT",
+    "which_version": "original",
+    "metric_original": 1.1428545713424683,
+    "metric_enhanced": 1.150301992893219,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT",
+    "normalized_text": "1P 8:30-6 MON-FRI 8:30-4P SAT",
+    "clean_text": "1P 8:30-6 MON-FRI 8:30-4P SAT",
+    "clean_tokens": [
+      "1P",
+      "8:30-6",
+      "MON",
+      "-",
+      "FRI",
+      "8:30",
+      "-",
+      "4P",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_018_crop0.png": {
+    "texts": [
+      "TP",
+      "30",
+      "6",
+      "00",
+      "-",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "30",
+      "4",
+      "00",
+      "-",
+      ":",
+      "PM",
+      "AM",
+      "SATURDAYS"
+    ],
+    "scores": [
+      0.8173507452011108,
+      0.9914465546607971,
+      0.999725878238678,
+      0.9133825898170471,
+      0.9320317506790161,
+      0.9997866153717041,
+      0.9998096227645874,
+      0.9341861009597778,
+      0.9966766834259033,
+      0.9998281002044678,
+      0.71002197265625,
+      0.6473917961120605,
+      0.8887584805488586,
+      0.9998509883880615,
+      0.9996098279953003,
+      0.9998800754547119
+    ],
+    "merged_text": "TP 30 6 00 - AM PM MON - FRI 30 4 00 - : PM AM SATURDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.7072293162345886,
+    "metric_enhanced": 1.7268586114048958,
+    "gt_lines": [
+      "1P",
+      "830AM-600PM",
+      "MON-FRI",
+      "830AM-400PM",
+      "SATURDAYS"
+    ],
+    "gt_merged": "1P 830AM-600PM MON-FRI 830AM-400PM SATURDAYS",
+    "normalized_text": "1P 30 6:00 - AM PM MON-FRI 30 4:00 - : PM AM SAT",
+    "clean_text": "1P 30 6:00 - AM PM MON-FRI 30 4:00 - : PM AM SAT",
+    "clean_tokens": [
+      "1P",
+      "30",
+      "6:00",
+      "-",
+      "AM",
+      "PM",
+      "MON",
+      "-",
+      "FRI",
+      "30",
+      "4:00",
+      "-",
+      ":",
+      "PM",
+      "AM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_019_crop0.png": {
+    "texts": [
+      "1P",
+      "8",
+      "30",
+      "-",
+      "6",
+      "00",
+      "AM",
+      "PM",
+      "MON",
+      "-FRI",
+      "30",
+      "00",
+      "4",
+      "00",
+      "I",
+      "AM",
+      "PM",
+      "SATURDAYS"
+    ],
+    "scores": [
+      0.9021766185760498,
+      0.7991266846656799,
+      0.9984842538833618,
+      0.9727655649185181,
+      0.9998818635940552,
+      0.9603695869445801,
+      0.8476864099502563,
+      0.9998518228530884,
+      0.9993670582771301,
+      0.9817039370536804,
+      0.997813880443573,
+      0.6413846611976624,
+      0.9998742341995239,
+      0.9897974729537964,
+      0.4843110740184784,
+      0.9998455047607422,
+      0.9998785257339478,
+      0.9998295307159424
+    ],
+    "merged_text": "1P 8 30 - 6 00 AM PM MON -FRI 30 00 4 00 I AM PM SATURDAYS",
+    "which_version": "original",
+    "metric_original": 1.8207860380411147,
+    "metric_enhanced": 1.6835149844487507,
+    "gt_lines": [
+      "1P",
+      "830AM-600PM",
+      "MON-FRI",
+      "830AM-400PM",
+      "SATURDAYS"
+    ],
+    "gt_merged": "1P 830AM-600PM MON-FRI 830AM-400PM SATURDAYS",
+    "normalized_text": "1P 8:30AM-6:00PM MON-FRI 30 00 4:00 I AM PM SAT",
+    "clean_text": "1P 8:30AM-6:00PM MON-FRI 30 00 4:00 I AM PM SAT",
+    "clean_tokens": [
+      "1P",
+      "8:30AM-6:00PM",
+      "MON",
+      "-",
+      "FRI",
+      "30",
+      "00",
+      "4:00",
+      "I",
+      "AM",
+      "PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_021_crop0.png": {
+    "texts": [
+      "TOPPING",
+      "NO"
+    ],
+    "scores": [
+      0.9996033310890198,
+      0.9979060292243958
+    ],
+    "merged_text": "TOPPING NO",
+    "which_version": "original",
+    "metric_original": 1.0987546801567079,
+    "metric_enhanced": 1.0991058111190797,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_021_crop1.png": {
+    "texts": [
+      "1P",
+      "830 -6",
+      "PM",
+      "MON - FRI",
+      "830-4",
+      "PM",
+      "SAT"
+    ],
+    "scores": [
+      0.9992202520370483,
+      0.6583037376403809,
+      0.999661922454834,
+      0.9791304469108582,
+      0.8756095170974731,
+      0.9999415278434753,
+      0.99708491563797
+    ],
+    "merged_text": "1P 830 -6 PM MON - FRI 830-4 PM SAT",
+    "which_version": "original",
+    "metric_original": 1.279850331374577,
+    "metric_enhanced": 1.192505327292851,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT",
+    "normalized_text": "1P 8:30-6 MON-FRI 8:30AM-4PM SAT",
+    "clean_text": "1P 8:30-6 MON-FRI 8:30AM-4PM SAT",
+    "clean_tokens": [
+      "1P",
+      "8:30-6",
+      "MON",
+      "-",
+      "FRI",
+      "8:30AM-4PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_032_crop0.png": {
+    "texts": [
+      "MON",
+      "38",
+      "-FRI",
+      "0",
+      "4",
+      "Mh",
+      "P",
+      "M"
+    ],
+    "scores": [
+      0.9993910789489746,
+      0.44421443343162537,
+      0.9423435926437378,
+      0.4609404504299164,
+      0.5047954320907593,
+      0.3194466233253479,
+      0.9941786527633667,
+      0.5927860736846924
+    ],
+    "merged_text": "MON 38 -FRI 0 4 Mh P M",
+    "which_version": "original",
+    "metric_original": 1.0572620421648025,
+    "metric_enhanced": 0.929051939646403,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT",
+    "normalized_text": "MON 38 - FRI 0 4 MH PM",
+    "clean_text": "MON 38 - FRI 0 4 MH PM",
+    "clean_tokens": [
+      "MON",
+      "38",
+      "-",
+      "FRI",
+      "0",
+      "4",
+      "MH",
+      "PM"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_042_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "30 MINUTE",
+      "7M-4",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.999844491481781,
+      0.9994829297065735,
+      0.9798769354820251,
+      0.7379607558250427,
+      0.9995657205581665
+    ],
+    "merged_text": "LOADING ZONE 30 MINUTE 7M-4 MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.1933461666107177,
+    "metric_enhanced": 1.1683820724487304,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "30 MINUTE",
+      "7AM-4PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 30 MINUTE 7AM-4PM MON-FRI",
+    "normalized_text": "LOADING ZONE 30 MINUTE 7AM-4 MON-FRI",
+    "clean_text": "LOADING ZONE 30 MINUTE 7AM-4 MON-FRI",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "30",
+      "MINUTE",
+      "7AM-4",
+      "MON-FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_042_crop1.png": {
+    "texts": [
+      "2P",
+      "METER",
+      "7au-10pu",
+      "SAT &SUN"
+    ],
+    "scores": [
+      0.9990009665489197,
+      0.9998213648796082,
+      0.7300459742546082,
+      0.9926173686981201
+    ],
+    "merged_text": "2P METER 7au-10pu SAT &SUN",
+    "which_version": "original",
+    "metric_original": 1.130371418595314,
+    "metric_enhanced": 1.0063547015190124,
+    "gt_lines": [
+      "2P",
+      "METER",
+      "7AM-10PM",
+      "SAT&SUN"
+    ],
+    "gt_merged": "2P METER 7AM-10PM SAT&SUN",
+    "normalized_text": "2P METER 7AM-10PM SAT-SUN",
+    "clean_text": "2P METER 7AM-10PM SAT-SUN",
+    "clean_tokens": [
+      "2P",
+      "METER",
+      "7AM-10PM",
+      "SAT-SUN"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_045_crop0.png": {
+    "texts": [
+      "2P",
+      "METER",
+      "AM-10",
+      "MON-SUN"
+    ],
+    "scores": [
+      0.9980235695838928,
+      0.9997650384902954,
+      0.9717068672180176,
+      0.9962148666381836
+    ],
+    "merged_text": "2P METER AM-10 MON-SUN",
+    "which_version": "original",
+    "metric_original": 1.1914275854825973,
+    "metric_enhanced": 1.1813298434019088,
+    "gt_lines": [
+      "2P",
+      "METER",
+      "7AM-10PM",
+      "MON-SUN"
+    ],
+    "gt_merged": "2P METER 7AM-10PM MON-SUN",
+    "normalized_text": "2P METER AM 10 MON-SUN",
+    "clean_text": "2P METER AM 10 MON-SUN",
+    "clean_tokens": [
+      "2P",
+      "METER",
+      "AM",
+      "10",
+      "MON-SUN"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_048_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "30 MINUTE",
+      "7AM-1O",
+      "MON-FRI",
+      "PM"
+    ],
+    "scores": [
+      0.9984159469604492,
+      0.9990423917770386,
+      0.9585774540901184,
+      0.8989996910095215,
+      0.9991188645362854,
+      0.9117128252983093
+    ],
+    "merged_text": "LOADING ZONE 30 MINUTE 7AM-1O MON-FRI PM",
+    "which_version": "enhanced",
+    "metric_original": 1.189672154188156,
+    "metric_enhanced": 1.2609778622786205,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "30 MINUTE",
+      "7AM-10PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 30 MINUTE 7AM-10PM MON-FRI",
+    "normalized_text": "LOADING ZONE 30 MINUTE 7AM-10PM MON-FRI",
+    "clean_text": "LOADING ZONE 30 MINUTE 7AM-10PM MON-FRI",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "30",
+      "MINUTE",
+      "7AM-10PM",
+      "MON-FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_050_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9974876642227173,
+      0.9992978572845459
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0983927607536317,
+    "metric_enhanced": 1.0991652071475984,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_053_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPINC",
+      "TAKIS",
+      "EXCEPTED",
+      "(LIMIT 1 MINUTE"
+    ],
+    "scores": [
+      0.9897985458374023,
+      0.9255819916725159,
+      0.9768573045730591,
+      0.9812467098236084,
+      0.9594132304191589
+    ],
+    "merged_text": "NO STOPPINC TAKIS EXCEPTED (LIMIT 1 MINUTE",
+    "which_version": "original",
+    "metric_original": 1.216579556465149,
+    "metric_enhanced": 1.186057412624359,
+    "gt_lines": [
+      "NO",
+      "STOPPING",
+      "TAXIS",
+      "EXCEPTED",
+      "(LIMIT 1 MINUTE)"
+    ],
+    "gt_merged": "NO STOPPING TAXIS EXCEPTED (LIMIT 1 MINUTE)",
+    "normalized_text": "NO STOPPING TAXIS EXCEPTED LIMIT 1 MINUTE",
+    "clean_text": "NO STOPPING TAXIS EXCEPTED LIMIT 1 MINUTE",
+    "clean_tokens": [
+      "NO",
+      "STOPPING",
+      "TAXIS",
+      "EXCEPTED",
+      "LIMIT",
+      "1",
+      "MINUTE"
+    ],
+    "token_corrections": {
+      "STOPPINC": "STOPPING",
+      "TAKIS": "TAXIS",
+      "(LIMIT": "LIMIT"
+    }
+  },
+  "IMG_053_crop1.png": {
+    "texts": [
+      "C",
+      "SPECIAL",
+      "EVENT",
+      "CLEARWAY",
+      "MID",
+      "10",
+      "C",
+      "LIGHT",
+      "AM",
+      "31",
+      "AUG",
+      "RTA",
+      "o",
+      "132",
+      "701 $UN",
+      "PPLY",
+      "ALl",
+      "OTHER",
+      "TIMES"
+    ],
+    "scores": [
+      0.9241359829902649,
+      0.9997747540473938,
+      0.998879611492157,
+      0.9992501139640808,
+      0.999565601348877,
+      0.997968852519989,
+      0.8762228488922119,
+      0.9253531694412231,
+      0.9997093677520752,
+      0.9993822574615479,
+      0.9999251365661621,
+      0.9995856285095215,
+      0.4194793999195099,
+      0.9998871684074402,
+      0.8719444274902344,
+      0.9294432997703552,
+      0.7740523219108582,
+      0.9974091649055481,
+      0.899017333984375
+    ],
+    "merged_text": "C SPECIAL EVENT CLEARWAY MID 10 C LIGHT AM 31 AUG RTA o 132 701 $UN PPLY ALl OTHER TIMES",
+    "which_version": "original",
+    "metric_original": 1.8768940232302014,
+    "metric_enhanced": 1.5134527130560442,
+    "gt_lines": [
+      "C",
+      "SPECIAL EVENT",
+      "CLEARWAY",
+      "MIDNIGHT-10AM",
+      "RTA 132701 SUN 31 AUG",
+      "NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIMES"
+    ],
+    "gt_merged": "C SPECIAL EVENT CLEARWAY MIDNIGHT-10AM RTA 132701 SUN 31 AUG NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIMES",
+    "normalized_text": "C SPECIAL EVENT CLEARWAY MID 10 C NIGHT AM 31 AM RTA 0 1:32-7:01 $UN APPLY ALL OTHER TIMES",
+    "clean_text": "C SPECIAL EVENT CLEARWAY MID 10 C NIGHT AM 31 AM RTA 0 1:32-7:01 $UN APPLY ALL OTHER TIMES",
+    "clean_tokens": [
+      "C",
+      "SPECIAL",
+      "EVENT",
+      "CLEARWAY",
+      "MID",
+      "10",
+      "C",
+      "NIGHT",
+      "AM",
+      "31",
+      "AM",
+      "RTA",
+      "0",
+      "1:32-7:01",
+      "$UN",
+      "APPLY",
+      "ALL",
+      "OTHER",
+      "TIMES"
+    ],
+    "token_corrections": {
+      "O": "0",
+      "LIGHT": "NIGHT",
+      "AMG": "AM",
+      "PPLY": "APPLY"
+    }
+  },
+  "IMG_053_crop2.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM",
+      "6",
+      "PM",
+      "MON",
+      "FRI",
+      "6-10",
+      "AM",
+      "SAT"
+    ],
+    "scores": [
+      0.9995993971824646,
+      0.9996969699859619,
+      0.9997110366821289,
+      0.938460111618042,
+      0.9999294281005859,
+      0.9993335008621216,
+      0.9997807145118713,
+      0.9919912219047546,
+      0.9994001388549805,
+      0.9990976452827454,
+      0.9936844706535339
+    ],
+    "merged_text": "LOADING ZONE TICKET 6AM 6 PM MON FRI 6-10 AM SAT",
+    "which_version": "original",
+    "metric_original": 1.5427895123308355,
+    "metric_enhanced": 1.54147367477417,
+    "gt_lines": [
+      "LOADING ZONE",
+      "TICKET",
+      "6AM-6PM",
+      "MON-FRI",
+      "6-10AM",
+      "SAT"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6-10AM SAT",
+    "normalized_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "clean_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM-6PM",
+      "MON-FRI",
+      "6AM-10AM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_053_crop3.png": {
+    "texts": [
+      "TICKET",
+      "10AM-6",
+      "PM",
+      "SAT",
+      "8AM-6",
+      "PM",
+      "UN & PUBLIC",
+      "HOLDAYS"
+    ],
+    "scores": [
+      0.9994649291038513,
+      0.9004309773445129,
+      0.7646780610084534,
+      0.9912688136100769,
+      0.7745348811149597,
+      0.8770335912704468,
+      0.9448418021202087,
+      0.9717324376106262
+    ],
+    "merged_text": "TICKET 10AM-6 PM SAT 8AM-6 PM UN & PUBLIC HOLDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.2529919930866786,
+    "metric_enhanced": 1.302998186647892,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "10AM-6PM",
+      "SAT",
+      "8AM-6PM",
+      "SUN & PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 10AM-6PM SAT 8AM-6PM SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "TICKET 10AM-6PM SAT 8AM-6PM SUN PUBLIC HOLIDAYS",
+    "clean_text": "TICKET 10AM-6PM SAT 8AM-6PM SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "TICKET",
+      "10AM-6PM",
+      "SAT",
+      "8AM-6PM",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC",
+      "HOLDAYS": "HOLIDAYS"
+    }
+  },
+  "IMG_053_crop4.png": {
+    "texts": [
+      "BUS",
+      "6",
+      "-6",
+      "ZONE",
+      "PM",
+      "7 DAYS"
+    ],
+    "scores": [
+      0.999822199344635,
+      0.9999850988388062,
+      0.9510035514831543,
+      0.9995542168617249,
+      0.9998241662979126,
+      0.999495804309845
+    ],
+    "merged_text": "BUS 6 -6 ZONE PM 7 DAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.1705874919891357,
+    "metric_enhanced": 1.291614172856013,
+    "gt_lines": [
+      "BUS 6PM-6AM",
+      "ZONE 7 DAYS"
+    ],
+    "gt_merged": "BUS 6PM-6AM ZONE 7 DAYS",
+    "normalized_text": "BUS 6-6 ZONE PM 7 DAYS",
+    "clean_text": "BUS 6-6 ZONE PM 7 DAYS",
+    "clean_tokens": [
+      "BUS",
+      "6-6",
+      "ZONE",
+      "PM",
+      "7",
+      "DAYS"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_054_crop0.png": {
+    "texts": [
+      "TOPPING",
+      "O"
+    ],
+    "scores": [
+      0.9695952534675598,
+      0.6634973883628845
+    ],
+    "merged_text": "TOPPING O",
+    "which_version": "enhanced",
+    "metric_original": 0.7822997480630874,
+    "metric_enhanced": 0.9165463209152221,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "STOPPING 0",
+    "clean_text": "STOPPING 0",
+    "clean_tokens": [
+      "STOPPING",
+      "0"
+    ],
+    "token_corrections": {
+      "O": "0",
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_054_crop1.png": {
+    "texts": [
+      "A",
+      "N",
+      "FRI",
+      "0",
+      "LOADING",
+      "6",
+      "TICKET",
+      "ZONE",
+      "SAT",
+      "MON-",
+      "AA",
+      "AM"
+    ],
+    "scores": [
+      0.524166464805603,
+      0.7011805176734924,
+      0.9995050430297852,
+      0.3950866758823395,
+      0.9992559552192688,
+      0.9696664810180664,
+      0.9991202354431152,
+      0.999536395072937,
+      0.9985381960868835,
+      0.9974772930145264,
+      0.8637264966964722,
+      0.9994543790817261
+    ],
+    "merged_text": "A N FRI 0 LOADING 6 TICKET ZONE SAT MON- AA AM",
+    "which_version": "enhanced",
+    "metric_original": 1.4170798693384443,
+    "metric_enhanced": 1.4705595110853515,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM-6PM",
+      "MON-FRI",
+      "6AM-10AM",
+      "SAT"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "normalized_text": "A N FRI 0 LOADING 6 TICKET ZONE MON-SAT - AA AM",
+    "clean_text": "A N FRI 0 LOADING 6 TICKET ZONE MON-SAT - AA AM",
+    "clean_tokens": [
+      "A",
+      "N",
+      "FRI",
+      "0",
+      "LOADING",
+      "6",
+      "TICKET",
+      "ZONE",
+      "MON-SAT",
+      "-",
+      "AA",
+      "AM"
+    ],
+    "token_corrections": {
+      "reversed_day_ranges": [
+        {
+          "original": "SAT-MON",
+          "canonical": "MON-SAT",
+          "wrap": true
+        }
+      ],
+      "FRII": "FRI"
+    }
+  },
+  "IMG_054_crop2.png": {
+    "texts": [
+      "TICKET",
+      "6",
+      "-",
+      "12",
+      "PM",
+      "AM",
+      "MON",
+      "FRI",
+      "10",
+      "10",
+      "-",
+      "AM",
+      "PM",
+      "SAT",
+      "8",
+      "10",
+      "AM",
+      "PM",
+      "N",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9994261860847473,
+      0.9998973608016968,
+      0.6687448024749756,
+      0.9994063973426819,
+      0.9998415112495422,
+      0.9998612403869629,
+      0.9997612833976746,
+      0.9991931915283203,
+      0.9944745898246765,
+      0.9922472238540649,
+      0.9098045229911804,
+      0.9998401403427124,
+      0.9997048377990723,
+      0.9997076988220215,
+      0.9995840191841125,
+      0.9972335696220398,
+      0.9998651742935181,
+      0.9998661279678345,
+      0.9915265440940857,
+      0.9997685551643372,
+      0.9994588494300842,
+      0.9993955492973328
+    ],
+    "merged_text": "TICKET 6 - 12 PM AM MON FRI 10 10 - AM PM SAT 8 10 AM PM N & PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 2.0794822443615306,
+    "metric_enhanced": 1.9817312359809875,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-12AM",
+      "MON-FRI",
+      "10AM-10PM",
+      "SAT",
+      "8AM-10PM",
+      "SUN & PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-12AM MON-FRI 10AM-10PM SAT 8AM-10PM SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "TICKET 6PM-12AM MON-FRI 10AM-10PM SAT 8AM-10PM N PUBLIC HOLIDAYS",
+    "clean_text": "TICKET 6PM-12AM MON-FRI 10AM-10PM SAT 8AM-10PM N PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "TICKET",
+      "6PM-12AM",
+      "MON-FRI",
+      "10AM-10PM",
+      "SAT",
+      "8AM-10PM",
+      "N",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_054_crop3.png": {
+    "texts": [
+      "RETRCOUMES",
+      "AAU",
+      "LE",
+      "PARKING",
+      "NOS",
+      "AM",
+      "AA",
+      "OL",
+      "LOL",
+      "122",
+      "MIIIL",
+      "AA",
+      "LEENNT",
+      "DECELLL"
+    ],
+    "scores": [
+      0.6252833008766174,
+      0.48947811126708984,
+      0.9621220231056213,
+      0.8988590240478516,
+      0.8272021412849426,
+      0.3910983204841614,
+      0.7245282530784607,
+      0.8522628545761108,
+      0.8985977172851562,
+      0.5819277167320251,
+      0.30718496441841125,
+      0.6110918521881104,
+      0.3953070342540741,
+      0.36458268761634827
+    ],
+    "merged_text": "RETRCOUMES AAU LE PARKING NOS AM AA OL LOL 122 MIIIL AA LEENNT DECELLL",
+    "which_version": "original",
+    "metric_original": 1.3378232858010701,
+    "metric_enhanced": 1.2223982572555543,
+    "gt_lines": [
+      "C SPECIAL EVENT",
+      "CLEARWAY",
+      "RTA 132701",
+      "MIDNIGHT-10AM",
+      "SUN 31 AUG",
+      "NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIMES",
+      "LOADING",
+      "ZONE",
+      "TICK",
+      "6"
+    ],
+    "gt_merged": "C SPECIAL EVENT CLEARWAY RTA 132701 MIDNIGHT-10AM SUN 31 AUG NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIMES LOADING ZONE TICK 6",
+    "normalized_text": "RETRCOUMES AM LE PARKING NOS AM AA OL LOL 1:22 MIIIL AA LEENNT DECELLL",
+    "clean_text": "RETRCOUMES AM LE PARKING NOS AM AA OL LOL 1:22 MIIIL AA LEENNT DECELLL",
+    "clean_tokens": [
+      "RETRCOUMES",
+      "AM",
+      "LE",
+      "PARKING",
+      "NOS",
+      "AM",
+      "AA",
+      "OL",
+      "LOL",
+      "1:22",
+      "MIIIL",
+      "AA",
+      "LEENNT",
+      "DECELLL"
+    ],
+    "token_corrections": {
+      "AAM": "AM"
+    }
+  },
+  "IMG_059_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "-3",
+      "1O",
+      "AM",
+      "PM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9998354315757751,
+      0.999840259552002,
+      0.9998016357421875,
+      0.974533200263977,
+      0.6912100911140442,
+      0.9997332096099854,
+      0.9999139904975891,
+      0.9487857818603516
+    ],
+    "merged_text": "LOADING ZONE TICKET -3 1O AM PM MON - FRI",
+    "which_version": "enhanced",
+    "metric_original": 1.3394923150539397,
+    "metric_enhanced": 1.351706700026989,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM-3PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 6AM-3PM MON-FRI",
+    "normalized_text": "LOADING ZONE TICKET-3AM-10PM MON-FRI",
+    "clean_text": "LOADING ZONE TICKET-3AM-10PM MON-FRI",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "-",
+      "3AM-10PM",
+      "MON",
+      "-",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_059_crop1.png": {
+    "texts": [
+      "4P",
+      "TICKET",
+      "8",
+      "MID",
+      "PM",
+      "NIGHT",
+      "MON- FRI",
+      "8",
+      "10",
+      "-",
+      "AM",
+      "PM",
+      "SAT - SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9983171224594116,
+      0.9996917247772217,
+      0.9997575879096985,
+      0.99971604347229,
+      0.9998264312744141,
+      0.9998468160629272,
+      0.9886527061462402,
+      0.9992628693580627,
+      0.9799136519432068,
+      0.9554253816604614,
+      0.9999390840530396,
+      0.9999110102653503,
+      0.964611291885376,
+      0.9997715950012207,
+      0.9992395043373108
+    ],
+    "merged_text": "4P TICKET 8 MID PM NIGHT MON- FRI 8 10 - AM PM SAT - SUN PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.742258854707082,
+    "metric_enhanced": 1.4841056509451434,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "8PM-MIDNIGHT",
+      "MON-FRI",
+      "8AM-10PM",
+      "SAT-SUN",
+      "& PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 8PM-MIDNIGHT MON-FRI 8AM-10PM SAT-SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "4P TICKET 8 MID PM NIGHT MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_text": "4P TICKET 8 MID PM NIGHT MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "4P",
+      "TICKET",
+      "8",
+      "MID",
+      "PM",
+      "NIGHT",
+      "MON",
+      "-",
+      "FRI",
+      "8AM-10PM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_059_crop2.png": {
+    "texts": [
+      "8",
+      "PN",
+      "PM",
+      "- FRI",
+      "MON"
+    ],
+    "scores": [
+      0.9995526671409607,
+      0.9863228797912598,
+      0.9999361634254456,
+      0.9429486393928528,
+      0.9993422031402588
+    ],
+    "merged_text": "8 PN PM - FRI MON",
+    "which_version": "original",
+    "metric_original": 1.2356205105781555,
+    "metric_enhanced": 1.1344677845637003,
+    "gt_lines": [
+      "3PM-8PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "3PM-8PM MON-FRI",
+    "normalized_text": "8 PN PM-FRI-MON",
+    "clean_text": "8 PN PM-FRI-MON",
+    "clean_tokens": [
+      "8",
+      "PN",
+      "PM",
+      "-",
+      "FRI-MON"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_060_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9989327788352966,
+      0.9994934797286987
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.0709050059318543,
+    "metric_enhanced": 1.0992131292819978,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_060_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9985338449478149,
+      0.9996764659881592
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0991051554679871,
+    "metric_enhanced": 1.0994758367538453,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_068_crop0.png": {
+    "texts": [
+      "2P",
+      "9Am-6",
+      "PM",
+      "MON - SAT",
+      "&",
+      "HOLIDAYS",
+      "PUBLIC",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "13"
+    ],
+    "scores": [
+      0.9909229278564453,
+      0.7897998094558716,
+      0.9997917413711548,
+      0.8970681428909302,
+      0.9843536615371704,
+      0.9994261264801025,
+      0.9997430443763733,
+      0.999840497970581,
+      0.9997616410255432,
+      0.9996804594993591,
+      0.9997236728668213,
+      0.9997769594192505
+    ],
+    "merged_text": "2P 9Am-6 PM MON - SAT & HOLIDAYS PUBLIC PERMIT HOLDERS EXCEPTED AREA 13",
+    "which_version": "original",
+    "metric_original": 1.5716573903958002,
+    "metric_enhanced": 1.5530029197533928,
+    "gt_lines": [
+      "2P",
+      "9AM-6PM",
+      "MON-SAT &",
+      "PUBLIC HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 13"
+    ],
+    "gt_merged": "2P 9AM-6PM MON-SAT & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "normalized_text": "2P 9AM-6PM MON-SAT HOLIDAYS PUBLIC PERMIT HOLDERS EXCEPTED AREA 13",
+    "clean_text": "2P 9AM-6PM MON-SAT HOLIDAYS PUBLIC PERMIT HOLDERS EXCEPTED AREA 13",
+    "clean_tokens": [
+      "2P",
+      "9AM-6PM",
+      "MON",
+      "-",
+      "SAT",
+      "HOLIDAYS",
+      "PUBLIC",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "13"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_068_crop1.png": {
+    "texts": [
+      "TOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9995471835136414,
+      0.999151349067688
+    ],
+    "merged_text": "TOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.0993492662906648,
+    "metric_enhanced": 1.0982205331325532,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_069_crop0.png": {
+    "texts": [
+      "2P",
+      "8Am-10",
+      "PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "22",
+      "AREA M1"
+    ],
+    "scores": [
+      0.9948232769966125,
+      0.8501195907592773,
+      0.9999151229858398,
+      0.9997987747192383,
+      0.9998928308486938,
+      0.9994252920150757,
+      0.996695876121521,
+      0.9999627470970154,
+      0.9971640706062317
+    ],
+    "merged_text": "2P 8Am-10 PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "which_version": "enhanced",
+    "metric_original": 1.370795092980067,
+    "metric_enhanced": 1.431977509127723,
+    "gt_lines": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 22",
+      "AREA M1"
+    ],
+    "gt_merged": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "normalized_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "clean_tokens": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "22",
+      "AREA",
+      "M1"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_072_crop0.png": {
+    "texts": [
+      "2P",
+      "-10",
+      "8",
+      "AM",
+      "PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 22",
+      "AREA",
+      "M1"
+    ],
+    "scores": [
+      0.9738652110099792,
+      0.9934659004211426,
+      0.9990183115005493,
+      0.9998085498809814,
+      0.9998562335968018,
+      0.9999079704284668,
+      0.99985271692276,
+      0.9888432025909424,
+      0.9377171397209167,
+      0.9987080097198486,
+      0.9950432777404785
+    ],
+    "merged_text": "2P -10 8 AM PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "which_version": "original",
+    "metric_original": 1.539644229412079,
+    "metric_enhanced": 1.2711313645044964,
+    "gt_lines": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 22",
+      "AREA M1"
+    ],
+    "gt_merged": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "normalized_text": "2P - 10AM-8PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "clean_text": "2P - 10AM-8PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "clean_tokens": [
+      "2P",
+      "-",
+      "10AM-8PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "22",
+      "AREA",
+      "M1"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_072_crop1.png": {
+    "texts": [
+      "TOPPING",
+      "NO"
+    ],
+    "scores": [
+      0.9995623230934143,
+      0.9979681968688965
+    ],
+    "merged_text": "TOPPING NO",
+    "which_version": "original",
+    "metric_original": 1.0987652599811555,
+    "metric_enhanced": 1.0927748441696168,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_075_crop0.png": {
+    "texts": [
+      "4P",
+      "9-",
+      "6",
+      "PM",
+      "AM"
+    ],
+    "scores": [
+      0.9979692697525024,
+      0.987991213798523,
+      0.9974809288978577,
+      0.9998513460159302,
+      0.9999039769172668
+    ],
+    "merged_text": "4P 9- 6 PM AM",
+    "which_version": "enhanced",
+    "metric_original": 1.1902927726507186,
+    "metric_enhanced": 1.246639347076416,
+    "gt_lines": [
+      "4P",
+      "6PM-6AM"
+    ],
+    "gt_merged": "4P 6PM-6AM",
+    "normalized_text": "4P 9PM-6AM",
+    "clean_text": "4P 9PM-6AM",
+    "clean_tokens": [
+      "4P",
+      "9PM-6AM"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_075_crop1.png": {
+    "texts": [
+      "ANGLE",
+      "PARKIN",
+      "REAR",
+      "TO",
+      "KERB",
+      "VEHICLES",
+      "UNDER",
+      "6m",
+      "ONL"
+    ],
+    "scores": [
+      0.9992767572402954,
+      0.9995458722114563,
+      0.9994287490844727,
+      0.9916101098060608,
+      0.9994994401931763,
+      0.9998428225517273,
+      0.999769389629364,
+      0.999623715877533,
+      0.9162511825561523
+    ],
+    "merged_text": "ANGLE PARKIN REAR TO KERB VEHICLES UNDER 6m ONL",
+    "which_version": "original",
+    "metric_original": 1.439427559905582,
+    "metric_enhanced": 1.176736158132553,
+    "gt_lines": [
+      "90 ANGLE PARKING",
+      "REAR TO KERB",
+      "VEHICLES UNDER 6M ONLY"
+    ],
+    "gt_merged": "90 ANGLE PARKING REAR TO KERB VEHICLES UNDER 6M ONLY",
+    "normalized_text": "ANGLE PARKING REAR TO KERB VEHICLES UNDER 6M ONLY",
+    "clean_text": "ANGLE PARKING REAR TO KERB VEHICLES UNDER 6M ONLY",
+    "clean_tokens": [
+      "ANGLE",
+      "PARKING",
+      "REAR",
+      "TO",
+      "KERB",
+      "VEHICLES",
+      "UNDER",
+      "6M",
+      "ONLY"
+    ],
+    "token_corrections": {
+      "PARKIN": "PARKING",
+      "ONL": "ONLY"
+    }
+  },
+  "IMG_076_crop0.png": {
+    "texts": [
+      "VEHICLES UNDER 6m ONLY",
+      "TO KERB",
+      "REAR",
+      "PARKINC",
+      "90° ANGLE"
+    ],
+    "scores": [
+      0.9928762316703796,
+      0.9743580222129822,
+      0.9997833967208862,
+      0.96866375207901,
+      0.9027070999145508
+    ],
+    "merged_text": "VEHICLES UNDER 6m ONLY TO KERB REAR PARKINC 90° ANGLE",
+    "which_version": "original",
+    "metric_original": 1.2176777005195618,
+    "metric_enhanced": 1.1603153467178344,
+    "gt_lines": [
+      "90 ANGLE PARKING",
+      "REAR TO KERB",
+      "VEHICLES UNDER 6M ONLY"
+    ],
+    "gt_merged": "90 ANGLE PARKING REAR TO KERB VEHICLES UNDER 6M ONLY",
+    "normalized_text": "VEHICLES UNDER 6M ONLY TO KERB REAR PARKING 90° ANGLE",
+    "clean_text": "VEHICLES UNDER 6M ONLY TO KERB REAR PARKING 90° ANGLE",
+    "clean_tokens": [
+      "VEHICLES",
+      "UNDER",
+      "6M",
+      "ONLY",
+      "TO",
+      "KERB",
+      "REAR",
+      "PARKING",
+      "90°",
+      "ANGLE"
+    ],
+    "token_corrections": {
+      "PARKINC": "PARKING"
+    }
+  },
+  "IMG_076_crop1.png": {
+    "texts": [
+      "4P",
+      "9",
+      "-6",
+      "PM",
+      "AM"
+    ],
+    "scores": [
+      0.9988718628883362,
+      0.9992920160293579,
+      0.9991198778152466,
+      0.9998942017555237,
+      0.9999216198921204
+    ],
+    "merged_text": "4P 9 -6 PM AM",
+    "which_version": "original",
+    "metric_original": 1.249419915676117,
+    "metric_enhanced": 1.04316189289093,
+    "gt_lines": [
+      "4P",
+      "6PM-6AM"
+    ],
+    "gt_merged": "4P 6PM-6AM",
+    "normalized_text": "4P 9PM-6AM",
+    "clean_text": "4P 9PM-6AM",
+    "clean_tokens": [
+      "4P",
+      "9PM-6AM"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_080_crop0.png": {
+    "texts": [
+      "2P",
+      "8AM-10",
+      "PM",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA M1"
+    ],
+    "scores": [
+      0.995704174041748,
+      0.7858679890632629,
+      0.9998683929443359,
+      0.9995031952857971,
+      0.9997532367706299,
+      0.9703405499458313
+    ],
+    "merged_text": "2P 8AM-10 PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "which_version": "original",
+    "metric_original": 1.2585062563419342,
+    "metric_enhanced": 1.2556210736433666,
+    "gt_lines": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA M1"
+    ],
+    "gt_merged": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "normalized_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "clean_tokens": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "M1"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_082_crop0.png": {
+    "texts": [
+      "2P",
+      "8AM-10",
+      "PM",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA M1"
+    ],
+    "scores": [
+      0.9981869459152222,
+      0.7951669692993164,
+      0.999905526638031,
+      0.9997548460960388,
+      0.9998103380203247,
+      0.9976977109909058
+    ],
+    "merged_text": "2P 8AM-10 PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "which_version": "enhanced",
+    "metric_original": 1.2541568557421368,
+    "metric_enhanced": 1.2650870561599732,
+    "gt_lines": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA M1"
+    ],
+    "gt_merged": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "normalized_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "clean_tokens": [
+      "2P",
+      "8AM-10PM",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "M1"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_089_crop0.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9984303116798401,
+      0.999322235584259
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0988762736320496,
+    "metric_enhanced": 1.0984491467475892,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE",
+    "normalized_text": "BUS ZONE",
+    "clean_text": "BUS ZONE",
+    "clean_tokens": [
+      "BUS",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_089_crop1.png": {
+    "texts": [
+      "THE",
+      "TIME"
+    ],
+    "scores": [
+      0.9998213648796082,
+      0.9998186826705933
+    ],
+    "merged_text": "THE TIME",
+    "which_version": "original",
+    "metric_original": 1.0998200237751008,
+    "metric_enhanced": 1.0620488286018372,
+    "gt_lines": [
+      "OTHER",
+      "TIMES"
+    ],
+    "gt_merged": "OTHER TIMES",
+    "normalized_text": "OTHER TIMES",
+    "clean_text": "OTHER TIMES",
+    "clean_tokens": [
+      "OTHER",
+      "TIMES"
+    ],
+    "token_corrections": {
+      "THE": "OTHER",
+      "TIME": "TIMES"
+    }
+  },
+  "IMG_089_crop2.png": {
+    "texts": [
+      "U",
+      "MON-FR",
+      "CLEARWAY"
+    ],
+    "scores": [
+      0.8378969430923462,
+      0.9792943596839905,
+      0.9992954730987549
+    ],
+    "merged_text": "U MON-FR CLEARWAY",
+    "which_version": "enhanced",
+    "metric_original": 1.0370085582137107,
+    "metric_enhanced": 1.0888289252916972,
+    "gt_lines": [
+      "C",
+      "3PM-7PM",
+      "MON-FRI",
+      "CLEARWAY"
+    ],
+    "gt_merged": "C 3PM-7PM MON-FRI CLEARWAY",
+    "normalized_text": "U MON-FRI CLEARWAY",
+    "clean_text": "U MON-FRI CLEARWAY",
+    "clean_tokens": [
+      "U",
+      "MON-FRI",
+      "CLEARWAY"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_091_crop0.png": {
+    "texts": [
+      "8",
+      "BAM-6",
+      "PM",
+      "MON-FRI",
+      "8Am- 1",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "scores": [
+      0.9993005990982056,
+      0.7125737071037292,
+      0.9568595886230469,
+      0.9980557560920715,
+      0.7594946026802063,
+      0.9997278451919556,
+      0.9997559189796448,
+      0.9838311076164246,
+      0.9995488524436951,
+      0.9990879893302917
+    ],
+    "merged_text": "8 BAM-6 PM MON-FRI 8Am- 1 PM SAT PERMIT HOLDERS EXCEPTED AREA12",
+    "which_version": "original",
+    "metric_original": 1.440823596715927,
+    "metric_enhanced": 1.3114186838269233,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 12"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "normalized_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_tokens": [
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "token_corrections": {
+      "BAM": "AM",
+      "FRII": "FRI"
+    }
+  },
+  "IMG_093_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9807365536689758,
+      0.9988396167755127
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.0897880852222444,
+    "metric_enhanced": 1.0988315105438233,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_094_crop0.png": {
+    "texts": [
+      "4P",
+      "8Am -6",
+      "PM",
+      "MON-FRI",
+      "8AM",
+      "-1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "scores": [
+      0.9992128610610962,
+      0.7363327145576477,
+      0.9999037981033325,
+      0.9961353540420532,
+      0.9242474436759949,
+      0.9963511228561401,
+      0.9997758865356445,
+      0.9998573660850525,
+      0.9998173117637634,
+      0.9997372031211853,
+      0.9996160268783569,
+      0.999737024307251
+    ],
+    "merged_text": "4P 8Am -6 PM MON-FRI 8AM -1 PM SAT PERMIT HOLDERS EXCEPTED AREA12",
+    "which_version": "original",
+    "metric_original": 1.5708936760822931,
+    "metric_enhanced": 1.4397832930088044,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 12"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "normalized_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_095_crop0.png": {
+    "texts": [
+      "1P",
+      "8",
+      "6",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "8",
+      "1",
+      "AM",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "scores": [
+      0.9610613584518433,
+      0.998822033405304,
+      0.9998666048049927,
+      0.9999305009841919,
+      0.9998295307159424,
+      0.9116431474685669,
+      0.9995248317718506,
+      0.414205938577652,
+      0.9998909831047058,
+      0.9999161958694458,
+      0.999739944934845,
+      0.9998793005943298,
+      0.9998780488967896,
+      0.9998329281806946,
+      0.7472284436225891
+    ],
+    "merged_text": "1P 8 6 AM PM MON - FRI 8 1 AM PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "which_version": "original",
+    "metric_original": 1.6854166527589163,
+    "metric_enhanced": 1.6040688297578267,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "1P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "1P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "1P",
+      "8AM-6PM",
+      "MON",
+      "-",
+      "FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_097_crop0.png": {
+    "texts": [
+      "4P",
+      "8AM -6PM",
+      "MON-FRI",
+      "8AM -1",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "scores": [
+      0.9994276762008667,
+      0.6816684603691101,
+      0.9988939166069031,
+      0.806905210018158,
+      0.9997465014457703,
+      0.9997164607048035,
+      0.9969374537467957,
+      0.9989572763442993,
+      0.9995250701904297
+    ],
+    "merged_text": "4P 8AM -6PM MON-FRI 8AM -1 PM SAT PERMIT HOLDERS EXCEPTED AREA15",
+    "which_version": "enhanced",
+    "metric_original": 1.342228706015481,
+    "metric_enhanced": 1.3924197806252374,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_097_crop1.png": {
+    "texts": [
+      "ON",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9992603063583374,
+      0.9985074400901794
+    ],
+    "merged_text": "ON STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0988838732242585,
+    "metric_enhanced": 1.0973636865615846,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_098_crop0.png": {
+    "texts": [
+      "4P",
+      "8",
+      "BAM",
+      "PM",
+      "MON - FRI",
+      "8",
+      "AM",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "12"
+    ],
+    "scores": [
+      0.99936842918396,
+      0.9998002648353577,
+      0.6096349358558655,
+      0.9999045729637146,
+      0.9078468680381775,
+      0.9999428987503052,
+      0.9999033808708191,
+      0.9999109506607056,
+      0.9998498558998108,
+      0.9994567036628723,
+      0.9996152520179749,
+      0.9876645803451538,
+      0.9998041391372681
+    ],
+    "merged_text": "4P 8 BAM PM MON - FRI 8 AM PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "which_version": "enhanced",
+    "metric_original": 1.5743941582166232,
+    "metric_enhanced": 1.6117463717093834,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 12"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "normalized_text": "4P 8 AM PM MON-FRI 8AMPM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_text": "4P 8 AM PM MON-FRI 8AMPM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_tokens": [
+      "4P",
+      "8",
+      "AM",
+      "PM",
+      "MON",
+      "-",
+      "FRI",
+      "8AMPM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "12"
+    ],
+    "token_corrections": {
+      "BAM": "AM",
+      "FRII": "FRI"
+    }
+  },
+  "IMG_102_crop0.png": {
+    "texts": [
+      "4P",
+      "8AM -6PM",
+      "MON-FRI",
+      "8Am-1",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "scores": [
+      0.9993777275085449,
+      0.7434999942779541,
+      0.9978981018066406,
+      0.7304469347000122,
+      0.9998018741607666,
+      0.9996979236602783,
+      0.9984775185585022,
+      0.9995808601379395,
+      0.9996244311332703
+    ],
+    "merged_text": "4P 8AM -6PM MON-FRI 8Am-1 PM SAT PERMIT HOLDERS EXCEPTED AREA15",
+    "which_version": "original",
+    "metric_original": 1.3909339295493233,
+    "metric_enhanced": 1.393301452530755,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_111_crop0.png": {
+    "texts": [
+      "4P",
+      "8",
+      "3Am-6PM",
+      "PM",
+      "MON-FRI",
+      "8",
+      "B Am - 1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "scores": [
+      0.9895797967910767,
+      0.9997761845588684,
+      0.7406363487243652,
+      0.9993642568588257,
+      0.9898101091384888,
+      0.999803364276886,
+      0.7733904719352722,
+      0.9998171925544739,
+      0.9999003410339355,
+      0.9765767455101013,
+      0.994195818901062,
+      0.9983193874359131,
+      0.9976633191108704
+    ],
+    "merged_text": "4P 8 3Am-6PM PM MON-FRI 8 B Am - 1 PM SAT PERMIT HOLDERS EXCEPTED AREA12",
+    "which_version": "enhanced",
+    "metric_original": 1.4777713000774384,
+    "metric_enhanced": 1.6083717951407799,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 12"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "normalized_text": "4P 8 3AM-6PM PM MON-FRI 8-8AM - 1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_text": "4P 8 3AM-6PM PM MON-FRI 8-8AM - 1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_tokens": [
+      "4P",
+      "8",
+      "3AM-6PM",
+      "PM",
+      "MON-FRI",
+      "8-8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "token_corrections": {
+      "B": "8",
+      "FRII": "FRI"
+    }
+  },
+  "IMG_111_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPI"
+    ],
+    "scores": [
+      0.9985820055007935,
+      0.997684895992279
+    ],
+    "merged_text": "NO STOPPI",
+    "which_version": "original",
+    "metric_original": 1.0981334507465363,
+    "metric_enhanced": 1.0988340437412263,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPI": "STOPPING"
+    }
+  },
+  "IMG_112_crop0.png": {
+    "texts": [
+      "8Am -6",
+      "PM",
+      "MON-FRI",
+      "8Am-1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "scores": [
+      0.7747921943664551,
+      0.9998084306716919,
+      0.9970322847366333,
+      0.7315146923065186,
+      0.9998446702957153,
+      0.9998318552970886,
+      0.9996969699859619,
+      0.9996105432510376,
+      0.999556839466095,
+      0.9995532035827637
+    ],
+    "merged_text": "8Am -6 PM MON-FRI 8Am-1 PM SAT PERMIT HOLDERS EXCEPTED AREA15",
+    "which_version": "original",
+    "metric_original": 1.450124168395996,
+    "metric_enhanced": 1.4480080864646219,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_113_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9980229735374451,
+      0.9998539090156555
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0989384412765504,
+    "metric_enhanced": 1.0986405968666078,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_115_crop0.png": {
+    "texts": [
+      "4 P",
+      "8 AM -6PM",
+      "MON-FRI",
+      "8",
+      "AM -1",
+      "AM",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "scores": [
+      0.9628055691719055,
+      0.5862879157066345,
+      0.9977483749389648,
+      0.9998502731323242,
+      0.6974359154701233,
+      0.9992632865905762,
+      0.9999163746833801,
+      0.9995101094245911,
+      0.9726693034172058,
+      0.9933546185493469,
+      0.9578692317008972
+    ],
+    "merged_text": "4 P 8 AM -6PM MON-FRI 8 AM -1 AM PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "which_version": "enhanced",
+    "metric_original": 1.454097172346982,
+    "metric_enhanced": 1.47424645207145,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "4 P 8AM-6PM MON-FRI 8AM-1AMPM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "4 P 8AM-6PM MON-FRI 8AM-1AMPM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "4",
+      "P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1AMPM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_118_crop0.png": {
+    "texts": [
+      "P",
+      "BAm -6P",
+      "8",
+      "PM",
+      "MON-FR",
+      "$8 AmPm$",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA B"
+    ],
+    "scores": [
+      0.9797641038894653,
+      0.5566825270652771,
+      0.5119926333427429,
+      0.9993113279342651,
+      0.9967265129089355,
+      0.5345625877380371,
+      0.9993970394134521,
+      0.9998250603675842,
+      0.9996899962425232,
+      0.9998142719268799,
+      0.9316971302032471
+    ],
+    "merged_text": "P BAm -6P 8 PM MON-FR $8 AmPm$ SAT PERMIT HOLDERS EXCEPTED AREA B",
+    "which_version": "enhanced",
+    "metric_original": 1.3792058017518785,
+    "metric_enhanced": 1.414496653730219,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FR",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA B"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FR 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA B",
+    "normalized_text": "P AM-6P 8PM MON-FRI $8 AMPM$ SAT PERMIT HOLDERS EXCEPTED AREA 8",
+    "clean_text": "P AM-6P 8PM MON-FRI $8 AMPM$ SAT PERMIT HOLDERS EXCEPTED AREA 8",
+    "clean_tokens": [
+      "P",
+      "AM",
+      "-",
+      "6P",
+      "8PM",
+      "MON-FRI",
+      "$8",
+      "AMPM$",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "8"
+    ],
+    "token_corrections": {
+      "B": "8",
+      "BAM": "AM"
+    }
+  },
+  "IMG_118_crop1.png": {
+    "texts": [
+      "ONLY"
+    ],
+    "scores": [
+      0.9991194605827332
+    ],
+    "merged_text": "ONLY",
+    "which_version": "enhanced",
+    "metric_original": 0.43896697759628295,
+    "metric_enhanced": 1.0491194605827332,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "ONLY",
+    "clean_text": "ONLY",
+    "clean_tokens": [
+      "ONLY"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_120_crop0.png": {
+    "texts": [
+      "1P",
+      "8",
+      "30",
+      "6",
+      "-",
+      "AM",
+      "PM",
+      "MON",
+      "FRI",
+      "-",
+      "8",
+      "-12",
+      "30",
+      "30",
+      "AM",
+      "PM",
+      "SAT"
+    ],
+    "scores": [
+      0.6879835724830627,
+      0.9988096952438354,
+      0.9949808120727539,
+      0.9999316930770874,
+      0.5904316306114197,
+      0.9998493194580078,
+      0.9996545314788818,
+      0.9995343685150146,
+      0.9997578263282776,
+      0.764916181564331,
+      0.971035897731781,
+      0.9955499768257141,
+      0.9976578950881958,
+      0.9990576505661011,
+      0.9999020099639893,
+      0.9998558759689331,
+      0.9995186924934387
+    ],
+    "merged_text": "1P 8 30 6 - AM PM MON FRI - 8 -12 30 30 AM PM SAT",
+    "which_version": "original",
+    "metric_original": 1.7910839782041663,
+    "metric_enhanced": 1.6242854629244123,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "1P 8:30-6 - AM PM MON-FRI - 8-12:30 30 AM PM SAT",
+    "clean_text": "1P 8:30-6 - AM PM MON-FRI - 8-12:30 30 AM PM SAT",
+    "clean_tokens": [
+      "1P",
+      "8:30-6",
+      "-",
+      "AM",
+      "PM",
+      "MON-FRI",
+      "-",
+      "8-12:30",
+      "30",
+      "AM",
+      "PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_120_crop1.png": {
+    "texts": [
+      "NO",
+      "TOPPIN"
+    ],
+    "scores": [
+      0.9982200264930725,
+      0.9997439384460449
+    ],
+    "merged_text": "NO TOPPIN",
+    "which_version": "original",
+    "metric_original": 1.0989819824695588,
+    "metric_enhanced": 1.099580204486847,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPIN": "STOPPING"
+    }
+  },
+  "IMG_126_crop0.png": {
+    "texts": [
+      "8",
+      "BAm-6",
+      "PM",
+      "MON-FRI",
+      "8AM",
+      "-1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "scores": [
+      0.9974688291549683,
+      0.8030047416687012,
+      0.9999035000801086,
+      0.9987841248512268,
+      0.9495603442192078,
+      0.8438405990600586,
+      0.999911367893219,
+      0.9998607635498047,
+      0.9998247623443604,
+      0.9998413920402527,
+      0.9997342824935913,
+      0.9997665286064148
+    ],
+    "merged_text": "8 BAm-6 PM MON-FRI 8AM -1 PM SAT PERMIT HOLDERS EXCEPTED AREA15",
+    "which_version": "original",
+    "metric_original": 1.5659584363301597,
+    "metric_enhanced": 1.5213287035624186,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA15"
+    ],
+    "token_corrections": {
+      "BAM": "AM",
+      "FRII": "FRI"
+    }
+  },
+  "IMG_126_crop1.png": {
+    "texts": [
+      "7"
+    ],
+    "scores": [
+      0.30308428406715393
+    ],
+    "merged_text": "7",
+    "which_version": "enhanced",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.3530842840671539,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "7",
+    "clean_text": "7",
+    "clean_tokens": [
+      "7"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_138_crop0.png": {
+    "texts": [
+      "NO",
+      "TOPPING"
+    ],
+    "scores": [
+      0.9963816404342651,
+      0.9980112314224243
+    ],
+    "merged_text": "NO TOPPING",
+    "which_version": "original",
+    "metric_original": 1.0971964359283448,
+    "metric_enhanced": 1.097016340494156,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_138_crop1.png": {
+    "texts": [
+      "4P",
+      "8Am -6PM",
+      "MON-FRI",
+      "8 Am -1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "scores": [
+      0.9882408380508423,
+      0.7347730398178101,
+      0.9940195083618164,
+      0.6474643349647522,
+      0.999840497970581,
+      0.9998443722724915,
+      0.9997747540473938,
+      0.999714732170105,
+      0.9990079402923584,
+      0.9997151494026184
+    ],
+    "merged_text": "4P 8Am -6PM MON-FRI 8 Am -1 PM SAT PERMIT HOLDERS EXCEPTED AREA12",
+    "which_version": "original",
+    "metric_original": 1.436239516735077,
+    "metric_enhanced": 1.3655452516343858,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 12"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "normalized_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA12"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_141_crop0.png": {
+    "texts": [
+      "2P",
+      "METER",
+      "10",
+      "AM",
+      "PM",
+      "MON-",
+      "SUN",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9925961494445801,
+      0.9993795156478882,
+      0.9955166578292847,
+      0.9999097585678101,
+      0.9998527765274048,
+      0.9338968992233276,
+      0.9994949698448181,
+      0.9998451471328735,
+      0.9997660517692566,
+      0.9997324347496033
+    ],
+    "merged_text": "2P METER 10 AM PM MON- SUN & PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.4919990360736848,
+    "metric_enhanced": 1.3880331382155418,
+    "gt_lines": [
+      "2P",
+      "METER",
+      "9AM-10PM",
+      "MON-SUN",
+      "& PUBLIC",
+      "HOLIDAYS"
+    ],
+    "gt_merged": "2P METER 9AM-10PM MON-SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "2P METER 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "clean_text": "2P METER 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "2P",
+      "METER",
+      "10AMPM",
+      "MON",
+      "-",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_142_crop0.png": {
+    "texts": [
+      "4P",
+      "8Am-6F",
+      "MON-FRI",
+      "8Am-1",
+      "PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "scores": [
+      0.9967187643051147,
+      0.7337072491645813,
+      0.9994903802871704,
+      0.8340435028076172,
+      0.9997777342796326,
+      0.661932647228241,
+      0.9989104866981506,
+      0.9995061159133911,
+      0.9508703947067261
+    ],
+    "merged_text": "4P 8Am-6F MON-FRI 8Am-1 PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "which_version": "enhanced",
+    "metric_original": 1.3188452045122783,
+    "metric_enhanced": 1.3583285861545138,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "4P 8AM 6F MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "4P 8AM 6F MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "6F",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_143_crop0.png": {
+    "texts": [
+      "4P",
+      "8 Am -6",
+      "PM",
+      "MON-FRI",
+      "8",
+      "BAM",
+      "- 1",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "scores": [
+      0.9981764554977417,
+      0.6724210381507874,
+      0.9921605587005615,
+      0.9837875366210938,
+      0.9997501969337463,
+      0.9159707427024841,
+      0.9758188128471375,
+      0.9998834133148193,
+      0.9998825192451477,
+      0.9995646476745605,
+      0.9997344017028809,
+      0.9718927145004272,
+      0.9004802703857422
+    ],
+    "merged_text": "4P 8 Am -6 PM MON-FRI 8 BAM - 1 PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "which_version": "enhanced",
+    "metric_original": 1.5484807004531227,
+    "metric_enhanced": 1.6045787160213179,
+    "gt_lines": [
+      "4P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 15"
+    ],
+    "gt_merged": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "normalized_text": "4P 8AM-6PM MON-FRI 8 AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_text": "4P 8AM-6PM MON-FRI 8 AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "clean_tokens": [
+      "4P",
+      "8AM",
+      "-",
+      "6PM",
+      "MON-FRI",
+      "8",
+      "AM",
+      "-",
+      "1PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "15"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "BAM": "AM"
+    }
+  },
+  "IMG_148_crop0.png": {
+    "texts": [
+      "OTORCYCLE",
+      "PARKING",
+      "ONLY"
+    ],
+    "scores": [
+      0.9953704476356506,
+      0.9998267889022827,
+      0.997877836227417
+    ],
+    "merged_text": "OTORCYCLE PARKING ONLY",
+    "which_version": "original",
+    "metric_original": 1.1476916909217834,
+    "metric_enhanced": 1.08243008852005,
+    "gt_lines": [
+      "MOTORCYCLE",
+      "PARKING",
+      "ONLY"
+    ],
+    "gt_merged": "MOTORCYCLE PARKING ONLY",
+    "normalized_text": "MOTORCYCLE PARKING ONLY",
+    "clean_text": "MOTORCYCLE PARKING ONLY",
+    "clean_tokens": [
+      "MOTORCYCLE",
+      "PARKING",
+      "ONLY"
+    ],
+    "token_corrections": {
+      "OTORCYCLE": "MOTORCYCLE"
+    }
+  },
+  "IMG_148_crop1.png": {
+    "texts": [
+      "Z"
+    ],
+    "scores": [
+      0.3598645329475403
+    ],
+    "merged_text": "Z",
+    "which_version": "original",
+    "metric_original": 0.40986453294754027,
+    "metric_enhanced": 0.0,
+    "gt_lines": [],
+    "gt_merged": "",
+    "normalized_text": "Z",
+    "clean_text": "Z",
+    "clean_tokens": [
+      "Z"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_155_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "5",
+      "-",
+      "AM",
+      "PM",
+      "MON-",
+      "FRI"
+    ],
+    "scores": [
+      0.9993227124214172,
+      0.999727189540863,
+      0.9999150037765503,
+      0.8452231884002686,
+      0.999945342540741,
+      0.9997320175170898,
+      0.9940560460090637,
+      0.9992177486419678
+    ],
+    "merged_text": "LOADING ZONE 5 - AM PM MON- FRI",
+    "which_version": "original",
+    "metric_original": 1.379642406105995,
+    "metric_enhanced": 1.3874208346009254,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "6AM-5PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 6AM-5PM MON-FRI",
+    "normalized_text": "LOADING ZONE 5 - AM PM MON-FRI",
+    "clean_text": "LOADING ZONE 5 - AM PM MON-FRI",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "5",
+      "-",
+      "AM",
+      "PM",
+      "MON",
+      "-",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_155_crop1.png": {
+    "texts": [
+      "8",
+      "30",
+      "6",
+      "AM",
+      "PM",
+      "MON -FRI",
+      "8",
+      "-12",
+      "30",
+      "30",
+      "AM",
+      "PM"
+    ],
+    "scores": [
+      0.9988837838172913,
+      0.9979413747787476,
+      0.9989776611328125,
+      0.9996640682220459,
+      0.9997957944869995,
+      0.9478009939193726,
+      0.9265070557594299,
+      0.9989843368530273,
+      0.9813397526741028,
+      0.9970903992652893,
+      0.995597243309021,
+      0.9988631010055542
+    ],
+    "merged_text": "8 30 6 AM PM MON -FRI 8 -12 30 30 AM PM",
+    "which_version": "original",
+    "metric_original": 1.586787130435308,
+    "metric_enhanced": 1.415114328596327,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "8:30AM-6PM MON-FRI 8-12:30 30 AM PM",
+    "clean_text": "8:30AM-6PM MON-FRI 8-12:30 30 AM PM",
+    "clean_tokens": [
+      "8:30AM-6PM",
+      "MON",
+      "-",
+      "FRI",
+      "8-12:30",
+      "30",
+      "AM",
+      "PM"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_156_crop0.png": {
+    "texts": [
+      "MON",
+      "30",
+      "A",
+      "U",
+      "2",
+      "R",
+      "9",
+      "W"
+    ],
+    "scores": [
+      0.9991353154182434,
+      0.998942494392395,
+      0.8010393381118774,
+      0.8743807673454285,
+      0.8694202899932861,
+      0.4682145118713379,
+      0.9932160973548889,
+      0.3186835050582886
+    ],
+    "merged_text": "MON 30 A U 2 R 9 W",
+    "which_version": "original",
+    "metric_original": 1.1903790399432181,
+    "metric_enhanced": 1.054176834651402,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "MON 30 A U 2 R 9 W",
+    "clean_text": "MON 30 A U 2 R 9 W",
+    "clean_tokens": [
+      "MON",
+      "30",
+      "A",
+      "U",
+      "2",
+      "R",
+      "9",
+      "W"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_156_crop1.png": {
+    "texts": [
+      "OPPING"
+    ],
+    "scores": [
+      0.9778549075126648
+    ],
+    "merged_text": "OPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.002194631099701,
+    "metric_enhanced": 1.0278549075126648,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "STOPPING",
+    "clean_text": "STOPPING",
+    "clean_tokens": [
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "OPPING": "STOPPING"
+    }
+  },
+  "IMG_159_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "6",
+      "00",
+      "7",
+      "00",
+      "PM",
+      "AM",
+      "1",
+      "30",
+      "MIN",
+      "ONLY"
+    ],
+    "scores": [
+      0.9968536496162415,
+      0.9996728897094727,
+      0.9085772037506104,
+      0.9890938997268677,
+      0.515952467918396,
+      0.9720910787582397,
+      0.9995390772819519,
+      0.9995455741882324,
+      0.5772372484207153,
+      0.9992389678955078,
+      0.9987561106681824,
+      0.9990416765213013
+    ],
+    "merged_text": "LOADING ZONE 6 00 7 00 PM AM 1 30 MIN ONLY",
+    "which_version": "enhanced",
+    "metric_original": 1.4671940657225524,
+    "metric_enhanced": 1.5129666537046433,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "600AM-700PM",
+      "30 MIN",
+      "ONLY"
+    ],
+    "gt_merged": "LOADING ZONE 600AM-700PM 30 MIN ONLY",
+    "normalized_text": "LOADING ZONE 6:00PM-7:00AM 1:30 60MIN ONLY",
+    "clean_text": "LOADING ZONE 6:00PM-7:00AM 1:30 60MIN ONLY",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "6:00PM-7:00AM",
+      "1:30",
+      "60MIN",
+      "ONLY"
+    ],
+    "token_corrections": {
+      "MIN": "60MIN"
+    }
+  },
+  "IMG_159_crop1.png": {
+    "texts": [
+      "2"
+    ],
+    "scores": [
+      0.9992817044258118
+    ],
+    "merged_text": "2",
+    "which_version": "original",
+    "metric_original": 1.0492817044258118,
+    "metric_enhanced": 0.0,
+    "gt_lines": [
+      "1/2P"
+    ],
+    "gt_merged": "1/2P",
+    "normalized_text": "2",
+    "clean_text": "2",
+    "clean_tokens": [
+      "2"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_161_crop0.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "9",
+      "7",
+      "AM",
+      "PM",
+      "MON",
+      "SAT",
+      "-",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "13"
+    ],
+    "scores": [
+      0.9675585627555847,
+      0.9998750686645508,
+      0.9961493015289307,
+      0.999985933303833,
+      0.999889612197876,
+      0.9999217987060547,
+      0.9996340870857239,
+      0.9996936321258545,
+      0.9243887662887573,
+      0.9998390674591064,
+      0.9997615814208984,
+      0.9998352527618408,
+      0.9998862743377686,
+      0.9998742938041687,
+      0.9998860359191895,
+      0.9665372371673584,
+      0.9996984004974365
+    ],
+    "merged_text": "2P TICKET 9 7 AM PM MON SAT - & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "which_version": "original",
+    "metric_original": 1.8413185238838197,
+    "metric_enhanced": 1.692399160351072,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "9AM-7PM",
+      "MON-SAT",
+      "& PUBLIC",
+      "HOLIDAYS",
+      "PERMIT HOLDERS",
+      "EXCEPTED AREA 13"
+    ],
+    "gt_merged": "2P TICKET 9AM-7PM MON-SAT & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "normalized_text": "2P TICKET 9AM-7PM MON-SAT - PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "clean_text": "2P TICKET 9AM-7PM MON-SAT - PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "9AM-7PM",
+      "MON-SAT",
+      "-",
+      "PUBLIC",
+      "HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "13"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_161_crop1.png": {
+    "texts": [
+      "NO",
+      "TOPPIN"
+    ],
+    "scores": [
+      0.99735426902771,
+      0.9986217617988586
+    ],
+    "merged_text": "NO TOPPIN",
+    "which_version": "enhanced",
+    "metric_original": 1.0493810653686524,
+    "metric_enhanced": 1.0979880154132844,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPIN": "STOPPING"
+    }
+  },
+  "IMG_161_crop2.png": {
+    "texts": [
+      "BLGOOL FHOIGD",
+      "SA",
+      "NOW",
+      "5P",
+      "NIW",
+      "GAM"
+    ],
+    "scores": [
+      0.30854642391204834,
+      0.800834059715271,
+      0.9978802800178528,
+      0.9833530187606812,
+      0.9820599555969238,
+      0.35257530212402344
+    ],
+    "merged_text": "BLGOOL FHOIGD SA NOW 5P NIW GAM",
+    "which_version": "enhanced",
+    "metric_original": 1.003420499392918,
+    "metric_enhanced": 1.0375415066878002,
+    "gt_lines": [
+      "15P",
+      "MIN",
+      "6AM 9AM",
+      "MON SAT",
+      "PUBLIC HOLIDAY"
+    ],
+    "gt_merged": "15P MIN 6AM 9AM MON SAT PUBLIC HOLIDAY",
+    "normalized_text": "BLGOOL FHOIGD SA NOW 5P NIW AM",
+    "clean_text": "BLGOOL FHOIGD SA NOW 5P NIW AM",
+    "clean_tokens": [
+      "BLGOOL",
+      "FHOIGD",
+      "SA",
+      "NOW",
+      "5P",
+      "NIW",
+      "AM"
+    ],
+    "token_corrections": {
+      "GAM": "AM"
+    }
+  },
+  "IMG_163_crop0.png": {
+    "texts": [
+      "NO",
+      "TOPPIN"
+    ],
+    "scores": [
+      0.9973429441452026,
+      0.9991298317909241
+    ],
+    "merged_text": "NO TOPPIN",
+    "which_version": "original",
+    "metric_original": 1.0982363879680634,
+    "metric_enhanced": 1.0984560608863831,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPIN": "STOPPING"
+    }
+  },
+  "IMG_163_crop1.png": {
+    "texts": [
+      "TICKET",
+      "9",
+      "7",
+      "AM",
+      "PM",
+      "MON - SAT",
+      "&",
+      "PUBLIC HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "13",
+      "AREA"
+    ],
+    "scores": [
+      0.9987697005271912,
+      0.9963721036911011,
+      0.9990094900131226,
+      0.9997528791427612,
+      0.9997109174728394,
+      0.9717209339141846,
+      0.9979836940765381,
+      0.999079704284668,
+      0.9997299313545227,
+      0.9998446702957153,
+      0.9997337460517883,
+      0.9998693466186523,
+      0.9998204708099365
+    ],
+    "merged_text": "TICKET 9 7 AM PM MON - SAT & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED 13 AREA",
+    "which_version": "original",
+    "metric_original": 1.647030583711771,
+    "metric_enhanced": 1.642436083463522,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "9AM-7PM",
+      "MON-SAT &",
+      "PUBLIC HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA 13"
+    ],
+    "gt_merged": "2P TICKET 9AM-7PM MON-SAT & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "normalized_text": "TICKET 9AM-7PM MON-SAT PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED 13 AREA",
+    "clean_text": "TICKET 9AM-7PM MON-SAT PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED 13 AREA",
+    "clean_tokens": [
+      "TICKET",
+      "9AM-7PM",
+      "MON",
+      "-",
+      "SAT",
+      "PUBLIC",
+      "HOLIDAYS",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "13",
+      "AREA"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_166_crop0.png": {
+    "texts": [
+      "BUSSES",
+      "EXCEPTE"
+    ],
+    "scores": [
+      0.999561607837677,
+      0.9979978799819946
+    ],
+    "merged_text": "BUSSES EXCEPTE",
+    "which_version": "original",
+    "metric_original": 1.098779743909836,
+    "metric_enhanced": 1.0535537958145142,
+    "gt_lines": [
+      "BUSSES",
+      "EXCEPTED"
+    ],
+    "gt_merged": "BUSSES EXCEPTED",
+    "normalized_text": "BUSES EXCEPTED",
+    "clean_text": "BUSES EXCEPTED",
+    "clean_tokens": [
+      "BUSES",
+      "EXCEPTED"
+    ],
+    "token_corrections": {
+      "BUSSES": "BUSES",
+      "EXCEPTE": "EXCEPTED"
+    }
+  },
+  "IMG_166_crop1.png": {
+    "texts": [
+      "STOPPING"
+    ],
+    "scores": [
+      0.9971713423728943
+    ],
+    "merged_text": "STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0471713423728943,
+    "metric_enhanced": 1.0443199753761292,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "STOPPING",
+    "clean_text": "STOPPING",
+    "clean_tokens": [
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_170_crop0.png": {
+    "texts": [
+      "2P",
+      "8",
+      "6",
+      "PM",
+      "AM",
+      "FRI",
+      "I",
+      "MON",
+      "8",
+      "7",
+      "AM",
+      "PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED"
+    ],
+    "scores": [
+      0.9981904625892639,
+      0.9995935559272766,
+      0.9990249872207642,
+      0.9995296001434326,
+      0.9999144673347473,
+      0.9997334480285645,
+      0.7206447124481201,
+      0.9996575713157654,
+      0.9998332262039185,
+      0.5521687865257263,
+      0.9999362230300903,
+      0.9998896718025208,
+      0.999844491481781,
+      0.9997811913490295,
+      0.9997709393501282,
+      0.9995057582855225
+    ],
+    "merged_text": "2P 8 6 PM AM FRI I MON 8 7 AM PM SAT PERMIT HOLDERS EXCEPTED",
+    "which_version": "original",
+    "metric_original": 1.7541886933147908,
+    "metric_enhanced": 1.6344665961606162,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-1PM",
+      "SAT",
+      "PERMIT HOLDERS",
+      "EXCEPTED",
+      "AREA 4"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 4",
+    "normalized_text": "2P 8AM-6PM MON-FRI 8AM-7PM SAT PERMIT HOLDERS EXCEPTED",
+    "clean_text": "2P 8AM-6PM MON-FRI 8AM-7PM SAT PERMIT HOLDERS EXCEPTED",
+    "clean_tokens": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "8AM-7PM",
+      "SAT",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_172_crop0.png": {
+    "texts": [
+      "NO",
+      "TOPPING"
+    ],
+    "scores": [
+      0.9988465905189514,
+      0.997937798500061
+    ],
+    "merged_text": "NO TOPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.0635970294475556,
+    "metric_enhanced": 1.0983921945095063,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_172_crop1.png": {
+    "texts": [
+      "ONLY",
+      "P"
+    ],
+    "scores": [
+      0.9958513975143433,
+      0.9993440508842468
+    ],
+    "merged_text": "ONLY P",
+    "which_version": "enhanced",
+    "metric_original": 1.0098630626996359,
+    "metric_enhanced": 1.0975977241992951,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "ONLY P",
+    "clean_text": "ONLY P",
+    "clean_tokens": [
+      "ONLY",
+      "P"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_172_crop2.png": {
+    "texts": [
+      "FREE"
+    ],
+    "scores": [
+      0.9423048496246338
+    ],
+    "merged_text": "FREE",
+    "which_version": "original",
+    "metric_original": 0.9923048496246338,
+    "metric_enhanced": 0.936656403541565,
+    "gt_lines": [],
+    "gt_merged": "",
+    "normalized_text": "FRI",
+    "clean_text": "FRI",
+    "clean_tokens": [
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRIEE": "FRI"
+    }
+  },
+  "IMG_173_crop0.png": {
+    "texts": [
+      "2P",
+      "METER",
+      "-10",
+      "AM",
+      "PM",
+      "MON - SUN",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9925040602684021,
+      0.9987419247627258,
+      0.9953310489654541,
+      0.9998787641525269,
+      0.9999289512634277,
+      0.9596295952796936,
+      0.9993923902511597,
+      0.9998771548271179,
+      0.9998423457145691
+    ],
+    "merged_text": "2P METER -10 AM PM MON - SUN & PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.4439029150538973,
+    "metric_enhanced": 1.3333413277353559,
+    "gt_lines": [
+      "2P",
+      "METER",
+      "9AM-10PM",
+      "MON-SUN",
+      "& PUBLIC",
+      "HOLIDAYS"
+    ],
+    "gt_merged": "2P METER 9AM-10PM MON-SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "2P METER - 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "clean_text": "2P METER - 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "2P",
+      "METER",
+      "-",
+      "10AMPM",
+      "MON",
+      "-",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_173_crop1.png": {
+    "texts": [
+      "P",
+      "5",
+      "NI"
+    ],
+    "scores": [
+      0.9961057305335999,
+      0.9485775232315063,
+      0.9659848809242249
+    ],
+    "merged_text": "P 5 NI",
+    "which_version": "enhanced",
+    "metric_original": 0.7170947402715683,
+    "metric_enhanced": 1.1202227115631103,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "P 5 NI",
+    "clean_text": "P 5 NI",
+    "clean_tokens": [
+      "P",
+      "5",
+      "NI"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_175_crop0.png": {
+    "texts": [
+      "5",
+      "MINUTE"
+    ],
+    "scores": [
+      0.6863604187965393,
+      0.9971501231193542
+    ],
+    "merged_text": "5 MINUTE",
+    "which_version": "original",
+    "metric_original": 0.9417552709579468,
+    "metric_enhanced": 0.8544700503349304,
+    "gt_lines": [
+      "P 15",
+      "MINUTE",
+      "6AM-7PM"
+    ],
+    "gt_merged": "P 15 MINUTE 6AM-7PM",
+    "normalized_text": "5 MINUTE",
+    "clean_text": "5 MINUTE",
+    "clean_tokens": [
+      "5",
+      "MINUTE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_175_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPIN"
+    ],
+    "scores": [
+      0.9971526861190796,
+      0.9995703101158142
+    ],
+    "merged_text": "NO STOPPIN",
+    "which_version": "original",
+    "metric_original": 1.098361498117447,
+    "metric_enhanced": 1.0865003228187562,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPIN": "STOPPING"
+    }
+  },
+  "IMG_181_crop0.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "7",
+      "AM",
+      "PM",
+      "MON - SAT",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9897971153259277,
+      0.9997929930686951,
+      0.9999338388442993,
+      0.9995589256286621,
+      0.9998660683631897,
+      0.9634471535682678,
+      0.999818742275238,
+      0.9996349811553955,
+      0.9985166192054749
+    ],
+    "merged_text": "2P TICKET 7 AM PM MON - SAT & PUBLIC HOLIDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.3969279393553733,
+    "metric_enhanced": 1.4444851597150168,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "9AM-7PM",
+      "MON-SAT",
+      "& PUBLIC",
+      "HOLIDAYS"
+    ],
+    "gt_merged": "2P TICKET 9AM-7PM MON-SAT & PUBLIC HOLIDAYS",
+    "normalized_text": "2P TICKET 7AMPM MON-SAT PUBLIC HOLIDAYS",
+    "clean_text": "2P TICKET 7AMPM MON-SAT PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "7AMPM",
+      "MON",
+      "-",
+      "SAT",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_181_crop1.png": {
+    "texts": [
+      "P",
+      "&"
+    ],
+    "scores": [
+      0.9959320425987244,
+      0.8869231939315796
+    ],
+    "merged_text": "P &",
+    "which_version": "enhanced",
+    "metric_original": 0.6187395334243775,
+    "metric_enhanced": 1.041427618265152,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "P -",
+    "clean_text": "P -",
+    "clean_tokens": [
+      "P",
+      "-"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_182_crop0.png": {
+    "texts": [
+      "OPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9988059401512146,
+      0.9984700679779053
+    ],
+    "merged_text": "OPPING ON",
+    "which_version": "original",
+    "metric_original": 1.09863800406456,
+    "metric_enhanced": 1.0978720545768739,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "OPPING": "STOPPING"
+    }
+  },
+  "IMG_182_crop1.png": {
+    "texts": [
+      "TAXI",
+      "ZONE"
+    ],
+    "scores": [
+      0.9963558912277222,
+      0.9995179176330566
+    ],
+    "merged_text": "TAXI ZONE",
+    "which_version": "original",
+    "metric_original": 1.0979369044303895,
+    "metric_enhanced": 1.0989736676216126,
+    "gt_lines": [
+      "TAXI",
+      "ZONE"
+    ],
+    "gt_merged": "TAXI ZONE",
+    "normalized_text": "TAXIS ZONE",
+    "clean_text": "TAXIS ZONE",
+    "clean_tokens": [
+      "TAXIS",
+      "ZONE"
+    ],
+    "token_corrections": {
+      "TAXI": "TAXIS"
+    }
+  },
+  "IMG_185_crop0.png": {
+    "texts": [
+      "/2P",
+      "9AM-6PM",
+      "MON-SAT",
+      "&",
+      "PUBLIC",
+      "HOILDAYS"
+    ],
+    "scores": [
+      0.9161112308502197,
+      0.9991709589958191,
+      0.979882538318634,
+      0.9997524619102478,
+      0.9991005063056946,
+      0.9994046688079834
+    ],
+    "merged_text": "/2P 9AM-6PM MON-SAT & PUBLIC HOILDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.2689637819925945,
+    "metric_enhanced": 1.2822370608647664,
+    "gt_lines": [
+      "1/2P",
+      "9AM-6PM",
+      "MON-SAT",
+      "&",
+      "PUBLIC",
+      "HOILDAYS"
+    ],
+    "gt_merged": "1/2P 9AM-6PM MON-SAT & PUBLIC HOILDAYS",
+    "normalized_text": "/2P 9AM-6PM MON-SAT PUBLIC HOLIDAYS",
+    "clean_text": "/2P 9AM-6PM MON-SAT PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "/2P",
+      "9AM-6PM",
+      "MON-SAT",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC",
+      "HOILDAYS": "HOLIDAYS"
+    }
+  },
+  "IMG_188_crop0.png": {
+    "texts": [
+      "P",
+      "TICKET",
+      "7",
+      "PM",
+      "AM",
+      "MON - SAT",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9507488012313843,
+      0.9998326301574707,
+      0.999984622001648,
+      0.9997555017471313,
+      0.9998449087142944,
+      0.9541142582893372,
+      0.9998761415481567,
+      0.9996741414070129,
+      0.9994223117828369
+    ],
+    "merged_text": "P TICKET 7 PM AM MON - SAT & PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.4392503685421414,
+    "metric_enhanced": 1.442194135983785,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "9AM-7PM",
+      "MON-SAT",
+      "& PUBLIC",
+      "HOLIDAYS"
+    ],
+    "gt_merged": "2P TICKET 9AM-7PM MON-SAT & PUBLIC HOLIDAYS",
+    "normalized_text": "P TICKET 7PMAM MON-SAT PUBLIC HOLIDAYS",
+    "clean_text": "P TICKET 7PMAM MON-SAT PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "P",
+      "TICKET",
+      "7PMAM",
+      "MON",
+      "-",
+      "SAT",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_196_crop0.png": {
+    "texts": [
+      "AUTHORISEL",
+      "CAR",
+      "SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "scores": [
+      0.9826810956001282,
+      0.9997015595436096,
+      0.9996574521064758,
+      0.9997433423995972,
+      0.9997706413269043,
+      0.9880032539367676,
+      0.9999333620071411
+    ],
+    "merged_text": "AUTHORISEL CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "which_version": "original",
+    "metric_original": 1.3456415295600892,
+    "metric_enhanced": 1.232029950618744,
+    "gt_lines": [
+      "AUTHORISED",
+      "CAR SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE GG"
+    ],
+    "gt_merged": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "normalized_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_tokens": [
+      "AUTHORISED",
+      "CAR",
+      "SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "token_corrections": {
+      "AMTHORISEL": "AUTHORISED"
+    }
+  },
+  "IMG_196_crop1.png": {
+    "texts": [
+      "Z"
+    ],
+    "scores": [
+      0.9588608741760254
+    ],
+    "merged_text": "Z",
+    "which_version": "original",
+    "metric_original": 1.0088608741760254,
+    "metric_enhanced": 0.7605078101158143,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "Z",
+    "clean_text": "Z",
+    "clean_tokens": [
+      "Z"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_199_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING",
+      "AUST",
+      "POST",
+      "VEHICLES",
+      "EXCEPTED",
+      "3",
+      "MINUTE",
+      "LIMIT"
+    ],
+    "scores": [
+      0.9950393438339233,
+      0.9997302293777466,
+      0.9998862147331238,
+      0.9997048377990723,
+      0.9998703002929688,
+      0.9998769760131836,
+      0.9997723698616028,
+      0.999349057674408,
+      0.9979618191719055
+    ],
+    "merged_text": "NO STOPPING AUST POST VEHICLES EXCEPTED 3 MINUTE LIMIT",
+    "which_version": "original",
+    "metric_original": 1.4490212387508816,
+    "metric_enhanced": 1.3843037141693963,
+    "gt_lines": [
+      "NO",
+      "STOPPING",
+      "AUST POST",
+      "VEHICLES",
+      "EXCEPTED",
+      "3 MINUTE LIMIT"
+    ],
+    "gt_merged": "NO STOPPING AUST POST VEHICLES EXCEPTED 3 MINUTE LIMIT",
+    "normalized_text": "NO STOPPING AUST POST VEHICLES EXCEPTED 3 MINUTE LIMIT",
+    "clean_text": "NO STOPPING AUST POST VEHICLES EXCEPTED 3 MINUTE LIMIT",
+    "clean_tokens": [
+      "NO",
+      "STOPPING",
+      "AUST",
+      "POST",
+      "VEHICLES",
+      "EXCEPTED",
+      "3",
+      "MINUTE",
+      "LIMIT"
+    ],
+    "token_corrections": {
+      "AMST": "AUST"
+    }
+  },
+  "IMG_199_crop1.png": {
+    "texts": [
+      "P",
+      "&"
+    ],
+    "scores": [
+      0.9938005805015564,
+      0.9613193273544312
+    ],
+    "merged_text": "P &",
+    "which_version": "enhanced",
+    "metric_original": 1.055464392900467,
+    "metric_enhanced": 1.0775599539279939,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "P -",
+    "clean_text": "P -",
+    "clean_tokens": [
+      "P",
+      "-"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_208_crop0.png": {
+    "texts": [
+      "2P",
+      "8AM-6",
+      "PM",
+      "MON - FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "scores": [
+      0.9970297813415527,
+      0.6654847264289856,
+      0.9998815059661865,
+      0.9513645172119141,
+      0.9996749758720398,
+      0.9988240003585815,
+      0.9995694160461426,
+      0.9545840620994568
+    ],
+    "merged_text": "2P 8AM-6 PM MON - FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "which_version": "enhanced",
+    "metric_original": 1.333039218187332,
+    "metric_enhanced": 1.3458016231656074,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "normalized_text": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "clean_text": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "clean_tokens": [
+      "2P",
+      "8AM-6PM",
+      "MON",
+      "-",
+      "FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "G"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_214_crop0.png": {
+    "texts": [
+      "ON",
+      "STOPPING"
+    ],
+    "scores": [
+      0.999085545539856,
+      0.9995144009590149
+    ],
+    "merged_text": "ON STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0992999732494355,
+    "metric_enhanced": 1.099292939901352,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_214_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9985339641571045,
+      0.999542772769928
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0990383684635163,
+    "metric_enhanced": 1.09969220161438,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE",
+    "normalized_text": "BUS ZONE",
+    "clean_text": "BUS ZONE",
+    "clean_tokens": [
+      "BUS",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_215_crop0.png": {
+    "texts": [
+      "MAIL",
+      "ZONE"
+    ],
+    "scores": [
+      0.9986056089401245,
+      0.9990013241767883
+    ],
+    "merged_text": "MAIL ZONE",
+    "which_version": "original",
+    "metric_original": 1.0988034665584565,
+    "metric_enhanced": 1.0984138011932374,
+    "gt_lines": [
+      "MAIL",
+      "ZONE"
+    ],
+    "gt_merged": "MAIL ZONE",
+    "normalized_text": "MAIL ZONE",
+    "clean_text": "MAIL ZONE",
+    "clean_tokens": [
+      "MAIL",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_215_crop1.png": {
+    "texts": [
+      "TOPPIN"
+    ],
+    "scores": [
+      0.9386864304542542
+    ],
+    "merged_text": "TOPPIN",
+    "which_version": "original",
+    "metric_original": 0.9886864304542542,
+    "metric_enhanced": 0.9304007172584534,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "STOPPING",
+    "clean_text": "STOPPING",
+    "clean_tokens": [
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPIN": "STOPPING"
+    }
+  },
+  "IMG_216_crop0.png": {
+    "texts": [
+      "8",
+      "6",
+      "AM",
+      "MON - FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "REAG"
+    ],
+    "scores": [
+      0.9793522953987122,
+      0.9999271631240845,
+      0.9996970891952515,
+      0.9867678880691528,
+      0.999893844127655,
+      0.9997749924659729,
+      0.9997555017471313,
+      0.9066299200057983
+    ],
+    "merged_text": "8 6 AM MON - FRI PERMIT HOLDERS EXCEPTED REAG",
+    "which_version": "original",
+    "metric_original": 1.3839748367667197,
+    "metric_enhanced": 1.2454488456249238,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "normalized_text": "8-6AM MON-FRI PERMIT HOLDERS EXCEPTED REAR",
+    "clean_text": "8-6AM MON-FRI PERMIT HOLDERS EXCEPTED REAR",
+    "clean_tokens": [
+      "8-6AM",
+      "MON",
+      "-",
+      "FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "REAR"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "REAG": "REAR"
+    }
+  },
+  "IMG_216_crop1.png": {
+    "texts": [
+      "30",
+      "-",
+      "6",
+      "AM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9998546838760376,
+      0.9570580720901489,
+      0.999852180480957,
+      0.9955012798309326,
+      0.9519033432006836
+    ],
+    "merged_text": "30 - 6 AM MON - FRI",
+    "which_version": "enhanced",
+    "metric_original": 1.1854480177164077,
+    "metric_enhanced": 1.2308339118957519,
+    "gt_lines": [
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "830AM-6PM MON-FRI",
+    "normalized_text": "30-6AM MON-FRI",
+    "clean_text": "30-6AM MON-FRI",
+    "clean_tokens": [
+      "30",
+      "-",
+      "6AM",
+      "MON",
+      "-",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_218_crop0.png": {
+    "texts": [
+      "WORKS",
+      "ZONE",
+      "7",
+      "30",
+      "5",
+      "30",
+      "AM",
+      "PM",
+      "MON-",
+      "FRI",
+      "7",
+      "30",
+      "-",
+      "3",
+      "30",
+      "AM",
+      "PM",
+      "SAT"
+    ],
+    "scores": [
+      0.9997702836990356,
+      0.9998023509979248,
+      0.999970555305481,
+      0.9987894296646118,
+      0.9998513460159302,
+      0.999687671661377,
+      0.9982681274414062,
+      0.9998396635055542,
+      0.9971283674240112,
+      0.9993237853050232,
+      0.9998596906661987,
+      0.9924538731575012,
+      0.9452983736991882,
+      0.999767005443573,
+      0.9994067549705505,
+      0.9984431862831116,
+      0.9945980310440063,
+      0.9997653961181641
+    ],
+    "merged_text": "WORKS ZONE 7 30 5 30 AM PM MON- FRI 7 30 - 3 30 AM PM SAT",
+    "which_version": "original",
+    "metric_original": 1.8956679940223693,
+    "metric_enhanced": 1.613511599944188,
+    "gt_lines": [
+      "WORKS",
+      "ZONE",
+      "730AM-530PM",
+      "MON-FRI",
+      "730AM-330PM",
+      "SAT"
+    ],
+    "gt_merged": "WORKS ZONE 730AM-530PM MON-FRI 730AM-330PM SAT",
+    "normalized_text": "WORKS ZONE 7:30AM-5:30PM MON-FRI 7:30AM-3:30PM SAT",
+    "clean_text": "WORKS ZONE 7:30AM-5:30PM MON-FRI 7:30AM-3:30PM SAT",
+    "clean_tokens": [
+      "WORKS",
+      "ZONE",
+      "7:30AM-5:30PM",
+      "MON",
+      "-",
+      "FRI",
+      "7:30AM-3:30PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_218_crop1.png": {
+    "texts": [
+      "2P",
+      "8",
+      "6",
+      "EE",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "scores": [
+      0.9652447700500488,
+      0.9998427629470825,
+      0.9999114274978638,
+      0.35899657011032104,
+      0.9975529909133911,
+      0.9979565143585205,
+      0.9913002848625183,
+      0.9996880888938904,
+      0.9989188313484192,
+      0.9995806813240051,
+      0.9793705940246582
+    ],
+    "merged_text": "2P 8 6 EE AM PM MON - FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "which_version": "enhanced",
+    "metric_original": 1.3801511764526366,
+    "metric_enhanced": 1.4853057742118836,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "normalized_text": "2P 8-6 EE AM PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "clean_text": "2P 8-6 EE AM PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "clean_tokens": [
+      "2P",
+      "8-6",
+      "EE",
+      "AM",
+      "PM",
+      "MON",
+      "-",
+      "FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA",
+      "G"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_220_crop0.png": {
+    "texts": [
+      "2P",
+      "8",
+      "AM-6",
+      "MON -FRI",
+      "PERMIT",
+      "HOLDER",
+      "EXCEPTE",
+      "AREAG"
+    ],
+    "scores": [
+      0.9934060573577881,
+      0.9997835755348206,
+      0.9672445058822632,
+      0.9734292030334473,
+      0.999085009098053,
+      0.9992308020591736,
+      0.9987995028495789,
+      0.9960980415344238
+    ],
+    "merged_text": "2P 8 AM-6 MON -FRI PERMIT HOLDER EXCEPTE AREAG",
+    "which_version": "original",
+    "metric_original": 1.3908845871686935,
+    "metric_enhanced": 0.9937970697879791,
+    "gt_lines": [
+      "2P",
+      "8AM-6PM",
+      "MON-FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA G"
+    ],
+    "gt_merged": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "normalized_text": "2P 8 AM 6 MON-FRI PERMIT HOLDERS EXCEPTED AREA",
+    "clean_text": "2P 8 AM 6 MON-FRI PERMIT HOLDERS EXCEPTED AREA",
+    "clean_tokens": [
+      "2P",
+      "8",
+      "AM",
+      "6",
+      "MON",
+      "-",
+      "FRI",
+      "PERMIT",
+      "HOLDERS",
+      "EXCEPTED",
+      "AREA"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "HOLDER": "HOLDERS",
+      "EXCEPTE": "EXCEPTED",
+      "AREAG": "AREA"
+    }
+  },
+  "IMG_223_crop0.png": {
+    "texts": [
+      "Bug",
+      "ZONE"
+    ],
+    "scores": [
+      0.40274444222450256,
+      0.9997829794883728
+    ],
+    "merged_text": "Bug ZONE",
+    "which_version": "original",
+    "metric_original": 0.8012637108564377,
+    "metric_enhanced": 0.7569313555955887,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE",
+    "normalized_text": "BUS ZONE",
+    "clean_text": "BUS ZONE",
+    "clean_tokens": [
+      "BUS",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_223_crop1.png": {
+    "texts": [
+      "AUTHORISED",
+      "CAR SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "scores": [
+      0.9997526407241821,
+      0.9995096921920776,
+      0.9998126029968262,
+      0.9995877742767334,
+      0.9993711113929749,
+      0.9999093413352966
+    ],
+    "merged_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "which_version": "original",
+    "metric_original": 1.299657193819682,
+    "metric_enhanced": 1.2490635991096497,
+    "gt_lines": [
+      "AUTHORISED",
+      "CAR SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE GG"
+    ],
+    "gt_merged": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "normalized_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_tokens": [
+      "AUTHORISED",
+      "CAR",
+      "SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "token_corrections": {
+      "AMTHORISED": "AUTHORISED"
+    }
+  },
+  "IMG_224_crop0.png": {
+    "texts": [
+      "30",
+      "PM",
+      "AM",
+      "MON",
+      "- FRI",
+      "830-12",
+      "30",
+      "PM",
+      "AM",
+      "SAT"
+    ],
+    "scores": [
+      0.9996813535690308,
+      0.9994006156921387,
+      0.9990828037261963,
+      0.9997045397758484,
+      0.909565806388855,
+      0.8882257342338562,
+      0.9976157546043396,
+      0.9998584389686584,
+      0.9999018907546997,
+      0.9989457726478577
+    ],
+    "merged_text": "30 PM AM MON - FRI 830-12 30 PM AM SAT",
+    "which_version": "enhanced",
+    "metric_original": 1.3494510293006896,
+    "metric_enhanced": 1.479198271036148,
+    "gt_lines": [
+      "83AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "83AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "30 PM AM MON-FRI 8:30AM-12:30PM SAT",
+    "clean_text": "30 PM AM MON-FRI 8:30AM-12:30PM SAT",
+    "clean_tokens": [
+      "30",
+      "PM",
+      "AM",
+      "MON",
+      "-",
+      "FRI",
+      "8:30AM-12:30PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_224_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPIN"
+    ],
+    "scores": [
+      0.9977743625640869,
+      0.9991726875305176
+    ],
+    "merged_text": "NO STOPPIN",
+    "which_version": "original",
+    "metric_original": 1.0984735250473023,
+    "metric_enhanced": 1.0990070462226869,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPIN": "STOPPING"
+    }
+  },
+  "IMG_229_crop0.png": {
+    "texts": [
+      "4"
+    ],
+    "scores": [
+      0.9999359846115112
+    ],
+    "merged_text": "4",
+    "which_version": "enhanced",
+    "metric_original": 0.0,
+    "metric_enhanced": 1.0499359846115113,
+    "gt_lines": [
+      "4P",
+      "ONLY"
+    ],
+    "gt_merged": "4P ONLY",
+    "normalized_text": "4",
+    "clean_text": "4",
+    "clean_tokens": [
+      "4"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_229_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.999777615070343,
+      0.9997540712356567
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "enhanced",
+    "metric_original": 0.8402064353227615,
+    "metric_enhanced": 1.099765843153,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE",
+    "normalized_text": "BUS ZONE",
+    "clean_text": "BUS ZONE",
+    "clean_tokens": [
+      "BUS",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_229_crop2.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9997369647026062,
+      0.9996006488800049
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0996688067913056,
+    "metric_enhanced": 1.09978244304657,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE",
+    "normalized_text": "BUS ZONE",
+    "clean_text": "BUS ZONE",
+    "clean_tokens": [
+      "BUS",
+      "ZONE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_232_crop0.png": {
+    "texts": [
+      "AUTHORISED",
+      "CAR",
+      "SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "scores": [
+      0.9874588251113892,
+      0.9997349381446838,
+      0.9999273419380188,
+      0.9999195337295532,
+      0.9999109506607056,
+      0.9988435506820679,
+      0.9999847412109375
+    ],
+    "merged_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "which_version": "original",
+    "metric_original": 1.3479685544967652,
+    "metric_enhanced": 1.3498786279133388,
+    "gt_lines": [
+      "AUTHORISED",
+      "CAR SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE GG"
+    ],
+    "gt_merged": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "normalized_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "clean_tokens": [
+      "AUTHORISED",
+      "CAR",
+      "SHARE",
+      "VEHICLES",
+      "EXCEPTED",
+      "ZONE",
+      "GG"
+    ],
+    "token_corrections": {
+      "AMTHORISED": "AUTHORISED"
+    }
+  },
+  "IMG_232_crop1.png": {
+    "texts": [
+      "4P",
+      "TICKET",
+      "6",
+      "-10",
+      "PM",
+      "PM",
+      "MON - FRI",
+      "8",
+      "10",
+      "AM",
+      "PM",
+      "SAT.",
+      ". SUN",
+      "&",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9991445541381836,
+      0.9999024868011475,
+      0.9999737739562988,
+      0.9960498809814453,
+      0.9999514222145081,
+      0.9999233484268188,
+      0.9946088790893555,
+      0.9999219179153442,
+      0.999109148979187,
+      0.9999117255210876,
+      0.9999541640281677,
+      0.9919185638427734,
+      0.8647602796554565,
+      0.9998180270195007,
+      0.9997445940971375,
+      0.9998550415039062
+    ],
+    "merged_text": "4P TICKET 6 -10 PM PM MON - FRI 8 10 AM PM SAT. . SUN & PUBLIC HOLIDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.7414448181788127,
+    "metric_enhanced": 1.790284238010645,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-FRI",
+      "8AM-10PM",
+      "SAT, SUN & PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT, SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT . SUN PUBLIC HOLIDAYS",
+    "clean_text": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT . SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON",
+      "-",
+      "FRI",
+      "8AM-10PM",
+      "SAT",
+      ".",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_232_crop2.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "8",
+      "6",
+      "AM",
+      "PM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9961569309234619,
+      0.9998548626899719,
+      0.990760087966919,
+      0.9999529123306274,
+      0.9999310374259949,
+      0.9998446702957153,
+      0.9488928318023682
+    ],
+    "merged_text": "2P TICKET 8 6 AM PM MON - FRI",
+    "which_version": "original",
+    "metric_original": 1.3407704762050083,
+    "metric_enhanced": 1.328635140827724,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "8AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "2P TICKET 8AM-6PM MON-FRI",
+    "normalized_text": "2P TICKET 8AM-6PM MON-FRI",
+    "clean_text": "2P TICKET 8AM-6PM MON-FRI",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "8AM-6PM",
+      "MON",
+      "-",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_239_crop0.png": {
+    "texts": [
+      "NO",
+      "TOPPING"
+    ],
+    "scores": [
+      0.997417688369751,
+      0.9994010329246521
+    ],
+    "merged_text": "NO TOPPING",
+    "which_version": "original",
+    "metric_original": 1.0984093606472016,
+    "metric_enhanced": 1.0981597661972047,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_239_crop1.png": {
+    "texts": [
+      "5",
+      "MINUTE"
+    ],
+    "scores": [
+      0.9997618794441223,
+      0.9918863773345947
+    ],
+    "merged_text": "5 MINUTE",
+    "which_version": "original",
+    "metric_original": 1.0958241283893586,
+    "metric_enhanced": 1.0994934797286988,
+    "gt_lines": [
+      "P 5",
+      "MINUTE"
+    ],
+    "gt_merged": "P 5 MINUTE",
+    "normalized_text": "5 MINUTE",
+    "clean_text": "5 MINUTE",
+    "clean_tokens": [
+      "5",
+      "MINUTE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_245_crop0.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "",
+    "clean_text": "",
+    "clean_tokens": [],
+    "token_corrections": {}
+  },
+  "IMG_245_crop1.png": {
+    "texts": [
+      "SPECIAL",
+      "EVENT",
+      "CLEARWAY",
+      "5AM-11",
+      "30",
+      "AM",
+      "SUN",
+      "31",
+      "AUG",
+      "RTA  132 701",
+      "AUTHORISED",
+      "TAXIS",
+      "EXCEPTE",
+      "NORMAL",
+      "PARKING",
+      "RESTRICTIONS",
+      "APPLY",
+      "AT ALL",
+      "OTHER"
+    ],
+    "scores": [
+      0.9994727969169617,
+      0.9995148777961731,
+      0.9847668409347534,
+      0.9040282368659973,
+      0.9996554851531982,
+      0.9985169172286987,
+      0.9987068772315979,
+      0.9990645051002502,
+      0.9922966361045837,
+      0.9484965801239014,
+      0.9997074007987976,
+      0.9999117851257324,
+      0.9932765364646912,
+      0.9785122275352478,
+      0.996195912361145,
+      0.9977813363075256,
+      0.9117948412895203,
+      0.985276997089386,
+      0.9989182353019714
+    ],
+    "merged_text": "SPECIAL EVENT CLEARWAY 5AM-11 30 AM SUN 31 AUG RTA  132 701 AUTHORISED TAXIS EXCEPTE NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER",
+    "which_version": "original",
+    "metric_original": 1.9334681592489544,
+    "metric_enhanced": 1.3175164252519607,
+    "gt_lines": [
+      "C SPECIAL EVENT",
+      "CLEARWAY",
+      "RTA 132 701",
+      "5AM-1130AM",
+      "SUN 31 AUG",
+      "AUTHORISED TAXIS EXCEPTED",
+      "NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIME"
+    ],
+    "gt_merged": "C SPECIAL EVENT CLEARWAY RTA 132 701 5AM-1130AM SUN 31 AUG AUTHORISED TAXIS EXCEPTED NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER TIME",
+    "normalized_text": "SPECIAL EVENT CLEARWAY 5AM-11AM 30 SUN 31 AM RTA 1:32-7:01 AUTHORISED TAXIS EXCEPTED NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER",
+    "clean_text": "SPECIAL EVENT CLEARWAY 5AM-11AM 30 SUN 31 AM RTA 1:32-7:01 AUTHORISED TAXIS EXCEPTED NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER",
+    "clean_tokens": [
+      "SPECIAL",
+      "EVENT",
+      "CLEARWAY",
+      "5AM-11AM",
+      "30",
+      "SUN",
+      "31",
+      "AM",
+      "RTA",
+      "1:32-7:01",
+      "AUTHORISED",
+      "TAXIS",
+      "EXCEPTED",
+      "NORMAL",
+      "PARKING",
+      "RESTRICTIONS",
+      "APPLY",
+      "AT",
+      "ALL",
+      "OTHER"
+    ],
+    "token_corrections": {
+      "AMG": "AM",
+      "AMTHORISED": "AUTHORISED",
+      "EXCEPTE": "EXCEPTED"
+    }
+  },
+  "IMG_252_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM",
+      "6",
+      "PM",
+      "MON",
+      "FRI",
+      "6",
+      "-10",
+      "AM",
+      "AM",
+      "SAT"
+    ],
+    "scores": [
+      0.9995017647743225,
+      0.9997920393943787,
+      0.9998294711112976,
+      0.7843030095100403,
+      0.9999527931213379,
+      0.9996091723442078,
+      0.9996181130409241,
+      0.9996395111083984,
+      0.9991057515144348,
+      0.9951359629631042,
+      0.9997937679290771,
+      0.9997648000717163,
+      0.9996173977851868
+    ],
+    "merged_text": "LOADING ZONE TICKET 6AM 6 PM MON FRI 6 -10 AM AM SAT",
+    "which_version": "original",
+    "metric_original": 1.6327433503591098,
+    "metric_enhanced": 1.6309420338043799,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM-6PM",
+      "MON-FRI",
+      "6AM-10AM",
+      "SAT"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "normalized_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "clean_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "6AM-6PM",
+      "MON-FRI",
+      "6AM-10AM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_252_crop1.png": {
+    "texts": [
+      "4P",
+      "TICKET",
+      "6",
+      "MID",
+      "PM",
+      "NIGHT",
+      "MON",
+      "FRI",
+      "10",
+      "10",
+      "PM",
+      "SAT",
+      "8",
+      "-",
+      "10",
+      "AM",
+      "PM",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9992304444313049,
+      0.9998104572296143,
+      0.9999641180038452,
+      0.9996273517608643,
+      0.9999145269393921,
+      0.9998865127563477,
+      0.9994089603424072,
+      0.9997137188911438,
+      0.8986722230911255,
+      0.9029418230056763,
+      0.9997525215148926,
+      0.9997873306274414,
+      0.9992515444755554,
+      0.9309950470924377,
+      0.9342458248138428,
+      0.9996898174285889,
+      0.9998189210891724,
+      0.9994785189628601,
+      0.9993236660957336,
+      0.999530553817749
+    ],
+    "merged_text": "4P TICKET 6 MID PM NIGHT MON FRI 10 10 PM SAT 8 - 10 AM PM SUN PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.9830521941184998,
+    "metric_enhanced": 1.8835853543546466,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-MIDNIGHT",
+      "MON-FRI",
+      "10AM-10PM",
+      "SAT",
+      "8AM-10PM",
+      "SUN & PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-MIDNIGHT MON-FRI 10AM-10PM SAT 8AM-10PM SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "4P TICKET 6 MID PM NIGHT MON-FRI 10-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "clean_text": "4P TICKET 6 MID PM NIGHT MON-FRI 10-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "4P",
+      "TICKET",
+      "6",
+      "MID",
+      "PM",
+      "NIGHT",
+      "MON-FRI",
+      "10-10PM",
+      "SAT",
+      "8AM-10PM",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_257_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "7",
+      "6",
+      "AM",
+      "PM",
+      "MON",
+      "THU",
+      "7",
+      "12",
+      "AM",
+      "PM",
+      "FRI",
+      "7",
+      "6",
+      "AM",
+      "PM",
+      "SA",
+      "T",
+      "S",
+      "UN"
+    ],
+    "scores": [
+      0.9996261596679688,
+      0.9996899366378784,
+      0.999811589717865,
+      0.9999610185623169,
+      0.9999549388885498,
+      0.999848484992981,
+      0.9986363649368286,
+      0.9996750354766846,
+      0.999662458896637,
+      0.9999476671218872,
+      0.9237158298492432,
+      0.9998565316200256,
+      0.9995430111885071,
+      0.9996841549873352,
+      0.9998247027397156,
+      0.999934196472168,
+      0.9996950030326843,
+      0.9993888139724731,
+      0.998894214630127,
+      0.9998511075973511,
+      0.7785095572471619,
+      0.999889612197876
+    ],
+    "merged_text": "LOADING ZONE TICKET 7 6 AM PM MON THU 7 12 AM PM FRI 7 6 AM PM SA T S UN",
+    "which_version": "original",
+    "metric_original": 2.0861636541106483,
+    "metric_enhanced": 2.018483680770511,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "7AM-6PM",
+      "MON-THU",
+      "7AM-12PM",
+      "FRI",
+      "7AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 7AM-6PM MON-THU 7AM-12PM FRI 7AM-6PM SAT-SUN",
+    "normalized_text": "LOADING ZONE TICKET 7AM-6PM MON-THU 7AM-12PM FRI 7AM-6PM SA T 5 SUN",
+    "clean_text": "LOADING ZONE TICKET 7AM-6PM MON-THU 7AM-12PM FRI 7AM-6PM SA T 5 SUN",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "7AM-6PM",
+      "MON-THU",
+      "7AM-12PM",
+      "FRI",
+      "7AM-6PM",
+      "SA",
+      "T",
+      "5",
+      "SUN"
+    ],
+    "token_corrections": {
+      "S": "5",
+      "FRII": "FRI"
+    }
+  },
+  "IMG_257_crop1.png": {
+    "texts": [
+      "NO",
+      "TOPPING"
+    ],
+    "scores": [
+      0.9953005313873291,
+      0.998294472694397
+    ],
+    "merged_text": "NO TOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.0,
+    "metric_enhanced": 1.0967975020408631,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_257_crop2.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "6",
+      "10",
+      "PM",
+      "PM",
+      "MON -",
+      "THU",
+      "6",
+      "10",
+      "PM",
+      "PM",
+      "SAT -",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9965956211090088,
+      0.935976505279541,
+      0.999950647354126,
+      0.9910628199577332,
+      0.9998253583908081,
+      0.9997774958610535,
+      0.9049283266067505,
+      0.9997829794883728,
+      0.9999376535415649,
+      0.9864305257797241,
+      0.99988853931427,
+      0.9997131824493408,
+      0.9254046678543091,
+      0.9998794198036194,
+      0.9997463226318359,
+      0.9996110200881958
+    ],
+    "merged_text": "2P TICKET 6 10 PM PM MON - THU 6 10 PM PM SAT - SUN PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.783656942844391,
+    "metric_enhanced": 1.7257777055104575,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-THU",
+      "6PM-10PM",
+      "SAT-SUN",
+      "& PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "2P TICKET 6PM-10PM MON-THU 6PM-10PM SAT-SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "2P TICKET 6PM-10PM MON-THU 6PM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_text": "2P TICKET 6PM-10PM MON-THU 6PM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-THU",
+      "6PM-10PM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_257_crop3.png": {
+    "texts": [
+      "2",
+      "- 11p",
+      "PM",
+      "FRIDAY"
+    ],
+    "scores": [
+      0.9999150037765503,
+      0.9831255078315735,
+      0.9996858835220337,
+      0.9973492622375488
+    ],
+    "merged_text": "2 - 11p PM FRIDAY",
+    "which_version": "enhanced",
+    "metric_original": 1.1699290841817855,
+    "metric_enhanced": 1.1950189143419265,
+    "gt_lines": [
+      "12PM-11PM",
+      "FRIDAY"
+    ],
+    "gt_merged": "12PM-11PM FRIDAY",
+    "normalized_text": "2 - 11P PM FRI",
+    "clean_text": "2 - 11P PM FRI",
+    "clean_tokens": [
+      "2",
+      "-",
+      "11P",
+      "PM",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRIIDAY": "FRIDAY",
+      "day_canonical": [
+        {
+          "original": "FRIDAY",
+          "canonical": "FRI"
+        }
+      ]
+    }
+  },
+  "IMG_259_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "9",
+      "AM",
+      "PM",
+      "MON",
+      "FRI",
+      "10",
+      "AM",
+      "AM",
+      "SAT"
+    ],
+    "scores": [
+      0.9972034096717834,
+      0.9998242855072021,
+      0.999790370464325,
+      0.9975577592849731,
+      0.9995930790901184,
+      0.9991906881332397,
+      0.9996960759162903,
+      0.9995908737182617,
+      0.9948665499687195,
+      0.9993874430656433,
+      0.9264621138572693,
+      0.9997005462646484
+    ],
+    "merged_text": "LOADING ZONE TICKET 9 AM PM MON FRI 10 AM AM SAT",
+    "which_version": "original",
+    "metric_original": 1.5927385995785395,
+    "metric_enhanced": 1.579194854696592,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "7AM-6PM",
+      "MON-FRI",
+      "7AM-10AM",
+      "SAT"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 7AM-6PM MON-FRI 7AM-10AM SAT",
+    "normalized_text": "LOADING ZONE TICKET 9AMPM MON-FRI 10AMAM SAT",
+    "clean_text": "LOADING ZONE TICKET 9AMPM MON-FRI 10AMAM SAT",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "9AMPM",
+      "MON-FRI",
+      "10AMAM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_259_crop1.png": {
+    "texts": [
+      "STOPPINC",
+      "ON"
+    ],
+    "scores": [
+      0.9780451059341431,
+      0.9990109205245972
+    ],
+    "merged_text": "STOPPINC ON",
+    "which_version": "original",
+    "metric_original": 1.0885280132293702,
+    "metric_enhanced": 1.0690664410591126,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPINC": "STOPPING"
+    }
+  },
+  "IMG_259_crop2.png": {
+    "texts": [
+      "4P",
+      "TICKET",
+      "6",
+      "-10",
+      "PM",
+      "PM",
+      "MON",
+      "I-FRI",
+      "10",
+      "-10",
+      "AM",
+      "PM",
+      "SAT",
+      "8",
+      "-10",
+      "AM",
+      "PM",
+      "SUN &",
+      "PUBLI",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9996199011802673,
+      0.9996933341026306,
+      0.9998608827590942,
+      0.9977464079856873,
+      0.9973777532577515,
+      0.9945377111434937,
+      0.9985435009002686,
+      0.8738869428634644,
+      0.9931044578552246,
+      0.8663209080696106,
+      0.986113965511322,
+      0.9982988834381104,
+      0.938250720500946,
+      0.9996645450592041,
+      0.9979963302612305,
+      0.9925999641418457,
+      0.9961382150650024,
+      0.9961841702461243,
+      0.9979192018508911,
+      0.9995827078819275
+    ],
+    "merged_text": "4P TICKET 6 -10 PM PM MON I-FRI 10 -10 AM PM SAT 8 -10 AM PM SUN & PUBLI HOLIDAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.8304306556196774,
+    "metric_enhanced": 1.9811720252037048,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-FRI",
+      "10AM-10PM",
+      "SAT",
+      "8AM-10PM",
+      "SUN & PUBLI",
+      "HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-10PM MON-FRI 10AM-10PM SAT 8AM-10PM SUN & PUBLI HOLIDAYS",
+    "normalized_text": "4P TICKET 6PM-10PM MON-FRI 10AM-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "clean_text": "4P TICKET 6PM-10PM MON-FRI 10AM-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-FRI",
+      "10AM-10PM",
+      "SAT",
+      "8AM-10PM",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLI": "PUBLIC"
+    }
+  },
+  "IMG_261_crop0.png": {
+    "texts": [
+      "TOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9996083378791809,
+      0.9994459748268127
+    ],
+    "merged_text": "TOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.099527156352997,
+    "metric_enhanced": 1.0995386004447938,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_261_crop1.png": {
+    "texts": [
+      "5",
+      "MINUTE"
+    ],
+    "scores": [
+      0.9997648596763611,
+      0.998199999332428
+    ],
+    "merged_text": "5 MINUTE",
+    "which_version": "enhanced",
+    "metric_original": 1.0825971126556397,
+    "metric_enhanced": 1.0989824295043946,
+    "gt_lines": [
+      "P 5",
+      "MINUTE"
+    ],
+    "gt_merged": "P 5 MINUTE",
+    "normalized_text": "5 MINUTE",
+    "clean_text": "5 MINUTE",
+    "clean_tokens": [
+      "5",
+      "MINUTE"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_267_crop0.png": {
+    "texts": [
+      "P",
+      "TICKET",
+      "10PM",
+      "6",
+      "PM",
+      "MON",
+      "FRI",
+      "-",
+      "10PM",
+      "8",
+      "AM",
+      "SAT",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9963974356651306,
+      0.9999260902404785,
+      0.8820685148239136,
+      0.999919056892395,
+      0.9982129335403442,
+      0.9997822642326355,
+      0.9982698559761047,
+      0.9513190984725952,
+      0.8661354184150696,
+      0.9995438456535339,
+      0.9998878836631775,
+      0.999854564666748,
+      0.9999286532402039,
+      0.999786376953125,
+      0.9736759066581726
+    ],
+    "merged_text": "P TICKET 10PM 6 PM MON FRI - 10PM 8 AM SAT SUN PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.7276471932729085,
+    "metric_enhanced": 1.579665274421374,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-FRI",
+      "8AM-10PM",
+      "SAT-SUN",
+      "PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "normalized_text": "P TICKET 10PM-6PM MON-FRI - 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_text": "P TICKET 10PM-6PM MON-FRI - 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "P",
+      "TICKET",
+      "10PM-6PM",
+      "MON-FRI",
+      "-",
+      "10PM-8AM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_267_crop1.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "6",
+      "AM",
+      "PN",
+      "MON",
+      "FRI"
+    ],
+    "scores": [
+      0.949913740158081,
+      0.9998266696929932,
+      0.9999419450759888,
+      0.9998778700828552,
+      0.9281690120697021,
+      0.9998319745063782,
+      0.9704315066337585
+    ],
+    "merged_text": "2P TICKET 6 AM PN MON FRI",
+    "which_version": "original",
+    "metric_original": 1.3282846740313938,
+    "metric_enhanced": 1.3211932234466075,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "8AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "2P TICKET 8AM-6PM MON-FRI",
+    "normalized_text": "2P TICKET 6AM PN MON-FRI",
+    "clean_text": "2P TICKET 6AM PN MON-FRI",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "6AM",
+      "PN",
+      "MON-FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_268_crop0.png": {
+    "texts": [
+      "2P",
+      "TICKET",
+      "3",
+      "6",
+      "AM",
+      "PN",
+      "MON",
+      "FRI",
+      "-"
+    ],
+    "scores": [
+      0.9675285220146179,
+      0.9998199939727783,
+      0.9707613587379456,
+      0.9999444484710693,
+      0.9997933506965637,
+      0.937655508518219,
+      0.9997803568840027,
+      0.9995570182800293,
+      0.9445608258247375
+    ],
+    "merged_text": "2P TICKET 3 6 AM PN MON FRI -",
+    "which_version": "enhanced",
+    "metric_original": 1.3304609447717666,
+    "metric_enhanced": 1.4299334870444405,
+    "gt_lines": [
+      "2P",
+      "TICKET",
+      "8AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "2P TICKET 8AM-6PM MON-FRI",
+    "normalized_text": "2P TICKET 3-6AM PN MON-FRI -",
+    "clean_text": "2P TICKET 3-6AM PN MON-FRI -",
+    "clean_tokens": [
+      "2P",
+      "TICKET",
+      "3-6AM",
+      "PN",
+      "MON-FRI",
+      "-"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_268_crop1.png": {
+    "texts": [
+      "P",
+      "TICKET",
+      "10PM",
+      "6",
+      "PM",
+      "MON",
+      "FRI",
+      "10PM",
+      "8",
+      "AM",
+      "SAT",
+      "SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "scores": [
+      0.9932153224945068,
+      0.9998050332069397,
+      0.8579937219619751,
+      0.9999085664749146,
+      0.9795233607292175,
+      0.999775230884552,
+      0.9984175562858582,
+      0.8636468648910522,
+      0.9998025298118591,
+      0.9999065399169922,
+      0.9998118281364441,
+      0.9997962117195129,
+      0.9996711611747742,
+      0.9997020959854126
+    ],
+    "merged_text": "P TICKET 10PM 6 PM MON FRI 10PM 8 AM SAT SUN PUBLIC HOLIDAYS",
+    "which_version": "original",
+    "metric_original": 1.677926858833858,
+    "metric_enhanced": 1.478356957435608,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "6PM-10PM",
+      "MON-FRI",
+      "8AM-10PM",
+      "SAT-SUN",
+      "PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "normalized_text": "P TICKET 10PM-6PM MON-FRI 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_text": "P TICKET 10PM-6PM MON-FRI 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "clean_tokens": [
+      "P",
+      "TICKET",
+      "10PM-6PM",
+      "MON-FRI",
+      "10PM-8AM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAYS"
+    ],
+    "token_corrections": {
+      "FRII": "FRI",
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_268_crop2.png": {
+    "texts": [
+      "NO",
+      "TOPPING"
+    ],
+    "scores": [
+      0.9970920085906982,
+      0.9962825179100037
+    ],
+    "merged_text": "NO TOPPING",
+    "which_version": "original",
+    "metric_original": 1.096687263250351,
+    "metric_enhanced": 1.0987150728702546,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "TOPPING": "STOPPING"
+    }
+  },
+  "IMG_271_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "8",
+      "6",
+      "PM",
+      "MON-",
+      "FRI"
+    ],
+    "scores": [
+      0.996209442615509,
+      0.999466061592102,
+      0.9933176040649414,
+      0.9997591376304626,
+      0.9999735355377197,
+      0.9997302293777466,
+      0.9924478530883789,
+      0.9993663430213928
+    ],
+    "merged_text": "LOADING ZONE TICKET 8 6 PM MON- FRI",
+    "which_version": "enhanced",
+    "metric_original": 1.3427851289510726,
+    "metric_enhanced": 1.3975337758660316,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "8PM-6AM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE TICKET 8PM-6AM MON-FRI",
+    "normalized_text": "LOADING ZONE TICKET 8-6PM MON-FRI",
+    "clean_text": "LOADING ZONE TICKET 8-6PM MON-FRI",
+    "clean_tokens": [
+      "LOADING",
+      "ZONE",
+      "TICKET",
+      "8-6PM",
+      "MON",
+      "-",
+      "FRI"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_271_crop1.png": {
+    "texts": [
+      "TICKET",
+      "8",
+      "10",
+      "AM",
+      "-",
+      "PM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAY"
+    ],
+    "scores": [
+      0.9997560977935791,
+      0.9995719790458679,
+      0.9949092268943787,
+      0.9998820424079895,
+      0.9214903712272644,
+      0.9998723268508911,
+      0.9982739090919495,
+      0.999863862991333,
+      0.9995557069778442
+    ],
+    "merged_text": "TICKET 8 10 AM - PM SAT-SUN PUBLIC HOLIDAY",
+    "which_version": "original",
+    "metric_original": 1.4403528359201219,
+    "metric_enhanced": 1.3184188876833234,
+    "gt_lines": [
+      "4P",
+      "TICKET",
+      "8AM-10PM",
+      "SAT-SUN",
+      "& PUBLIC HOLIDAYS"
+    ],
+    "gt_merged": "4P TICKET 8AM-10PM SAT-SUN & PUBLIC HOLIDAYS",
+    "normalized_text": "TICKET 8AM-10PM SAT-SUN PUBLIC HOLIDAY",
+    "clean_text": "TICKET 8AM-10PM SAT-SUN PUBLIC HOLIDAY",
+    "clean_tokens": [
+      "TICKET",
+      "8AM-10PM",
+      "SAT-SUN",
+      "PUBLIC",
+      "HOLIDAY"
+    ],
+    "token_corrections": {
+      "PMBLIC": "PUBLIC"
+    }
+  },
+  "IMG_271_crop2.png": {
+    "texts": [
+      "NO",
+      "STOPPIN"
+    ],
+    "scores": [
+      0.9944053888320923,
+      0.998497486114502
+    ],
+    "merged_text": "NO STOPPIN",
+    "which_version": "original",
+    "metric_original": 1.0964514374732972,
+    "metric_enhanced": 1.0828266501426698,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPIN": "STOPPING"
+    }
+  },
+  "IMG_271_crop3.png": {
+    "texts": [
+      "TIMES",
+      "OTHER",
+      "STOPPINC"
+    ],
+    "scores": [
+      0.9993559718132019,
+      0.9994556307792664,
+      0.976887583732605
+    ],
+    "merged_text": "TIMES OTHER STOPPINC",
+    "which_version": "original",
+    "metric_original": 1.1418997287750243,
+    "metric_enhanced": 1.148007873694102,
+    "gt_lines": [
+      "NO STOPPING",
+      "OTHER TIMES"
+    ],
+    "gt_merged": "NO STOPPING OTHER TIMES",
+    "normalized_text": "TIMES OTHER STOPPING",
+    "clean_text": "TIMES OTHER STOPPING",
+    "clean_tokens": [
+      "TIMES",
+      "OTHER",
+      "STOPPING"
+    ],
+    "token_corrections": {
+      "STOPPINC": "STOPPING"
+    }
+  },
+  "IMG_280_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.99796062707901,
+      0.9995537996292114
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0987572133541108,
+    "metric_enhanced": 1.0986607432365418,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_282_crop0.png": {
+    "texts": [
+      "2P",
+      "830 -6",
+      "PM",
+      "MON -",
+      "FRI",
+      "830",
+      "12",
+      "30",
+      "PM",
+      "SVT"
+    ],
+    "scores": [
+      0.9963624477386475,
+      0.6506105065345764,
+      0.999912679195404,
+      0.9131975173950195,
+      0.9995413422584534,
+      0.9733395576477051,
+      0.9996708631515503,
+      0.9993411898612976,
+      0.9999383687973022,
+      0.4117793142795563
+    ],
+    "merged_text": "2P 830 -6 PM MON - FRI 830 12 30 PM SVT",
+    "which_version": "original",
+    "metric_original": 1.3943693786859512,
+    "metric_enhanced": 1.1795514799654483,
+    "gt_lines": [
+      "2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "2P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "2P 8:30-6 MON-FRI 8:30-12:30PM SAT",
+    "clean_text": "2P 8:30-6 MON-FRI 8:30-12:30PM SAT",
+    "clean_tokens": [
+      "2P",
+      "8:30-6",
+      "MON",
+      "-",
+      "FRI",
+      "8:30-12:30PM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_283_crop0.png": {
+    "texts": [
+      "2P",
+      "830",
+      "-6",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "-12",
+      "30",
+      "30",
+      "AM",
+      "PM"
+    ],
+    "scores": [
+      0.9814320802688599,
+      0.9876802563667297,
+      0.9907217621803284,
+      0.9999342560768127,
+      0.9999189972877502,
+      0.9611809849739075,
+      0.9701603055000305,
+      0.9953124523162842,
+      0.9978185296058655,
+      0.9998018145561218,
+      0.9998683333396912
+    ],
+    "merged_text": "2P 830 -6 AM PM MON - FRI -12 30 30 AM PM",
+    "which_version": "original",
+    "metric_original": 1.539439070224762,
+    "metric_enhanced": 1.5348539612509988,
+    "gt_lines": [
+      "2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "2P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "2P 8:30AM-6PM MON-FRI - 12:30AM-30PM",
+    "clean_text": "2P 8:30AM-6PM MON-FRI - 12:30AM-30PM",
+    "clean_tokens": [
+      "2P",
+      "8:30AM-6PM",
+      "MON",
+      "-",
+      "FRI",
+      "-",
+      "12:30AM-30PM"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  },
+  "IMG_283_crop1.png": {
+    "texts": [
+      "P",
+      "ONLY"
+    ],
+    "scores": [
+      0.993362307548523,
+      0.9991282820701599
+    ],
+    "merged_text": "P ONLY",
+    "which_version": "original",
+    "metric_original": 1.0962452948093415,
+    "metric_enhanced": 0.9124938090642294,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY",
+    "normalized_text": "P ONLY",
+    "clean_text": "P ONLY",
+    "clean_tokens": [
+      "P",
+      "ONLY"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_286_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "NO"
+    ],
+    "scores": [
+      0.9971106052398682,
+      0.9961577653884888
+    ],
+    "merged_text": "STOPPING NO",
+    "which_version": "original",
+    "metric_original": 1.0966341853141786,
+    "metric_enhanced": 1.0980902373790742,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING",
+    "normalized_text": "NO STOPPING",
+    "clean_text": "NO STOPPING",
+    "clean_tokens": [
+      "NO",
+      "STOPPING"
+    ],
+    "token_corrections": {}
+  },
+  "IMG_287_crop0.png": {
+    "texts": [
+      "1P",
+      "0",
+      "30",
+      "6",
+      "AM",
+      "PM",
+      "MON - FRI",
+      "830",
+      "12",
+      "30",
+      "AM",
+      "PM",
+      "SAT"
+    ],
+    "scores": [
+      0.9989662766456604,
+      0.3754042387008667,
+      0.9977160096168518,
+      0.998079776763916,
+      0.9999566078186035,
+      0.9999198913574219,
+      0.9482882022857666,
+      0.9965238571166992,
+      0.9999480843544006,
+      0.9995125532150269,
+      0.9999411702156067,
+      0.9999357461929321,
+      0.9890242218971252
+    ],
+    "merged_text": "1P 0 30 6 AM PM MON - FRI 830 12 30 AM PM SAT",
+    "which_version": "original",
+    "metric_original": 1.5964012797062215,
+    "metric_enhanced": 1.4590142553051315,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT",
+    "normalized_text": "1P 0 30AM-6PM MON-FRI 8:30 12:30AMPM SAT",
+    "clean_text": "1P 0 30AM-6PM MON-FRI 8:30 12:30AMPM SAT",
+    "clean_tokens": [
+      "1P",
+      "0",
+      "30AM-6PM",
+      "MON",
+      "-",
+      "FRI",
+      "8:30",
+      "12:30AMPM",
+      "SAT"
+    ],
+    "token_corrections": {
+      "FRII": "FRI"
+    }
+  }
+}

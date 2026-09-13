@@ -1,0 +1,82 @@
+{
+  "image_id": "Demo_Folder_IMG_6.jpg",
+  "image_path": "demo/image_folder/Demo_Folder_IMG_6.jpg",
+  "num_signs": 2,
+  "signs": [
+    {
+      "sign_id": 1,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "TIME",
+      "permit_zone": "AREA 22",
+      "notes": "PERMIT HOLDERS EXCEPTED",
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": "4P",
+          "days": [
+            "MON",
+            "TUE",
+            "WED",
+            "THU",
+            "FRI"
+          ],
+          "time_start": "08:00",
+          "time_end": "18:00",
+          "payment_type": "TICKET",
+          "notes": null
+        },
+        {
+          "rule_id": 2,
+          "time_limit": "4P",
+          "days": [
+            "MON",
+            "TUE",
+            "WED",
+            "THU",
+            "FRI"
+          ],
+          "time_start": "18:00",
+          "time_end": "22:00",
+          "payment_type": "TICKET",
+          "notes": null
+        },
+        {
+          "rule_id": 3,
+          "time_limit": "4P",
+          "days": [
+            "SAT",
+            "SUN"
+          ],
+          "time_start": "08:00",
+          "time_end": "22:00",
+          "payment_type": "TICKET",
+          "notes": "PUBLIC HOLIDAYS"
+        }
+      ],
+      "raw_text": "8AM-6 menei PM MON - FRI 4P TICKET 6PM-10 PM MON - FRI 8AM-10 PM SAT - SUN & PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 22",
+      "clean_text": "8AM-6PM MENEI MON-FRI 4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 22",
+      "source_crop": "Demo_Folder_IMG_6_crop1.png"
+    },
+    {
+      "sign_id": 2,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "TIME",
+      "permit_zone": null,
+      "notes": null,
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": null,
+          "days": [],
+          "time_start": null,
+          "time_end": null,
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "ONIddoIS ON",
+      "clean_text": "ONIDDOIS ON",
+      "source_crop": "Demo_Folder_IMG_6_crop2.png"
+    }
+  ]
+}

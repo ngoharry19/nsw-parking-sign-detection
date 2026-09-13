@@ -1,0 +1,49 @@
+{
+  "image_id": "Demo_Folder_IMG_4.jpg",
+  "image_path": "demo/image_folder/Demo_Folder_IMG_4.jpg",
+  "num_signs": 2,
+  "signs": [
+    {
+      "sign_id": 1,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "NO STOPPING",
+      "permit_zone": null,
+      "notes": null,
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": null,
+          "days": [],
+          "time_start": null,
+          "time_end": null,
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "NO STOPPING",
+      "clean_text": "NO STOPPING",
+      "source_crop": "Demo_Folder_IMG_4_crop1.png"
+    },
+    {
+      "sign_id": 2,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "NO PARKING",
+      "permit_zone": null,
+      "notes": null,
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": null,
+          "days": [],
+          "time_start": null,
+          "time_end": null,
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "",
+      "clean_text": "",
+      "source_crop": "SYMBOL ONLY"
+    }
+  ]
+}

@@ -1,0 +1,4432 @@
+{
+  "IMG_012_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_012_crop1.png": {
+    "clean_text": "1P 9PM-08PM MON-FRI 830 12 30 PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "21:00",
+            "time_end": "20:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_013_crop0.png": {
+    "clean_text": "1P 30-6 0 PM MON-FRI 330 12 30 PM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_013_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_014_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_016_crop0.png": {
+    "clean_text": "1P 8:30AM-6:00PM MON-FRI 8:30AM-4:00PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:30",
+            "time_end": "16:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_016_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_016_crop2.png": {
+    "clean_text": "NVL HOMME CERTIFIERS RESICENTIAL DOMERCLAL APPROYAL CDC.CC.OC BUILDING SENVICES, CONSUITING DESIGS.MANAGEMENT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_017_crop0.png": {
+    "clean_text": "1P 8:30-6 MON-FRI 8:30-4P SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:30",
+            "time_end": "16:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_018_crop0.png": {
+    "clean_text": "1P 30 6:00 - AM PM MON-FRI 30 4:00 - : PM AM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_019_crop0.png": {
+    "clean_text": "1P 8:30AM-6:00PM MON-FRI 30 00 4:00 I AM PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_021_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_021_crop1.png": {
+    "clean_text": "1P 8:30-6 MON-FRI 8:30AM-4PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:30",
+            "time_end": "16:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_032_crop0.png": {
+    "clean_text": "MON 38 - FRI 0 4 MH PM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_042_crop0.png": {
+    "clean_text": "LOADING ZONE 30 MINUTE 7AM-4 MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "30MIN",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "07:00",
+            "time_end": "16:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_042_crop1.png": {
+    "clean_text": "2P METER 7AM-10PM SAT-SUN",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "07:00",
+            "time_end": "22:00",
+            "payment_type": "METER",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_045_crop0.png": {
+    "clean_text": "2P METER AM 10 MON-SUN",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT",
+              "SUN"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "METER",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_048_crop0.png": {
+    "clean_text": "LOADING ZONE 30 MINUTE 7AM-10PM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "30MIN",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "07:00",
+            "time_end": "22:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_050_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_053_crop0.png": {
+    "clean_text": "NO STOPPING TAXIS EXCEPTED LIMIT 1 MINUTE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1MIN",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_053_crop1.png": {
+    "clean_text": "C SPECIAL EVENT CLEARWAY MID 10 C NIGHT AM 31 AM RTA 0 1:32-7:01 $UN APPLY ALL OTHER TIMES",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "CLEARWAY",
+        "permit_zone": null,
+        "notes": "SPECIAL EVENT",
+        "rules": []
+      }
+    ]
+  },
+  "IMG_053_crop2.png": {
+    "clean_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "06:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "06:00",
+            "time_end": "10:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_053_crop3.png": {
+    "clean_text": "TICKET 10AM-6PM SAT 8AM-6PM SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "10:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SUN"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_053_crop4.png": {
+    "clean_text": "BUS 6-6 ZONE PM 7 DAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "ZONE PM",
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": "06:00",
+            "time_end": "06:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_054_crop0.png": {
+    "clean_text": "STOPPING 0",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_054_crop1.png": {
+    "clean_text": "A N FRI 0 LOADING 6 TICKET ZONE MON-SAT - AA AM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_054_crop2.png": {
+    "clean_text": "TICKET 6PM-12AM MON-FRI 10AM-10PM SAT 8AM-10PM N PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "18:00",
+            "time_end": "00:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "10:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 3,
+            "time_limit": null,
+            "days": [],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_054_crop3.png": {
+    "clean_text": "RETRCOUMES AM LE PARKING NOS AM AA OL LOL 1:22 MIIIL AA LEENNT DECELLL",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_059_crop0.png": {
+    "clean_text": "LOADING ZONE TICKET-3AM-10PM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "03:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_059_crop1.png": {
+    "clean_text": "4P TICKET 8 MID PM NIGHT MON-FRI 8AM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_059_crop2.png": {
+    "clean_text": "8 PN PM-FRI-MON",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "FRI",
+              "SAT",
+              "SUN",
+              "MON"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_060_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_060_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_068_crop0.png": {
+    "clean_text": "2P 9AM-6PM MON-SAT HOLIDAYS PUBLIC PERMIT HOLDERS EXCEPTED AREA 13",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 13",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": "09:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_068_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_069_crop0.png": {
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 22 AREA M1",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_072_crop0.png": {
+    "clean_text": "2P - 10AM-8PM PERMIT HOLDERS EXCEPTED AREA 22 AREA M1",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 22 AREA M1",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [],
+            "time_start": "10:00",
+            "time_end": "20:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_072_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_075_crop0.png": {
+    "clean_text": "4P 9PM-6AM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [],
+            "time_start": "21:00",
+            "time_end": "06:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_075_crop1.png": {
+    "clean_text": "ANGLE PARKING REAR TO KERB VEHICLES UNDER 6M ONLY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "ANGLE PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_076_crop0.png": {
+    "clean_text": "VEHICLES UNDER 6M ONLY TO KERB REAR PARKING 90° ANGLE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "ANGLE PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_076_crop1.png": {
+    "clean_text": "4P 9PM-6AM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [],
+            "time_start": "21:00",
+            "time_end": "06:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_080_crop0.png": {
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA M1",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_082_crop0.png": {
+    "clean_text": "2P 8AM-10PM PERMIT HOLDERS EXCEPTED AREA M1",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA M1",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_089_crop0.png": {
+    "clean_text": "BUS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "BUS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_089_crop1.png": {
+    "clean_text": "OTHER TIMES",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_089_crop2.png": {
+    "clean_text": "U MON-FRI CLEARWAY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "CLEARWAY",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_091_crop0.png": {
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 12",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_093_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_094_crop0.png": {
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 12",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_095_crop0.png": {
+    "clean_text": "1P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_097_crop0.png": {
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_097_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_098_crop0.png": {
+    "clean_text": "4P 8 AM PM MON-FRI 8AMPM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 12",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_102_crop0.png": {
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_111_crop0.png": {
+    "clean_text": "4P 8 3AM-6PM PM MON-FRI 8-8AM - 1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 12",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "03:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "08:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_111_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_112_crop0.png": {
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_113_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_115_crop0.png": {
+    "clean_text": "4 P 8AM-6PM MON-FRI 8AM-1AMPM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "01:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_118_crop0.png": {
+    "clean_text": "P AM-6P 8PM MON-FRI $8 AMPM$ SAT PERMIT HOLDERS EXCEPTED AREA 8",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 8",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_118_crop1.png": {
+    "clean_text": "ONLY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "DISABLED PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_120_crop0.png": {
+    "clean_text": "1P 8:30-6 - AM PM MON-FRI - 8-12:30 30 AM PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "12:30",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_120_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_126_crop0.png": {
+    "clean_text": "8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_126_crop1.png": {
+    "clean_text": "7",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_138_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_138_crop1.png": {
+    "clean_text": "4P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 12",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 12",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_141_crop0.png": {
+    "clean_text": "2P METER 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT",
+              "SUN"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "METER",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_142_crop0.png": {
+    "clean_text": "4P 8AM 6F MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "13:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_143_crop0.png": {
+    "clean_text": "4P 8AM-6PM MON-FRI 8 AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 15",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 15",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_148_crop0.png": {
+    "clean_text": "MOTORCYCLE PARKING ONLY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_148_crop1.png": {
+    "clean_text": "Z",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_155_crop0.png": {
+    "clean_text": "LOADING ZONE 5 - AM PM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_155_crop1.png": {
+    "clean_text": "8:30AM-6PM MON-FRI 8-12:30 30 AM PM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [],
+            "time_start": "08:00",
+            "time_end": "12:30",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_156_crop0.png": {
+    "clean_text": "MON 30 A U 2 R 9 W",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_156_crop1.png": {
+    "clean_text": "STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_159_crop0.png": {
+    "clean_text": "LOADING ZONE 6:00PM-7:00AM 1:30 60MIN ONLY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "60MIN",
+            "days": [],
+            "time_start": "18:00",
+            "time_end": "07:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_159_crop1.png": {
+    "clean_text": "2",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_161_crop0.png": {
+    "clean_text": "2P TICKET 9AM-7PM MON-SAT - PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED AREA 13",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 13",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": "09:00",
+            "time_end": "19:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_161_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_161_crop2.png": {
+    "clean_text": "BLGOOL FHOIGD SA NOW 5P NIW AM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "5P",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_163_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_163_crop1.png": {
+    "clean_text": "TICKET 9AM-7PM MON-SAT PUBLIC HOLIDAYS PERMIT HOLDERS EXCEPTED 13 AREA",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA 13",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": "09:00",
+            "time_end": "19:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_166_crop0.png": {
+    "clean_text": "BUSES EXCEPTED",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_166_crop1.png": {
+    "clean_text": "STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_170_crop0.png": {
+    "clean_text": "2P 8AM-6PM MON-FRI 8AM-7PM SAT PERMIT HOLDERS EXCEPTED",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "2P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:00",
+            "time_end": "19:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_172_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_172_crop1.png": {
+    "clean_text": "ONLY P",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "DISABLED PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_172_crop2.png": {
+    "clean_text": "FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_173_crop0.png": {
+    "clean_text": "2P METER - 10AMPM MON-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT",
+              "SUN"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "METER",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_173_crop1.png": {
+    "clean_text": "P 5 NI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_175_crop0.png": {
+    "clean_text": "5 MINUTE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "5MIN",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_175_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_181_crop0.png": {
+    "clean_text": "2P TICKET 7AMPM MON-SAT PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_181_crop1.png": {
+    "clean_text": "P -",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_182_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_182_crop1.png": {
+    "clean_text": "TAXIS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TAXI ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_185_crop0.png": {
+    "clean_text": "/2P 9AM-6PM MON-SAT PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": "09:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_188_crop0.png": {
+    "clean_text": "P TICKET 7PMAM MON-SAT PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI",
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_196_crop0.png": {
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": "ZONE GG",
+        "notes": "AUTHORISED CAR SHARE VEHICLES EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_196_crop1.png": {
+    "clean_text": "Z",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_199_crop0.png": {
+    "clean_text": "NO STOPPING AUST POST VEHICLES EXCEPTED 3 MINUTE LIMIT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": "AUST POST VEHICLES EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "3MIN",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_199_crop1.png": {
+    "clean_text": "P -",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_208_crop0.png": {
+    "clean_text": "2P 8AM-6PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA G",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_214_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_214_crop1.png": {
+    "clean_text": "BUS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "BUS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_215_crop0.png": {
+    "clean_text": "MAIL ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "MAIL ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_215_crop1.png": {
+    "clean_text": "STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_216_crop0.png": {
+    "clean_text": "8-6AM MON-FRI PERMIT HOLDERS EXCEPTED REAR",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "20:00",
+            "time_end": "06:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_216_crop1.png": {
+    "clean_text": "30-6AM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_218_crop0.png": {
+    "clean_text": "WORKS ZONE 7:30AM-5:30PM MON-FRI 7:30AM-3:30PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "WORKS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "07:30",
+            "time_end": "17:30",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "07:30",
+            "time_end": "15:30",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_218_crop1.png": {
+    "clean_text": "2P 8-6 EE AM PM MON-FRI PERMIT HOLDERS EXCEPTED AREA G",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA G",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_220_crop0.png": {
+    "clean_text": "2P 8 AM 6 MON-FRI PERMIT HOLDERS EXCEPTED AREA",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": "AREA",
+        "notes": "PERMIT HOLDERS EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_223_crop0.png": {
+    "clean_text": "BUS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "BUS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_223_crop1.png": {
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": "ZONE GG",
+        "notes": "AUTHORISED CAR SHARE VEHICLES EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_224_crop0.png": {
+    "clean_text": "30 PM AM MON-FRI 8:30AM-12:30PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:30",
+            "time_end": "12:30",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_224_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_229_crop0.png": {
+    "clean_text": "4",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_229_crop1.png": {
+    "clean_text": "BUS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "BUS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_229_crop2.png": {
+    "clean_text": "BUS ZONE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "BUS ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_232_crop0.png": {
+    "clean_text": "AUTHORISED CAR SHARE VEHICLES EXCEPTED ZONE GG",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": "ZONE GG",
+        "notes": "AUTHORISED CAR SHARE VEHICLES EXCEPTED",
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_232_crop1.png": {
+    "clean_text": "4P TICKET 6PM-10PM MON-FRI 8AM-10PM SAT . SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "18:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_232_crop2.png": {
+    "clean_text": "2P TICKET 8AM-6PM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_239_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_239_crop1.png": {
+    "clean_text": "5 MINUTE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "5MIN",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_245_crop0.png": {
+    "clean_text": "",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_245_crop1.png": {
+    "clean_text": "SPECIAL EVENT CLEARWAY 5AM-11AM 30 SUN 31 AM RTA 1:32-7:01 AUTHORISED TAXIS EXCEPTED NORMAL PARKING RESTRICTIONS APPLY AT ALL OTHER",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "CLEARWAY",
+        "permit_zone": null,
+        "notes": "SPECIAL EVENT",
+        "rules": []
+      }
+    ]
+  },
+  "IMG_252_crop0.png": {
+    "clean_text": "LOADING ZONE TICKET 6AM-6PM MON-FRI 6AM-10AM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "06:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": "06:00",
+            "time_end": "10:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_252_crop1.png": {
+    "clean_text": "4P TICKET 6 MID PM NIGHT MON-FRI 10-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "22:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SUN"
+            ],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_257_crop0.png": {
+    "clean_text": "LOADING ZONE TICKET 7AM-6PM MON-THU 7AM-12PM FRI 7AM-6PM SA T 5 SUN",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU"
+            ],
+            "time_start": "07:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "FRI"
+            ],
+            "time_start": "07:00",
+            "time_end": "12:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 3,
+            "time_limit": null,
+            "days": [
+              "SUN"
+            ],
+            "time_start": "07:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_257_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_257_crop2.png": {
+    "clean_text": "2P TICKET 6PM-10PM MON-THU 6PM-10PM SAT-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU"
+            ],
+            "time_start": "18:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "2P",
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "18:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_257_crop3.png": {
+    "clean_text": "2 - 11P PM FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "11P",
+            "days": [
+              "FRI"
+            ],
+            "time_start": "02:00",
+            "time_end": "11:00",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_259_crop0.png": {
+    "clean_text": "LOADING ZONE TICKET 9AMPM MON-FRI 10AMAM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_259_crop1.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_259_crop2.png": {
+    "clean_text": "4P TICKET 6PM-10PM MON-FRI 10AM-10PM SAT 8AM-10PM SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "4P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "18:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "4P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "10:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 3,
+            "time_limit": "4P",
+            "days": [
+              "SUN"
+            ],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_261_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_261_crop1.png": {
+    "clean_text": "5 MINUTE",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "5MIN",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_267_crop0.png": {
+    "clean_text": "P TICKET 10PM-6PM MON-FRI - 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "22:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "22:00",
+            "time_end": "08:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_267_crop1.png": {
+    "clean_text": "2P TICKET 6AM PN MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_268_crop0.png": {
+    "clean_text": "2P TICKET 3-6AM PN MON-FRI -",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "03:00",
+            "time_end": "06:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_268_crop1.png": {
+    "clean_text": "P TICKET 10PM-6PM MON-FRI 10PM-8AM SAT-SUN PUBLIC HOLIDAYS",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "22:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": null,
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "22:00",
+            "time_end": "08:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_268_crop2.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_271_crop0.png": {
+    "clean_text": "LOADING ZONE TICKET 8-6PM MON-FRI",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "LOADING ZONE",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:00",
+            "time_end": "18:00",
+            "payment_type": "TICKET",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_271_crop1.png": {
+    "clean_text": "TICKET 8AM-10PM SAT-SUN PUBLIC HOLIDAY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [
+              "SAT",
+              "SUN"
+            ],
+            "time_start": "08:00",
+            "time_end": "22:00",
+            "payment_type": "TICKET",
+            "notes": "PUBLIC HOLIDAYS"
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_271_crop2.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_271_crop3.png": {
+    "clean_text": "TIMES OTHER STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_280_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_282_crop0.png": {
+    "clean_text": "2P 8:30-6 MON-FRI 8:30-12:30PM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "2P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": "08:30",
+            "time_end": "12:30",
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_283_crop0.png": {
+    "clean_text": "2P 8:30AM-6PM MON-FRI - 12:30AM-30PM",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "2P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": "08:30",
+            "time_end": "18:00",
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "2P",
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_283_crop1.png": {
+    "clean_text": "P ONLY",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "DISABLED PARKING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_286_crop0.png": {
+    "clean_text": "NO STOPPING",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "NO STOPPING",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": null,
+            "days": [],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  },
+  "IMG_287_crop0.png": {
+    "clean_text": "1P 0 30AM-6PM MON-FRI 8:30 12:30AMPM SAT",
+    "signs": [
+      {
+        "sign_id": 1,
+        "sign_type": "RESTRICTION",
+        "restriction_sign_type": "TIME",
+        "permit_zone": null,
+        "notes": null,
+        "rules": [
+          {
+            "rule_id": 1,
+            "time_limit": "1P",
+            "days": [
+              "MON",
+              "TUE",
+              "WED",
+              "THU",
+              "FRI"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          },
+          {
+            "rule_id": 2,
+            "time_limit": "1P",
+            "days": [
+              "SAT"
+            ],
+            "time_start": null,
+            "time_end": null,
+            "payment_type": "FREE",
+            "notes": null
+          }
+        ]
+      }
+    ]
+  }
+}

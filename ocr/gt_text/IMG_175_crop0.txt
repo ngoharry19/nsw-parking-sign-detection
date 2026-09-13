@@ -1,0 +1,3 @@
+P 15
+MINUTE
+6AM-7PM

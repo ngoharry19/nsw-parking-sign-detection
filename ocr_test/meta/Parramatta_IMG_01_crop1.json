@@ -1,0 +1,13 @@
+{
+  "image_id": "Parramatta_IMG_01",
+  "crop_id": 1,
+  "bbox": [
+    209,
+    70,
+    285,
+    265
+  ],
+  "score": 0.95535,
+  "crop_file": "Parramatta_IMG_01_crop1.png",
+  "gt_file": "Parramatta_IMG_01_crop1.txt"
+}

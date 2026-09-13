@@ -1,0 +1,13 @@
+{
+  "image_id": "Yennora_IMG_15",
+  "crop_id": 1,
+  "bbox": [
+    80,
+    154,
+    180,
+    346
+  ],
+  "score": 0.80015,
+  "crop_file": "Yennora_IMG_15_crop1.png",
+  "gt_file": "Yennora_IMG_15_crop1.txt"
+}

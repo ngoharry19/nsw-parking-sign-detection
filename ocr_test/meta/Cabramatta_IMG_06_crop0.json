@@ -1,0 +1,13 @@
+{
+  "image_id": "Cabramatta_IMG_06",
+  "crop_id": 0,
+  "bbox": [
+    119,
+    90,
+    197,
+    158
+  ],
+  "score": 0.90237,
+  "crop_file": "Cabramatta_IMG_06_crop0.png",
+  "gt_file": "Cabramatta_IMG_06_crop0.txt"
+}

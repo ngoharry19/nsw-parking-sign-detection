@@ -1,0 +1,13 @@
+{
+  "image_id": "Fairfield_IMG_19",
+  "crop_id": 1,
+  "bbox": [
+    184,
+    262,
+    292,
+    401
+  ],
+  "score": 0.92936,
+  "crop_file": "Fairfield_IMG_19_crop1.png",
+  "gt_file": "Fairfield_IMG_19_crop1.txt"
+}

@@ -1,0 +1,3067 @@
+{
+  "Cabramatta_IMG_01_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.997397243976593,
+      0.9996337294578552
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0985154867172242,
+    "metric_enhanced": 1.099216914176941,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_02_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9995386600494385,
+      0.9995198249816895
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.099529242515564,
+    "metric_enhanced": 1.0992555379867555,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_03_crop0.png": {
+    "texts": [
+      "1P",
+      "1030-6"
+    ],
+    "scores": [
+      0.9975650310516357,
+      0.9933335781097412
+    ],
+    "merged_text": "1P 1030-6",
+    "which_version": "enhanced",
+    "metric_original": 1.0781383275985719,
+    "metric_enhanced": 1.0954493045806886,
+    "gt_lines": [
+      "1P",
+      "1030AM-6PM"
+    ],
+    "gt_merged": "1P 1030AM-6PM"
+  },
+  "Cabramatta_IMG_03_crop1.png": {
+    "texts": [
+      "1P",
+      "830",
+      "6"
+    ],
+    "scores": [
+      0.9988547563552856,
+      0.9981458187103271,
+      0.9998260140419006
+    ],
+    "merged_text": "1P 830 6",
+    "which_version": "original",
+    "metric_original": 1.148942196369171,
+    "metric_enhanced": 0.8629495695233345,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM"
+    ],
+    "gt_merged": "1P 830AM-6PM"
+  },
+  "Cabramatta_IMG_04_crop0.png": {
+    "texts": [
+      "1P",
+      "830-6"
+    ],
+    "scores": [
+      0.9978314638137817,
+      0.983420729637146
+    ],
+    "merged_text": "1P 830-6",
+    "which_version": "original",
+    "metric_original": 1.090626096725464,
+    "metric_enhanced": 1.0642570018768311,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM"
+    ],
+    "gt_merged": "1P 830AM-6PM"
+  },
+  "Cabramatta_IMG_04_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9986590147018433,
+      0.9894464612007141
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.0490415573120118,
+    "metric_enhanced": 1.0940527379512788,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_05_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.997483491897583,
+      0.9993687868118286
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.098426139354706,
+    "metric_enhanced": 1.0989272058010102,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_05_crop1.png": {
+    "texts": [
+      "PICK UP ε",
+      "SET DOWN",
+      "AREA"
+    ],
+    "scores": [
+      0.9368648529052734,
+      0.9651458859443665,
+      0.9997643828392029
+    ],
+    "merged_text": "PICK UP ε SET DOWN AREA",
+    "which_version": "original",
+    "metric_original": 1.117258373896281,
+    "metric_enhanced": 0.6561533749103546,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Cabramatta_IMG_06_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE"
+    ],
+    "scores": [
+      0.9993299841880798,
+      0.9989548921585083
+    ],
+    "merged_text": "LOADING ZONE",
+    "which_version": "original",
+    "metric_original": 1.0991424381732942,
+    "metric_enhanced": 1.099180167913437,
+    "gt_lines": [
+      "LOADING",
+      "ZONE"
+    ],
+    "gt_merged": "LOADING ZONE"
+  },
+  "Cabramatta_IMG_07_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE"
+    ],
+    "scores": [
+      0.9992898106575012,
+      0.9996132254600525
+    ],
+    "merged_text": "LOADING ZONE",
+    "which_version": "original",
+    "metric_original": 1.099451518058777,
+    "metric_enhanced": 1.09942484498024,
+    "gt_lines": [
+      "LOADING",
+      "ZONE"
+    ],
+    "gt_merged": "LOADING ZONE"
+  },
+  "Cabramatta_IMG_08_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9994977116584778
+    ],
+    "merged_text": "ON",
+    "which_version": "original",
+    "metric_original": 1.0494977116584778,
+    "metric_enhanced": 1.0496910095214844,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_08_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9996628761291504,
+      0.9989975094795227
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0993301928043366,
+    "metric_enhanced": 1.099459445476532,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "Cabramatta_IMG_09_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9987589120864868,
+      0.9996103644371033
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0991846382617951,
+    "metric_enhanced": 1.0995860159397126,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_10_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "scores": [
+      0.9993995428085327,
+      0.999691367149353,
+      0.9923815727233887,
+      0.9998537302017212,
+      0.9997903108596802,
+      0.9996654987335205
+    ],
+    "merged_text": "LOADING ZONE 15 MINUTES PARALLEL PARKING ONLY",
+    "which_version": "original",
+    "metric_original": 1.2984636704126995,
+    "metric_enhanced": 1.2979756971200307,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "gt_merged": "LOADING ZONE 15 MINUTES PARALLEL PARKING ONLY"
+  },
+  "Cabramatta_IMG_10_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9975626468658447,
+      0.9987659454345703
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0981642961502076,
+    "metric_enhanced": 0.8175721079111099,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_10_crop2.png": {
+    "texts": [
+      "9",
+      "SHOP"
+    ],
+    "scores": [
+      0.9929023385047913,
+      0.9968423247337341
+    ],
+    "merged_text": "9 SHOP",
+    "which_version": "enhanced",
+    "metric_original": 0.7939398169517518,
+    "metric_enhanced": 1.0948723316192628,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Cabramatta_IMG_11_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9994626045227051
+    ],
+    "merged_text": "ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7922246664762497,
+    "metric_enhanced": 1.0494626045227051,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_11_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "scores": [
+      0.9992135763168335,
+      0.9997203350067139,
+      0.98589688539505,
+      0.9998511075973511,
+      0.9991923570632935,
+      0.9991717338562012
+    ],
+    "merged_text": "LOADING ZONE 15 MINUTES PARALLEL PARKING ONLY",
+    "which_version": "original",
+    "metric_original": 1.2971743325392406,
+    "metric_enhanced": 1.2986437658468883,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "gt_merged": "LOADING ZONE 15 MINUTES PARALLEL PARKING ONLY"
+  },
+  "Cabramatta_IMG_12_crop0.png": {
+    "texts": [
+      "SOPPAG",
+      "ON"
+    ],
+    "scores": [
+      0.33960509300231934,
+      0.9991029500961304
+    ],
+    "merged_text": "SOPPAG ON",
+    "which_version": "original",
+    "metric_original": 0.7693540215492248,
+    "metric_enhanced": 0.757418817281723,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_12_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "scores": [
+      0.9996505379676819,
+      0.999754011631012,
+      0.9996377229690552,
+      0.9992740750312805,
+      0.9993789792060852
+    ],
+    "merged_text": "LOADING ZONE PARALLEL PARKING ONLY",
+    "which_version": "original",
+    "metric_original": 1.249539065361023,
+    "metric_enhanced": 1.2494267463684081,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "gt_merged": "LOADING ZONE PARALLEL PARKING ONLY"
+  },
+  "Cabramatta_IMG_13_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES"
+    ],
+    "scores": [
+      0.9997133016586304,
+      0.9998420476913452,
+      0.9903380274772644
+    ],
+    "merged_text": "LOADING ZONE 15 MINUTES",
+    "which_version": "original",
+    "metric_original": 1.14663112560908,
+    "metric_enhanced": 1.1404582500457763,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES"
+    ],
+    "gt_merged": "LOADING ZONE 15 MINUTES"
+  },
+  "Cabramatta_IMG_13_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9991406798362732,
+      0.9997551441192627
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.099447911977768,
+    "metric_enhanced": 1.0995439052581788,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_14_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830-6",
+      "PM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9990901350975037,
+      0.9997942447662354,
+      0.921883761882782,
+      0.9909930229187012,
+      0.9737378358840942
+    ],
+    "merged_text": "LOADING ZONE 830-6 PM MON - FRI",
+    "which_version": "enhanced",
+    "metric_original": 1.1803121238946914,
+    "metric_enhanced": 1.2270998001098632,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_14_crop1.png": {
+    "texts": [
+      "12P",
+      "830",
+      "30",
+      "AM",
+      "PM"
+    ],
+    "scores": [
+      0.9881951808929443,
+      0.9996070265769958,
+      0.9983501434326172,
+      0.9948078393936157,
+      0.9999291896820068
+    ],
+    "merged_text": "12P 830 30 AM PM",
+    "which_version": "enhanced",
+    "metric_original": 1.2137692054112752,
+    "metric_enhanced": 1.246177875995636,
+    "gt_lines": [
+      "1/2P",
+      "830AM-630PM"
+    ],
+    "gt_merged": "1/2P 830AM-630PM"
+  },
+  "Cabramatta_IMG_14_crop2.png": {
+    "texts": [
+      "P",
+      "830-6",
+      "2",
+      "SAT-SUN"
+    ],
+    "scores": [
+      0.99842369556427,
+      0.9717952609062195,
+      0.9997748732566833,
+      0.9998513460159302
+    ],
+    "merged_text": "P 830-6 2 SAT-SUN",
+    "which_version": "original",
+    "metric_original": 1.1924612939357757,
+    "metric_enhanced": 1.0953591108322143,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_14_crop3.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Cabramatta_IMG_15_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830-6",
+      "MON -FRI"
+    ],
+    "scores": [
+      0.9996567964553833,
+      0.9996711611747742,
+      0.9672702550888062,
+      0.9358364343643188
+    ],
+    "merged_text": "LOADING ZONE 830-6 MON -FRI",
+    "which_version": "original",
+    "metric_original": 1.1756086617708206,
+    "metric_enhanced": 1.1162605702877044,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_15_crop1.png": {
+    "texts": [
+      "12P",
+      "830-6",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.9805907607078552,
+      0.9836206436157227,
+      0.9969154596328735
+    ],
+    "merged_text": "12P 830-6 MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.1370422879854838,
+    "metric_enhanced": 1.141762657960256,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_15_crop2.png": {
+    "texts": [
+      "P",
+      "830-6",
+      "12",
+      "SAT-SU"
+    ],
+    "scores": [
+      0.9941409230232239,
+      0.9972016215324402,
+      0.898707389831543,
+      0.9980349540710449
+    ],
+    "merged_text": "P 830-6 12 SAT-SU",
+    "which_version": "original",
+    "metric_original": 1.172021222114563,
+    "metric_enhanced": 1.135832291841507,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_16_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830 -6",
+      "MON- FRI"
+    ],
+    "scores": [
+      0.9993292689323425,
+      0.9996331930160522,
+      0.862433910369873,
+      0.9363671541213989
+    ],
+    "merged_text": "LOADING ZONE 830 -6 MON- FRI",
+    "which_version": "original",
+    "metric_original": 1.1494408816099166,
+    "metric_enhanced": 1.1343083202838897,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_16_crop1.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY"
+  },
+  "Cabramatta_IMG_16_crop2.png": {
+    "texts": [
+      "P",
+      "830-6",
+      "SAT-SUN"
+    ],
+    "scores": [
+      0.9901207685470581,
+      0.9947673678398132,
+      0.9976587891578674
+    ],
+    "merged_text": "P 830-6 SAT-SUN",
+    "which_version": "original",
+    "metric_original": 1.144182308514913,
+    "metric_enhanced": 0.9866175492604574,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_17_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830",
+      "6",
+      "MON",
+      "- FRI"
+    ],
+    "scores": [
+      0.9995317459106445,
+      0.9997425675392151,
+      0.9917184710502625,
+      0.9998897314071655,
+      0.9996598362922668,
+      0.9240144491195679
+    ],
+    "merged_text": "LOADING ZONE 830 6 MON - FRI",
+    "which_version": "original",
+    "metric_original": 1.2857594668865204,
+    "metric_enhanced": 1.1887793511152267,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_17_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9994173049926758,
+      0.9989438056945801
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7810484677553177,
+    "metric_enhanced": 1.099180555343628,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_17_crop2.png": {
+    "texts": [
+      "P",
+      "830",
+      "AM",
+      "SAT-SUN"
+    ],
+    "scores": [
+      0.9943247437477112,
+      0.9989655017852783,
+      0.9163130521774292,
+      0.9983619451522827
+    ],
+    "merged_text": "P 830 AM SAT-SUN",
+    "which_version": "original",
+    "metric_original": 1.1769913107156753,
+    "metric_enhanced": 1.1810151904821395,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_18_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830",
+      "6PM",
+      "MON -FRI"
+    ],
+    "scores": [
+      0.999715268611908,
+      0.9997217655181885,
+      0.9993287920951843,
+      0.9831359386444092,
+      0.9479049444198608
+    ],
+    "merged_text": "LOADING ZONE 830 6PM MON -FRI",
+    "which_version": "original",
+    "metric_original": 1.23596134185791,
+    "metric_enhanced": 1.133277279138565,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_18_crop1.png": {
+    "texts": [
+      "/2",
+      "P",
+      "830",
+      "SAT - SUN",
+      "Δ M"
+    ],
+    "scores": [
+      0.9920295476913452,
+      0.9949589967727661,
+      0.9936984181404114,
+      0.9558742046356201,
+      0.808044970035553
+    ],
+    "merged_text": "/2 P 830 SAT - SUN Δ M",
+    "which_version": "original",
+    "metric_original": 1.198921227455139,
+    "metric_enhanced": 1.1028799384832382,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_18_crop2.png": {
+    "texts": [
+      "1/2P",
+      "8",
+      "30",
+      "-6"
+    ],
+    "scores": [
+      0.6304967999458313,
+      0.9971686005592346,
+      0.9979379177093506,
+      0.9987287521362305
+    ],
+    "merged_text": "1/2P 8 30 -6",
+    "which_version": "original",
+    "metric_original": 1.1060830175876617,
+    "metric_enhanced": 0.9722980618476867,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM"
+    ],
+    "gt_merged": "1/2P 830AM-6PM"
+  },
+  "Cabramatta_IMG_19_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9983935952186584,
+      0.9951653480529785
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0967794716358186,
+    "metric_enhanced": 1.099231219291687,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_19_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830-6",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.9995611310005188,
+      0.9996934533119202,
+      0.9762935638427734,
+      0.9977468252182007
+    ],
+    "merged_text": "LOADING ZONE 830-6 MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.1933237433433532,
+    "metric_enhanced": 1.1613985419273376,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_19_crop2.png": {
+    "texts": [
+      "P",
+      "2",
+      "PA",
+      "SAT - SUN"
+    ],
+    "scores": [
+      0.9812914133071899,
+      0.9228143692016602,
+      0.35827964544296265,
+      0.922039270401001
+    ],
+    "merged_text": "P 2 PA SAT - SUN",
+    "which_version": "original",
+    "metric_original": 0.9961061745882034,
+    "metric_enhanced": 0.9989260181784629,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_20_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "scores": [
+      0.9995543360710144,
+      0.9997264742851257,
+      0.9997838735580444,
+      0.9997459650039673,
+      0.9996433854103088
+    ],
+    "merged_text": "LOADING ZONE PARALLEL PARKING ONLY",
+    "which_version": "original",
+    "metric_original": 1.2496908068656922,
+    "metric_enhanced": 1.2496823787689209,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "PARALLEL",
+      "PARKING",
+      "ONLY"
+    ],
+    "gt_merged": "LOADING ZONE PARALLEL PARKING ONLY"
+  },
+  "Cabramatta_IMG_20_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9996058940887451,
+      0.9996017217636108
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7630495190620422,
+    "metric_enhanced": 1.099603807926178,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_21_crop0.png": {
+    "texts": [
+      "830-630"
+    ],
+    "scores": [
+      0.9341740608215332
+    ],
+    "merged_text": "830-630",
+    "which_version": "original",
+    "metric_original": 0.9841740608215332,
+    "metric_enhanced": 0.9690820932388305,
+    "gt_lines": [
+      "1/2P",
+      "830AM-630PM"
+    ],
+    "gt_merged": "1/2P 830AM-630PM"
+  },
+  "Cabramatta_IMG_21_crop1.png": {
+    "texts": [
+      "SIOPPAND",
+      "ON"
+    ],
+    "scores": [
+      0.3696328401565552,
+      0.999244213104248
+    ],
+    "merged_text": "SIOPPAND ON",
+    "which_version": "original",
+    "metric_original": 0.7844385266304016,
+    "metric_enhanced": 0.7943014711141586,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_22_crop0.png": {
+    "texts": [
+      "8",
+      "2I-",
+      "-6"
+    ],
+    "scores": [
+      0.5404514074325562,
+      0.5845319628715515,
+      0.9766628742218018
+    ],
+    "merged_text": "8 2I- -6",
+    "which_version": "enhanced",
+    "metric_original": 0.6810437917709351,
+    "metric_enhanced": 0.8505487481753031,
+    "gt_lines": [
+      "1/2P",
+      "8AM-6PM"
+    ],
+    "gt_merged": "1/2P 8AM-6PM"
+  },
+  "Cabramatta_IMG_22_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "8AM-6PM"
+    ],
+    "scores": [
+      0.9997158050537109,
+      0.9997713565826416,
+      0.9284573197364807
+    ],
+    "merged_text": "LOADING ZONE 8AM-6PM",
+    "which_version": "enhanced",
+    "metric_original": 1.0897680958112081,
+    "metric_enhanced": 1.1259814937909445,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "8AM-6PM"
+    ],
+    "gt_merged": "LOADING ZONE 8AM-6PM"
+  },
+  "Cabramatta_IMG_23_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9967484474182129,
+      0.9993640780448914
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0980562627315522,
+    "metric_enhanced": 1.0989683628082276,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_23_crop1.png": {
+    "texts": [
+      "POLICE",
+      "VEHICLES",
+      "EXCEPTED"
+    ],
+    "scores": [
+      0.9997856020927429,
+      0.999417781829834,
+      0.9995704889297485
+    ],
+    "merged_text": "POLICE VEHICLES EXCEPTED",
+    "which_version": "original",
+    "metric_original": 1.149591290950775,
+    "metric_enhanced": 1.1494730154673258,
+    "gt_lines": [
+      "POLICE",
+      "VEHICLES",
+      "EXCEPTED"
+    ],
+    "gt_merged": "POLICE VEHICLES EXCEPTED"
+  },
+  "Cabramatta_IMG_23_crop2.png": {
+    "texts": [
+      "VAN CHUYÉN &",
+      "HANG UC VÉ"
+    ],
+    "scores": [
+      0.9726641774177551,
+      0.943069338798523
+    ],
+    "merged_text": "VAN CHUYÉN & HANG UC VÉ",
+    "which_version": "enhanced",
+    "metric_original": 1.0211096167564393,
+    "metric_enhanced": 1.0578667581081391,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Cabramatta_IMG_24_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830.",
+      "AM",
+      "OPM",
+      "MON -FRI"
+    ],
+    "scores": [
+      0.9996423125267029,
+      0.9997515678405762,
+      0.9031230211257935,
+      0.999358057975769,
+      0.9578051567077637,
+      0.957791268825531
+    ],
+    "merged_text": "LOADING ZONE 830. AM OPM MON -FRI",
+    "which_version": "original",
+    "metric_original": 1.2695785641670227,
+    "metric_enhanced": 1.2331151147683461,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_24_crop1.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9995876550674438,
+      0.9974130988121033
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "original",
+    "metric_original": 1.0985003769397736,
+    "metric_enhanced": 1.089723175764084,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Cabramatta_IMG_24_crop2.png": {
+    "texts": [
+      "/2",
+      "P",
+      "830-6",
+      "SAT-SUN"
+    ],
+    "scores": [
+      0.9958902597427368,
+      0.9840154647827148,
+      0.9772588610649109,
+      0.9994009137153625
+    ],
+    "merged_text": "/2 P 830-6 SAT-SUN",
+    "which_version": "enhanced",
+    "metric_original": 1.1418025533358256,
+    "metric_enhanced": 1.1891413748264312,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "Cabramatta_IMG_25_crop0.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "830-6",
+      "PM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9992597699165344,
+      0.9998408555984497,
+      0.920488178730011,
+      0.9985135793685913,
+      0.9568583369255066
+    ],
+    "merged_text": "LOADING ZONE 830-6 PM MON - FRI",
+    "which_version": "enhanced",
+    "metric_original": 1.0597496524453163,
+    "metric_enhanced": 1.2249921441078186,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "830AM-6PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "LOADING ZONE 830AM-6PM MON-FRI"
+  },
+  "Cabramatta_IMG_25_crop1.png": {
+    "texts": [
+      "1/2P",
+      "830",
+      "-630"
+    ],
+    "scores": [
+      0.8937003016471863,
+      0.9029237627983093,
+      0.8644232153892517
+    ],
+    "merged_text": "1/2P 830 -630",
+    "which_version": "original",
+    "metric_original": 1.0370157599449157,
+    "metric_enhanced": 1.0289193451404572,
+    "gt_lines": [
+      "1/2P",
+      "830AM-630PM"
+    ],
+    "gt_merged": "1/2P 830AM-630PM"
+  },
+  "Cabramatta_IMG_25_crop2.png": {
+    "texts": [
+      "P",
+      "830",
+      "2",
+      "SAT-SUN"
+    ],
+    "scores": [
+      0.9985235333442688,
+      0.9941225051879883,
+      0.924654483795166,
+      0.9997939467430115
+    ],
+    "merged_text": "P 830 2 SAT-SUN",
+    "which_version": "original",
+    "metric_original": 1.1792736172676086,
+    "metric_enhanced": 1.1720440804958343,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "SAT-SUN"
+    ],
+    "gt_merged": "1/2P 830AM-6PM SAT-SUN"
+  },
+  "CanleyVale_IMG_01_crop0.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9994454979896545,
+      0.9993038177490234
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.099374657869339,
+    "metric_enhanced": 1.0988697767257691,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "CanleyVale_IMG_02_crop0.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9995308518409729,
+      0.9994695782661438
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0995002150535584,
+    "metric_enhanced": 1.0996674358844758,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "CanleyVale_IMG_03_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9993130564689636
+    ],
+    "merged_text": "ON",
+    "which_version": "original",
+    "metric_original": 1.0493130564689637,
+    "metric_enhanced": 0.7531836837530136,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_04_crop0.png": {
+    "texts": [
+      "1P",
+      "830-6",
+      "MON-ERI",
+      "830-12",
+      "30"
+    ],
+    "scores": [
+      0.9972807168960571,
+      0.980593204498291,
+      0.9303812980651855,
+      0.9541627764701843,
+      0.9994509220123291
+    ],
+    "merged_text": "1P 830-6 MON-ERI 830-12 30",
+    "which_version": "enhanced",
+    "metric_original": 1.031769399344921,
+    "metric_enhanced": 1.2223737835884094,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT"
+  },
+  "CanleyVale_IMG_04_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9992392063140869,
+      0.9997638463973999
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7834110468626022,
+    "metric_enhanced": 1.0995015263557435,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_05_crop0.png": {
+    "texts": [
+      "830-1230",
+      "8-6",
+      "MON-F0",
+      "P"
+    ],
+    "scores": [
+      0.9342026710510254,
+      0.9932864308357239,
+      0.6788408160209656,
+      0.701703667640686
+    ],
+    "merged_text": "830-1230 8-6 MON-F0 P",
+    "which_version": "enhanced",
+    "metric_original": 0.9397094289461771,
+    "metric_enhanced": 1.0270083963871002,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT"
+  },
+  "CanleyVale_IMG_05_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9973950386047363,
+      0.9991563558578491
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7628124415874481,
+    "metric_enhanced": 1.0982756972312928,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_06_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.996098518371582,
+      0.9996426105499268
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0978705644607545,
+    "metric_enhanced": 1.0972383677959443,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_07_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9186052083969116,
+      0.9941256046295166
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0563654065132142,
+    "metric_enhanced": 0.0,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_08_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9996123313903809
+    ],
+    "merged_text": "ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7721048951148987,
+    "metric_enhanced": 1.049612331390381,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_09_crop0.png": {
+    "texts": [
+      "8",
+      "30-9",
+      "30",
+      "AM",
+      "2",
+      "30",
+      "4",
+      "00",
+      "PM",
+      "PM",
+      "SCHOOL DAYS"
+    ],
+    "scores": [
+      0.9998425245285034,
+      0.7960490584373474,
+      0.9994301795959473,
+      0.9882065057754517,
+      0.9996395111083984,
+      0.9996329545974731,
+      0.9999417066574097,
+      0.9753222465515137,
+      0.9744094610214233,
+      0.9962286949157715,
+      0.9943342804908752
+    ],
+    "merged_text": "8 30-9 30 AM 2 30 4 00 PM PM SCHOOL DAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.3772001728415488,
+    "metric_enhanced": 1.5248215566981922,
+    "gt_lines": [
+      "830AM-930AM",
+      "230PM-400PM",
+      "SCHOOL DAYS"
+    ],
+    "gt_merged": "830AM-930AM 230PM-400PM SCHOOL DAYS"
+  },
+  "CanleyVale_IMG_09_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9959776401519775,
+      0.9995348453521729
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0977562427520753,
+    "metric_enhanced": 1.0986597895622254,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_09_crop2.png": {
+    "texts": [
+      "PASSENGER",
+      "SET DOWN",
+      "OR PICK UP.",
+      "PERMITTED"
+    ],
+    "scores": [
+      0.9998982548713684,
+      0.999168872833252,
+      0.9658312201499939,
+      0.99953693151474
+    ],
+    "merged_text": "PASSENGER SET DOWN OR PICK UP. PERMITTED",
+    "which_version": "original",
+    "metric_original": 1.1911088198423385,
+    "metric_enhanced": 1.1986155480146408,
+    "gt_lines": [
+      "PASSENGER",
+      "SET DOWN",
+      "OR PICK UP",
+      "PERMITTED"
+    ],
+    "gt_merged": "PASSENGER SET DOWN OR PICK UP PERMITTED"
+  },
+  "CanleyVale_IMG_10_crop0.png": {
+    "texts": [
+      "SIOPPAND",
+      "ON"
+    ],
+    "scores": [
+      0.3179018497467041,
+      0.9989433288574219
+    ],
+    "merged_text": "SIOPPAND ON",
+    "which_version": "original",
+    "metric_original": 0.758422589302063,
+    "metric_enhanced": 0.7616352796554565,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_10_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9996774196624756,
+      0.9996830224990845
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0996802210807801,
+    "metric_enhanced": 1.0996253550052644,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "CanleyVale_IMG_11_crop0.png": {
+    "texts": [
+      "AA",
+      "8306",
+      "Wa",
+      "2P"
+    ],
+    "scores": [
+      0.8207364082336426,
+      0.829719603061676,
+      0.6281747221946716,
+      0.9972015619277954
+    ],
+    "merged_text": "AA 8306 Wa 2P",
+    "which_version": "enhanced",
+    "metric_original": 0.7184148271878561,
+    "metric_enhanced": 1.0189580738544464,
+    "gt_lines": [
+      "2P",
+      "830AM-6PM"
+    ],
+    "gt_merged": "2P 830AM-6PM"
+  },
+  "CanleyVale_IMG_11_crop1.png": {
+    "texts": [
+      "830",
+      "AA",
+      "9",
+      "2P"
+    ],
+    "scores": [
+      0.9923431277275085,
+      0.8689146041870117,
+      0.9983507394790649,
+      0.9942029714584351
+    ],
+    "merged_text": "830 AA 9 2P",
+    "which_version": "enhanced",
+    "metric_original": 1.1336771607398988,
+    "metric_enhanced": 1.163452860713005,
+    "gt_lines": [
+      "2P",
+      "830AM-6PM"
+    ],
+    "gt_merged": "2P 830AM-6PM"
+  },
+  "CanleyVale_IMG_12_crop0.png": {
+    "texts": [
+      "2P",
+      "830",
+      "-630"
+    ],
+    "scores": [
+      0.9966460466384888,
+      0.9927210211753845,
+      0.9927834272384644
+    ],
+    "merged_text": "2P 830 -630",
+    "which_version": "original",
+    "metric_original": 1.144050165017446,
+    "metric_enhanced": 1.0198817908763886,
+    "gt_lines": [
+      "2P",
+      "830AM-630PM"
+    ],
+    "gt_merged": "2P 830AM-630PM"
+  },
+  "CanleyVale_IMG_12_crop1.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9995492100715637,
+      0.9992496967315674
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7630101203918457,
+    "metric_enhanced": 1.0993994534015656,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_12_crop2.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "CanleyVale_IMG_13_crop0.png": {
+    "texts": [
+      "NO",
+      "STCPPING"
+    ],
+    "scores": [
+      0.9985332489013672,
+      0.9764955639839172
+    ],
+    "merged_text": "NO STCPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.0713401198387147,
+    "metric_enhanced": 1.0875144064426423,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "CanleyVale_IMG_14_crop0.png": {
+    "texts": [
+      "TAXI",
+      "ZONE"
+    ],
+    "scores": [
+      0.9997905492782593,
+      0.8640695810317993
+    ],
+    "merged_text": "TAXI ZONE",
+    "which_version": "enhanced",
+    "metric_original": 0.9786936104297638,
+    "metric_enhanced": 1.0319300651550294,
+    "gt_lines": [
+      "TAXI",
+      "ZONE"
+    ],
+    "gt_merged": "TAXI ZONE"
+  },
+  "CanleyVale_IMG_14_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9979290962219238,
+      0.999286413192749
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "enhanced",
+    "metric_original": 0.7799207329750061,
+    "metric_enhanced": 1.0986077547073365,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "CanleyVale_IMG_15_crop0.png": {
+    "texts": [
+      "1P",
+      "830-6",
+      "MON",
+      "TRI",
+      "830-1230",
+      "SAT"
+    ],
+    "scores": [
+      0.9959319829940796,
+      0.9335299730300903,
+      0.9985372424125671,
+      0.9177863001823425,
+      0.997338056564331,
+      0.9979708194732666
+    ],
+    "merged_text": "1P 830-6 MON TRI 830-1230 SAT",
+    "which_version": "enhanced",
+    "metric_original": 1.2368895649909972,
+    "metric_enhanced": 1.2735157291094463,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-1230PM SAT"
+  },
+  "CanleyVale_IMG_16_crop0.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9995920062065125,
+      0.9994151592254639
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0995035827159882,
+    "metric_enhanced": 1.099550759792328,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "CanleyVale_IMG_16_crop1.png": {
+    "texts": [
+      "MAIL",
+      "ZONE"
+    ],
+    "scores": [
+      0.999849796295166,
+      0.9994688034057617
+    ],
+    "merged_text": "MAIL ZONE",
+    "which_version": "original",
+    "metric_original": 1.099659299850464,
+    "metric_enhanced": 1.0997633993625642,
+    "gt_lines": [
+      "MAIL",
+      "ZONE"
+    ],
+    "gt_merged": "MAIL ZONE"
+  },
+  "Fairfield_IMG_01_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9990861415863037,
+      0.9995224475860596
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7664359271526336,
+    "metric_enhanced": 1.0993042945861817,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_01_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9997336268424988,
+      0.9995957016944885
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0996646642684937,
+    "metric_enhanced": 0.6808209478855133,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "Fairfield_IMG_02_crop0.png": {
+    "texts": [
+      "SIOPPAIS",
+      "ON"
+    ],
+    "scores": [
+      0.34407150745391846,
+      0.9995559453964233
+    ],
+    "merged_text": "SIOPPAIS ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7529588550329208,
+    "metric_enhanced": 0.7718137264251709,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_02_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9998202323913574,
+      0.9996259212493896
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0997230768203736,
+    "metric_enhanced": 1.099763071537018,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "Fairfield_IMG_03_crop0.png": {
+    "texts": [
+      "83-6.",
+      "83-4."
+    ],
+    "scores": [
+      0.7504862546920776,
+      0.9478009343147278
+    ],
+    "merged_text": "83-6. 83-4.",
+    "which_version": "enhanced",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.9491435945034027,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_04_crop0.png": {
+    "texts": [
+      "SIOPPAC",
+      "ON"
+    ],
+    "scores": [
+      0.350525438785553,
+      0.9994959235191345
+    ],
+    "merged_text": "SIOPPAC ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7522383987903595,
+    "metric_enhanced": 0.7750106811523437,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_04_crop1.png": {
+    "texts": [
+      "PICK UP ε",
+      "SET DOWN",
+      "AREA"
+    ],
+    "scores": [
+      0.9153754711151123,
+      0.9994534254074097,
+      0.999782919883728
+    ],
+    "merged_text": "PICK UP ε SET DOWN AREA",
+    "which_version": "original",
+    "metric_original": 1.1215372721354167,
+    "metric_enhanced": 0.7303981224695841,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Fairfield_IMG_05_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9983478784561157,
+      0.9988523721694946
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0986001253128053,
+    "metric_enhanced": 1.0989489912986756,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_06_crop0.png": {
+    "texts": [
+      "819-4",
+      "839-6"
+    ],
+    "scores": [
+      0.875245213508606,
+      0.901063084602356
+    ],
+    "merged_text": "819-4 839-6",
+    "which_version": "enhanced",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.9881541490554809,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_06_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9984843730926514,
+      0.9983577132225037
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0984210431575776,
+    "metric_enhanced": 1.099250501394272,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_07_crop0.png": {
+    "texts": [
+      "2P",
+      "830-6",
+      "MON-FRI",
+      "8",
+      "30.-4",
+      "AH",
+      "SSAT"
+    ],
+    "scores": [
+      0.9905717372894287,
+      0.9256854057312012,
+      0.9750295877456665,
+      0.9998334646224976,
+      0.9575181007385254,
+      0.35837751626968384,
+      0.9979786276817322
+    ],
+    "merged_text": "2P 830-6 MON-FRI 8 30.-4 AH SSAT",
+    "which_version": "enhanced",
+    "metric_original": 1.2053768515586853,
+    "metric_enhanced": 1.236427777154105,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_07_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE"
+    ],
+    "scores": [
+      0.9992824196815491,
+      0.9997095465660095
+    ],
+    "merged_text": "LOADING ZONE",
+    "which_version": "original",
+    "metric_original": 1.0994959831237794,
+    "metric_enhanced": 0.4545861095190048,
+    "gt_lines": [
+      "LOADING",
+      "ZONE"
+    ],
+    "gt_merged": "LOADING ZONE"
+  },
+  "Fairfield_IMG_08_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9989365339279175,
+      0.9997502565383911
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7585262715816498,
+    "metric_enhanced": 1.0993433952331544,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_08_crop1.png": {
+    "texts": [
+      "LOADING",
+      "ZONE"
+    ],
+    "scores": [
+      0.9996200799942017,
+      0.9997941851615906
+    ],
+    "merged_text": "LOADING ZONE",
+    "which_version": "original",
+    "metric_original": 1.0997071325778962,
+    "metric_enhanced": 0.5365322738885879,
+    "gt_lines": [
+      "LOADING",
+      "ZONE"
+    ],
+    "gt_merged": "LOADING ZONE"
+  },
+  "Fairfield_IMG_09_crop0.png": {
+    "texts": [
+      "TAXI",
+      "ZONE"
+    ],
+    "scores": [
+      0.9997900724411011,
+      0.9984675645828247
+    ],
+    "merged_text": "TAXI ZONE",
+    "which_version": "original",
+    "metric_original": 1.099128818511963,
+    "metric_enhanced": 1.099805510044098,
+    "gt_lines": [
+      "TAXI",
+      "ZONE"
+    ],
+    "gt_merged": "TAXI ZONE"
+  },
+  "Fairfield_IMG_10_crop0.png": {
+    "texts": [
+      "SEIOOES",
+      "ON"
+    ],
+    "scores": [
+      0.3377718925476074,
+      0.9952865839004517
+    ],
+    "merged_text": "SEIOOES ON",
+    "which_version": "original",
+    "metric_original": 0.7665292382240295,
+    "metric_enhanced": 0.7575512588024139,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_10_crop1.png": {
+    "texts": [
+      "TAXI",
+      "ZONE"
+    ],
+    "scores": [
+      0.9994135499000549,
+      0.9995917081832886
+    ],
+    "merged_text": "TAXI ZONE",
+    "which_version": "original",
+    "metric_original": 1.0995026290416718,
+    "metric_enhanced": 1.0996209144592286,
+    "gt_lines": [
+      "TAXI",
+      "ZONE"
+    ],
+    "gt_merged": "TAXI ZONE"
+  },
+  "Fairfield_IMG_11_crop0.png": {
+    "texts": [
+      "SIOPPAC",
+      "ON"
+    ],
+    "scores": [
+      0.3911297023296356,
+      0.999463677406311
+    ],
+    "merged_text": "SIOPPAC ON",
+    "which_version": "enhanced",
+    "metric_original": 0.773810213804245,
+    "metric_enhanced": 0.7952966898679733,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_11_crop1.png": {
+    "texts": [
+      "1P",
+      "83-600",
+      "MON -FR",
+      "839-400",
+      "SATURDAY"
+    ],
+    "scores": [
+      0.9997520446777344,
+      0.8725605010986328,
+      0.877977728843689,
+      0.8818733096122742,
+      0.9957171678543091
+    ],
+    "merged_text": "1P 83-600 MON -FR 839-400 SATURDAY",
+    "which_version": "enhanced",
+    "metric_original": 1.0794240951538085,
+    "metric_enhanced": 1.1755761504173279,
+    "gt_lines": [
+      "1P",
+      "830AM-600PM",
+      "MON-FRI",
+      "830AM-400PM",
+      "SATURDAY"
+    ],
+    "gt_merged": "1P 830AM-600PM MON-FRI 830AM-400PM SATURDAY"
+  },
+  "Fairfield_IMG_12_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9985601305961609,
+      0.9995776414871216
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0990688860416413,
+    "metric_enhanced": 1.0993049502372743,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_12_crop1.png": {
+    "texts": [
+      "8",
+      "P",
+      "470"
+    ],
+    "scores": [
+      0.682512640953064,
+      0.3536321818828583,
+      0.4730790853500366
+    ],
+    "merged_text": "8 P 470",
+    "which_version": "original",
+    "metric_original": 0.6530746360619863,
+    "metric_enhanced": 0.5352865040302277,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_13_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.999549388885498,
+      0.9994850158691406
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7824278831481933,
+    "metric_enhanced": 1.0995172023773194,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_13_crop1.png": {
+    "texts": [
+      "EECCCEL",
+      "WEECIES",
+      "POEEE"
+    ],
+    "scores": [
+      0.4392676055431366,
+      0.38286489248275757,
+      0.42928051948547363
+    ],
+    "merged_text": "EECCCEL WEECIES POEEE",
+    "which_version": "original",
+    "metric_original": 0.5671376725037893,
+    "metric_enhanced": 0.5553194423516592,
+    "gt_lines": [
+      "POLICE",
+      "VEHICLES",
+      "EXCEPTED"
+    ],
+    "gt_merged": "POLICE VEHICLES EXCEPTED"
+  },
+  "Fairfield_IMG_14_crop0.png": {
+    "texts": [
+      "1P",
+      "830-6",
+      "MON-FRI",
+      "830-4",
+      "SAT"
+    ],
+    "scores": [
+      0.9994259476661682,
+      0.9964300990104675,
+      0.9960282444953918,
+      0.9963583946228027,
+      0.9990116953849792
+    ],
+    "merged_text": "1P 830-6 MON-FRI 830-4 SAT",
+    "which_version": "original",
+    "metric_original": 1.247450876235962,
+    "metric_enhanced": 1.2475913166999817,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_14_crop1.png": {
+    "texts": [
+      "1P",
+      "830-600",
+      "MON - FRI",
+      "830-1230",
+      "SATURDAY"
+    ],
+    "scores": [
+      0.998397707939148,
+      0.9982585310935974,
+      0.9317647218704224,
+      0.9852502346038818,
+      0.9997406005859375
+    ],
+    "merged_text": "1P 830-600 MON - FRI 830-1230 SATURDAY",
+    "which_version": "enhanced",
+    "metric_original": 1.214767062664032,
+    "metric_enhanced": 1.2326823592185974,
+    "gt_lines": [
+      "1P",
+      "830AM-600PM",
+      "MON-FRI",
+      "830AM-1230PM",
+      "SATURDAY"
+    ],
+    "gt_merged": "1P 830AM-600PM MON-FRI 830AM-1230PM SATURDAY"
+  },
+  "Fairfield_IMG_15_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9962576627731323,
+      0.9994694590568542
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0978635609149934,
+    "metric_enhanced": 1.0988877773284913,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_16_crop0.png": {
+    "texts": [
+      "STOPPING",
+      "ON"
+    ],
+    "scores": [
+      0.9991153478622437,
+      0.999408483505249
+    ],
+    "merged_text": "STOPPING ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7583848297595978,
+    "metric_enhanced": 1.0992619156837464,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_16_crop1.png": {
+    "texts": [
+      "1P",
+      "830-6",
+      "MON-ERI",
+      "830-4"
+    ],
+    "scores": [
+      0.9980759620666504,
+      0.9211872816085815,
+      0.8637610077857971,
+      0.9151939153671265
+    ],
+    "merged_text": "1P 830-6 MON-ERI 830-4",
+    "which_version": "enhanced",
+    "metric_original": 1.040193462371826,
+    "metric_enhanced": 1.1245545417070388,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_17_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.998144268989563,
+      0.9993969202041626
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 1.0847711324691773,
+    "metric_enhanced": 1.0987705945968629,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_18_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9989662766456604
+    ],
+    "merged_text": "ON",
+    "which_version": "original",
+    "metric_original": 1.0489662766456604,
+    "metric_enhanced": 1.0478245496749878,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_18_crop1.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9996083378791809,
+      0.9994926452636719
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0995504915714265,
+    "metric_enhanced": 1.0996222853660584,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "Fairfield_IMG_19_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9985865354537964,
+      0.9899766445159912
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0942815899848939,
+    "metric_enhanced": 1.0965955018997193,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_19_crop1.png": {
+    "texts": [
+      "EECED",
+      "FETEILEES",
+      "POCE"
+    ],
+    "scores": [
+      0.4856906533241272,
+      0.40203484892845154,
+      0.3911014199256897
+    ],
+    "merged_text": "EECED FETEILEES POCE",
+    "which_version": "original",
+    "metric_original": 0.5762756407260895,
+    "metric_enhanced": 0.5475637952486674,
+    "gt_lines": [
+      "POLICE",
+      "VEHICLES",
+      "EXCEPTED"
+    ],
+    "gt_merged": "POLICE VEHICLES EXCEPTED"
+  },
+  "Fairfield_IMG_20_crop0.png": {
+    "texts": [
+      "EECEELD",
+      "AEECIES",
+      "DOE"
+    ],
+    "scores": [
+      0.3980247974395752,
+      0.41297364234924316,
+      0.4482053816318512
+    ],
+    "merged_text": "EECEELD AEECIES DOE",
+    "which_version": "original",
+    "metric_original": 0.5697346071402232,
+    "metric_enhanced": 0.5740704079469046,
+    "gt_lines": [
+      "POLICE",
+      "VEHICLES",
+      "EXCEPTED"
+    ],
+    "gt_merged": "POLICE VEHICLES EXCEPTED"
+  },
+  "Fairfield_IMG_21_crop0.png": {
+    "texts": [
+      "1P",
+      "9-08",
+      "MON-FRI",
+      "830-4",
+      "AM",
+      "3",
+      "SAT"
+    ],
+    "scores": [
+      0.9997198581695557,
+      0.8007972836494446,
+      0.983087420463562,
+      0.9952064752578735,
+      0.9924277067184448,
+      0.3478826880455017,
+      0.9994015693664551
+    ],
+    "merged_text": "1P 9-08 MON-FRI 830-4 AM 3 SAT",
+    "which_version": "original",
+    "metric_original": 1.2240747145244053,
+    "metric_enhanced": 1.202962338924408,
+    "gt_lines": [
+      "1P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_21_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9981873631477356,
+      0.9996743202209473
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0989308416843415,
+    "metric_enhanced": 1.0990397393703462,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Fairfield_IMG_22_crop0.png": {
+    "texts": [
+      "1/2P",
+      "830-6",
+      "MON",
+      "830-4",
+      "SAT"
+    ],
+    "scores": [
+      0.8879897594451904,
+      0.9971978068351746,
+      0.9870960712432861,
+      0.9897039532661438,
+      0.9981947541236877
+    ],
+    "merged_text": "1/2P 830-6 MON 830-4 SAT",
+    "which_version": "original",
+    "metric_original": 1.2220364689826966,
+    "metric_enhanced": 1.2093462467193603,
+    "gt_lines": [
+      "1/2P",
+      "830AM-6PM",
+      "MON-FRI",
+      "830AM-4PM",
+      "SAT"
+    ],
+    "gt_merged": "1/2P 830AM-6PM MON-FRI 830AM-4PM SAT"
+  },
+  "Fairfield_IMG_22_crop1.png": {
+    "texts": [
+      "5°ANGLE PARKING",
+      "FRONT",
+      "TO",
+      "KERB"
+    ],
+    "scores": [
+      0.9829047918319702,
+      0.9996767044067383,
+      0.9955345392227173,
+      0.9946756958961487
+    ],
+    "merged_text": "5°ANGLE PARKING FRONT TO KERB",
+    "which_version": "original",
+    "metric_original": 1.1931979328393936,
+    "metric_enhanced": 1.0787842313448588,
+    "gt_lines": [
+      "45 ANGLE PARKING",
+      "FRONT TO KERB",
+      "VEHICLES UNDER 6.5M ONLY"
+    ],
+    "gt_merged": "45 ANGLE PARKING FRONT TO KERB VEHICLES UNDER 6.5M ONLY"
+  },
+  "Fairfield_IMG_22_crop2.png": {
+    "texts": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES"
+    ],
+    "scores": [
+      0.9995307922363281,
+      0.999704122543335,
+      0.9956857562065125
+    ],
+    "merged_text": "LOADING ZONE 15 MINUTES",
+    "which_version": "original",
+    "metric_original": 1.1483068903287252,
+    "metric_enhanced": 1.1421349088350932,
+    "gt_lines": [
+      "LOADING",
+      "ZONE",
+      "15 MINUTES"
+    ],
+    "gt_merged": "LOADING ZONE 15 MINUTES"
+  },
+  "Fairfield_IMG_23_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.999267041683197
+    ],
+    "merged_text": "ON",
+    "which_version": "original",
+    "metric_original": 1.049267041683197,
+    "metric_enhanced": 1.0491613030433655,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Parramatta_IMG_01_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9986960887908936,
+      0.9995683431625366
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0991322159767152,
+    "metric_enhanced": 0.7685836762189865,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Parramatta_IMG_01_crop1.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [
+      "P",
+      "ONLY"
+    ],
+    "gt_merged": "P ONLY"
+  },
+  "Yennora_IMG_01_crop0.png": {
+    "texts": [
+      "BUS",
+      "ZONE"
+    ],
+    "scores": [
+      0.9995467066764832,
+      0.9991343021392822
+    ],
+    "merged_text": "BUS ZONE",
+    "which_version": "original",
+    "metric_original": 1.0993405044078828,
+    "metric_enhanced": 1.099495714902878,
+    "gt_lines": [
+      "BUS",
+      "ZONE"
+    ],
+    "gt_merged": "BUS ZONE"
+  },
+  "Yennora_IMG_02_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9995524287223816,
+      0.9979894161224365
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0987709224224091,
+    "metric_enhanced": 1.0993550777435304,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_03_crop0.png": {
+    "texts": [
+      "SIIPPONS",
+      "ON"
+    ],
+    "scores": [
+      0.3702327311038971,
+      0.9992427825927734
+    ],
+    "merged_text": "SIIPPONS ON",
+    "which_version": "original",
+    "metric_original": 0.7847377568483352,
+    "metric_enhanced": 0.7812628358602524,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_04_crop0.png": {
+    "texts": [
+      "8"
+    ],
+    "scores": [
+      0.9998935461044312
+    ],
+    "merged_text": "8",
+    "which_version": "original",
+    "metric_original": 1.0498935461044312,
+    "metric_enhanced": 1.00036278963089,
+    "gt_lines": [
+      "8AM-930AM",
+      "230PM-4PM",
+      "SCHOOL DAYS"
+    ],
+    "gt_merged": "8AM-930AM 230PM-4PM SCHOOL DAYS"
+  },
+  "Yennora_IMG_05_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9991340041160583
+    ],
+    "merged_text": "ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7564401239156723,
+    "metric_enhanced": 1.0491340041160584,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_06_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9994733333587646
+    ],
+    "merged_text": "ON",
+    "which_version": "enhanced",
+    "metric_original": 0.7624402701854706,
+    "metric_enhanced": 1.0494733333587647,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_07_crop0.png": {
+    "texts": [
+      "ON"
+    ],
+    "scores": [
+      0.9967413544654846
+    ],
+    "merged_text": "ON",
+    "which_version": "original",
+    "metric_original": 1.0467413544654847,
+    "metric_enhanced": 1.0478537559509278,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_08_crop0.png": {
+    "texts": [
+      "MAIL",
+      "ZONE"
+    ],
+    "scores": [
+      0.999454915523529,
+      0.9994876384735107
+    ],
+    "merged_text": "MAIL ZONE",
+    "which_version": "original",
+    "metric_original": 1.09947127699852,
+    "metric_enhanced": 1.099436527490616,
+    "gt_lines": [
+      "MAIL",
+      "ZONE"
+    ],
+    "gt_merged": "MAIL ZONE"
+  },
+  "Yennora_IMG_10_crop0.png": {
+    "texts": [
+      "330-5",
+      "30",
+      "P",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.996313750743866,
+      0.9991410970687866,
+      0.9836075901985168,
+      0.9819105863571167
+    ],
+    "merged_text": "330-5 30 P MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.1902432560920715,
+    "metric_enhanced": 1.0485121667385102,
+    "gt_lines": [
+      "330PM-530PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "330PM-530PM MON-FRI"
+  },
+  "Yennora_IMG_11_crop0.png": {
+    "texts": [
+      "330-530",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.9987233877182007,
+      0.9921656250953674
+    ],
+    "merged_text": "330-530 MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.0954445064067841,
+    "metric_enhanced": 1.0954031109809876,
+    "gt_lines": [
+      "330PM-530PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "330PM-530PM MON-FRI"
+  },
+  "Yennora_IMG_12_crop0.png": {
+    "texts": [
+      "30",
+      "PM",
+      "MON - FRI"
+    ],
+    "scores": [
+      0.9997128844261169,
+      0.9982175827026367,
+      0.9209979176521301
+    ],
+    "merged_text": "30 PM MON - FRI",
+    "which_version": "original",
+    "metric_original": 1.1229761282602946,
+    "metric_enhanced": 1.003734334309896,
+    "gt_lines": [
+      "330PM-530PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "330PM-530PM MON-FRI"
+  },
+  "Yennora_IMG_13_crop0.png": {
+    "texts": [
+      "330-530",
+      "MON-FRI"
+    ],
+    "scores": [
+      0.9934802651405334,
+      0.9825975298881531
+    ],
+    "merged_text": "330-530 MON-FRI",
+    "which_version": "original",
+    "metric_original": 1.0880388975143434,
+    "metric_enhanced": 1.0948438107967378,
+    "gt_lines": [
+      "330PM-530PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "330PM-530PM MON-FRI"
+  },
+  "Yennora_IMG_14_crop0.png": {
+    "texts": [
+      "339-539"
+    ],
+    "scores": [
+      0.9119246602058411
+    ],
+    "merged_text": "339-539",
+    "which_version": "original",
+    "metric_original": 0.9619246602058411,
+    "metric_enhanced": 0.9622812330722809,
+    "gt_lines": [
+      "330PM-530PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "330PM-530PM MON-FRI"
+  },
+  "Yennora_IMG_15_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING",
+      "8-930",
+      "230-4",
+      "SCHOOL DAYS"
+    ],
+    "scores": [
+      0.9984637498855591,
+      0.9997501373291016,
+      0.9531456232070923,
+      0.9947736859321594,
+      0.9891664981842041
+    ],
+    "merged_text": "NO STOPPING 8-930 230-4 SCHOOL DAYS",
+    "which_version": "enhanced",
+    "metric_original": 1.1836508750915526,
+    "metric_enhanced": 1.2370599389076233,
+    "gt_lines": [
+      "NO",
+      "STOPPING",
+      "8AM-930PM",
+      "230PM-4PM",
+      "SCHOOL DAYS"
+    ],
+    "gt_merged": "NO STOPPING 8AM-930PM 230PM-4PM SCHOOL DAYS"
+  },
+  "Yennora_IMG_15_crop1.png": {
+    "texts": [],
+    "scores": [],
+    "merged_text": "",
+    "which_version": "original",
+    "metric_original": 0.0,
+    "metric_enhanced": 0.0,
+    "gt_lines": [],
+    "gt_merged": ""
+  },
+  "Yennora_IMG_16_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9995970726013184,
+      0.9990798234939575
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7666241437196731,
+    "metric_enhanced": 1.099338448047638,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_16_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING",
+      "800-930",
+      "230-400"
+    ],
+    "scores": [
+      0.9985865354537964,
+      0.999627411365509,
+      0.9853052496910095,
+      0.9831779599189758
+    ],
+    "merged_text": "NO STOPPING 800-930 230-400",
+    "which_version": "original",
+    "metric_original": 1.1916742891073226,
+    "metric_enhanced": 1.1777327626943588,
+    "gt_lines": [
+      "NO",
+      "STOPPING",
+      "800AM-930AM",
+      "230PM-400PM"
+    ],
+    "gt_merged": "NO STOPPING 800AM-930AM 230PM-400PM"
+  },
+  "Yennora_IMG_17_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9956122636795044,
+      0.9991655349731445
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.0973888993263246,
+    "metric_enhanced": 1.0968992471694947,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_18_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9975218772888184,
+      0.9993917942047119
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "enhanced",
+    "metric_original": 0.7826032847166061,
+    "metric_enhanced": 1.0984568357467652,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_18_crop1.png": {
+    "texts": [
+      "NO",
+      "STOPPING",
+      "318-519"
+    ],
+    "scores": [
+      0.9970316886901855,
+      0.9994494915008545,
+      0.8313660621643066
+    ],
+    "merged_text": "NO STOPPING 318-519",
+    "which_version": "enhanced",
+    "metric_original": 0.9826615512371063,
+    "metric_enhanced": 1.0926157474517821,
+    "gt_lines": [
+      "NO",
+      "STOPPING",
+      "330PM-530PM"
+    ],
+    "gt_merged": "NO STOPPING 330PM-530PM"
+  },
+  "Yennora_IMG_19_crop0.png": {
+    "texts": [
+      "NO",
+      "STOPPING"
+    ],
+    "scores": [
+      0.9956504106521606,
+      0.9987664818763733
+    ],
+    "merged_text": "NO STOPPING",
+    "which_version": "original",
+    "metric_original": 1.097208446264267,
+    "metric_enhanced": 1.0869790077209474,
+    "gt_lines": [
+      "NO",
+      "STOPPING"
+    ],
+    "gt_merged": "NO STOPPING"
+  },
+  "Yennora_IMG_20_crop0.png": {
+    "texts": [
+      "MON-PR",
+      "\"L",
+      "WUNNIN",
+      "5"
+    ],
+    "scores": [
+      0.7772121429443359,
+      0.6773970127105713,
+      0.38363364338874817,
+      0.9998279809951782
+    ],
+    "merged_text": "MON-PR \"L WUNNIN 5",
+    "which_version": "original",
+    "metric_original": 0.9095176950097084,
+    "metric_enhanced": 0.8953189373016357,
+    "gt_lines": [
+      "P 5",
+      "MINUTE",
+      "7AM-4PM",
+      "MON-FRI"
+    ],
+    "gt_merged": "P 5 MINUTE 7AM-4PM MON-FRI"
+  }
+}

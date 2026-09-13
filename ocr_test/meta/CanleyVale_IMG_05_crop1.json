@@ -1,0 +1,13 @@
+{
+  "image_id": "CanleyVale_IMG_05",
+  "crop_id": 1,
+  "bbox": [
+    156,
+    210,
+    245,
+    279
+  ],
+  "score": 0.94835,
+  "crop_file": "CanleyVale_IMG_05_crop1.png",
+  "gt_file": "CanleyVale_IMG_05_crop1.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "image_id": "Demo_Folder_IMG_7.jpg",
+  "image_path": "demo/image_folder/Demo_Folder_IMG_7.jpg",
+  "num_signs": 2,
+  "signs": [
+    {
+      "sign_id": 1,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "DISABLED PARKING",
+      "permit_zone": null,
+      "notes": null,
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": null,
+          "days": [],
+          "time_start": null,
+          "time_end": null,
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "OOOPPN ON",
+      "clean_text": "OOOPPN ON",
+      "source_crop": "Demo_Folder_IMG_7_crop1.png"
+    },
+    {
+      "sign_id": 2,
+      "sign_type": "RESTRICTION",
+      "restriction_sign_type": "TIME",
+      "permit_zone": "AREA 8",
+      "notes": "PERMIT HOLDERS EXCEPTED",
+      "rules": [
+        {
+          "rule_id": 1,
+          "time_limit": "2P",
+          "days": [
+            "MON",
+            "TUE",
+            "WED",
+            "THU",
+            "FRI"
+          ],
+          "time_start": "08:00",
+          "time_end": "18:00",
+          "payment_type": "FREE",
+          "notes": null
+        },
+        {
+          "rule_id": 2,
+          "time_limit": "2P",
+          "days": [
+            "SAT"
+          ],
+          "time_start": "08:00",
+          "time_end": "13:00",
+          "payment_type": "FREE",
+          "notes": null
+        }
+      ],
+      "raw_text": "2P 8AM-6PM MON-FRI 8Am-1 PM SAT PERMIT HOLDERS EXCEPTED AREA B",
+      "clean_text": "2P 8AM-6PM MON-FRI 8AM-1PM SAT PERMIT HOLDERS EXCEPTED AREA 8",
+      "source_crop": "Demo_Folder_IMG_7_crop2.png"
+    }
+  ]
+}
